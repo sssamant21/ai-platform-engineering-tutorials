@@ -51,17 +51,50 @@ All Part 1 tutorials have completed:
 
 ## Part 2 — Kubernetes Integration
 
-**Status:** ⬜ Not Started
+**Status:** ✅ Complete — 7/7
 
-| # | Tutorial | Status |
-|---|---|---|
-| 2.1 | Connecting a Kubernetes Cluster to TrueFoundry | ⬜ |
-| 2.2 | Understanding `tfy-agent` Deployment | ⬜ |
-| 2.3 | Namespaces & Workload Placement | ⬜ |
-| 2.4 | ServiceAccounts, RBAC & Permissions | ⬜ |
-| 2.5 | ConfigMaps, Secrets & Runtime Configuration | ⬜ |
-| 2.6 | Services, Ingress, DNS & TLS | ⬜ |
-| 2.7 | Storage, PVCs & Persistent Workloads | ⬜ |
+| # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
+|---|---|---|---|---|---|---|---|---|
+| 2.1 | Connecting a Kubernetes Cluster to TrueFoundry | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2.2 | Understanding `tfy-agent` Deployment | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2.3 | Namespaces & Workload Placement | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2.4 | ServiceAccounts, RBAC & Permissions | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2.5 | ConfigMaps, Secrets & Runtime Configuration | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2.6 | Services, Ingress, DNS & TLS | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| 2.7 | Storage, PVCs & Persistent Workloads | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+
+### Part 2 Completion
+
+Part 2 establishes the production Kubernetes-integration operating model for TrueFoundry:
+
+- Kubernetes cluster connection and integration validation
+- `tfy-agent` deployment, health, authorization, and reconciliation
+- namespaces and workload placement
+- ServiceAccounts, RBAC, permissions, and cloud-IAM boundaries
+- ConfigMaps, Secrets, runtime configuration, and desired-state ownership
+- Services, Ingress, DNS, TLS, endpoints, and request-path validation
+- StorageClasses, PVCs, PVs, CSI, topology, mounts, capacity, performance, and data-risk controls
+- management path vs runtime path separation
+- authoritative configuration ownership
+- Lowest Proven Healthy Layer
+- First Failed Transition
+- Minimum Supported Blast Radius
+- evidence confidence and Current Actionable Owner
+- production-safe evidence collection and incident handoff
+
+All Part 2 tutorials and `[SAFE-READ]` production validation labs have completed:
+
+**Draft → Technical/Vendor Validation → Production/SRE Review → Revised Final → Canonical → Hands-On Lab → Repository Validation**
+
+Part 2 canonical publication commits:
+
+- 2.1 — `82b171b` — Kubernetes cluster integration tutorial and lab
+- 2.2 — `0cca4d1` — `tfy-agent` deployment tutorial and lab
+- 2.3 — `19bd7ff` — namespaces and workload placement tutorial and lab
+- 2.4 — `fe35e45` — ServiceAccounts, RBAC, and permissions tutorial and lab
+- 2.5 — `20bf51e` — ConfigMaps, Secrets, and runtime configuration tutorial and lab
+- 2.6 — `bd57723` — Services, Ingress, DNS, and TLS tutorial and lab
+- 2.7 — `e5f7370` — storage, PVCs, and persistent workloads tutorial and lab
 
 ---
 
@@ -124,7 +157,7 @@ All Part 1 tutorials have completed:
 | Part | Area | Status |
 |---|---|---|
 | 1 | Foundations & Architecture | ✅ Complete — 6/6 |
-| 2 | Kubernetes Integration | ⬜ Not Started |
+| 2 | Kubernetes Integration | ✅ Complete — 7/7 |
 | 3 | Compute & Scheduling | ⬜ Not Started |
 | 4 | GPU Infrastructure | ⬜ Not Started |
 | 5 | Application Deployment | ⬜ Not Started |
@@ -141,4 +174,4 @@ All Part 1 tutorials have completed:
 
 ---
 
-**Current milestone:** Part 1 — Foundations & Architecture complete.
+**Current milestone:** Part 2 — Kubernetes Integration complete. Part 3 — Compute & Scheduling is next.
