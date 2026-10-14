@@ -25,7 +25,14 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 4 master layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md)
 
 ## Part 5 — Application Deployment
-First service, images/registries, configuration/secrets, resources, probes, endpoints, validation, rollout troubleshooting.
+- [5.1 — TrueFoundry Application Deployment Architecture and First Service](part-05-application-deployment/01-truefoundry-application-deployment-first-service/01-truefoundry-application-deployment-first-service.md) — [Hands-on Lab](part-05-application-deployment/labs/01-truefoundry-first-application-deployment-check.md) (published)
+- 5.2 — Container Images, Registries and Supply Chain (planned)
+- 5.3 — Application Configuration, Environment Variables and Secrets (planned)
+- 5.4 — Resource Requests, Limits, Probes and Workload Reliability (planned)
+- 5.5 — Services, Endpoints, Routing and Application Connectivity (planned)
+- 5.6 — Deployment Revisions, Rollouts, Rollbacks and Troubleshooting (planned)
+- 5.7 — Production Application Deployment and Recovery Capstone (planned)
+- [Part 5 master layout](part-05-application-deployment/PART-05-LAYOUT.md)
 
 ## Part 6 — Model Serving
 Model-serving fundamentals, architecture, CPU/GPU serving, storage/loading, endpoints, health/readiness, troubleshooting.
