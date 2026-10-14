@@ -20,7 +20,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [4.3 — NVIDIA Drivers, Device Plugin and GPU Operator](part-04-gpu-infrastructure/03-nvidia-drivers-device-plugin-gpu-operator/03-nvidia-drivers-device-plugin-gpu-operator.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/03-nvidia-drivers-device-plugin-gpu-operator-check.md) (published)
 - [4.4 — CUDA, Container Runtime and Compatibility](part-04-gpu-infrastructure/04-cuda-container-runtime-compatibility/04-cuda-container-runtime-compatibility.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/04-cuda-container-runtime-compatibility-check.md) (published)
 - [4.5 — Dedicated GPU Node Pools and Resource Isolation](part-04-gpu-infrastructure/05-dedicated-gpu-node-pools-isolation/05-dedicated-gpu-node-pools-isolation.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/05-dedicated-gpu-node-pools-isolation-check.md) (published)
-- 4.6 — GPU Validation, Monitoring and Troubleshooting (planned)
+- [4.6 — GPU Validation, Monitoring and Troubleshooting](part-04-gpu-infrastructure/06-gpu-validation-monitoring-troubleshooting/06-gpu-validation-monitoring-troubleshooting.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/06-gpu-validation-monitoring-troubleshooting-check.md) (published)
 - 4.7 — Production GPU Infrastructure Recovery Lab (planned)
 - [Part 4 master layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md)
 
