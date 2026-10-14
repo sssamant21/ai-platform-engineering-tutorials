@@ -7,7 +7,7 @@ Teach production GPU architecture, Kubernetes GPU placement, NVIDIA driver/devic
 | # | Chapter | Canonical | Lab |
 |---|---|---|---|
 | 4.1 | GPU Architecture and NVIDIA GPU Fundamentals | [Tutorial](01-gpu-architecture-nvidia-fundamentals/01-gpu-architecture-nvidia-fundamentals.md) | [Lab](labs/01-gpu-architecture-nvidia-fundamentals-check.md) |
-| 4.2 | GPU Nodes and Kubernetes GPU Scheduling | Planned | Planned |
+| 4.2 | GPU Nodes and Kubernetes GPU Scheduling | [Tutorial](02-gpu-nodes-kubernetes-scheduling/02-gpu-nodes-kubernetes-scheduling.md) | [Lab](labs/02-gpu-nodes-kubernetes-scheduling-check.md) |
 | 4.3 | NVIDIA Drivers, Device Plugin and GPU Operator | Planned | Planned |
 | 4.4 | CUDA, Container Runtime and Compatibility | Planned | Planned |
 | 4.5 | Dedicated GPU Node Pools and Resource Isolation | Planned | Planned |
