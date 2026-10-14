@@ -26,7 +26,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 ## Part 5 — Application Deployment
 - [5.1 — TrueFoundry Application Deployment Architecture and First Service](part-05-application-deployment/01-truefoundry-application-deployment-first-service/01-truefoundry-application-deployment-first-service.md) — [Hands-on Lab](part-05-application-deployment/labs/01-truefoundry-first-application-deployment-check.md) (published)
-- 5.2 — Container Images, Registries and Supply Chain (planned)
+- [5.2 — Container Images, Registries and Supply Chain](part-05-application-deployment/02-container-images-registries-supply-chain/02-container-images-registries-supply-chain.md) — [Hands-on Lab](part-05-application-deployment/labs/02-container-images-registries-supply-chain-check.md) (published)
 - 5.3 — Application Configuration, Environment Variables and Secrets (planned)
 - 5.4 — Resource Requests, Limits, Probes and Workload Reliability (planned)
 - 5.5 — Services, Endpoints, Routing and Application Connectivity (planned)
