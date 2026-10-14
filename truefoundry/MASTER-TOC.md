@@ -16,7 +16,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 ## Part 4 — GPU Infrastructure
 - [4.1 — GPU Architecture and NVIDIA GPU Fundamentals](part-04-gpu-infrastructure/01-gpu-architecture-nvidia-fundamentals/01-gpu-architecture-nvidia-fundamentals.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/01-gpu-architecture-nvidia-fundamentals-check.md) (published)
-- 4.2 — GPU Nodes and Kubernetes GPU Scheduling (planned)
+- [4.2 — GPU Nodes and Kubernetes GPU Scheduling](part-04-gpu-infrastructure/02-gpu-nodes-kubernetes-scheduling/02-gpu-nodes-kubernetes-scheduling.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/02-gpu-nodes-kubernetes-scheduling-check.md) (published)
 - 4.3 — NVIDIA Drivers, Device Plugin and GPU Operator (planned)
 - 4.4 — CUDA, Container Runtime and Compatibility (planned)
 - 4.5 — Dedicated GPU Node Pools and Resource Isolation (planned)
