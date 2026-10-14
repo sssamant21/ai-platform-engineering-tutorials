@@ -21,7 +21,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [4.4 — CUDA, Container Runtime and Compatibility](part-04-gpu-infrastructure/04-cuda-container-runtime-compatibility/04-cuda-container-runtime-compatibility.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/04-cuda-container-runtime-compatibility-check.md) (published)
 - [4.5 — Dedicated GPU Node Pools and Resource Isolation](part-04-gpu-infrastructure/05-dedicated-gpu-node-pools-isolation/05-dedicated-gpu-node-pools-isolation.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/05-dedicated-gpu-node-pools-isolation-check.md) (published)
 - [4.6 — GPU Validation, Monitoring and Troubleshooting](part-04-gpu-infrastructure/06-gpu-validation-monitoring-troubleshooting/06-gpu-validation-monitoring-troubleshooting.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/06-gpu-validation-monitoring-troubleshooting-check.md) (published)
-- 4.7 — Production GPU Infrastructure Recovery Lab (planned)
+- [4.7 — Production GPU Infrastructure Recovery Lab](part-04-gpu-infrastructure/07-production-gpu-infrastructure-recovery/07-production-gpu-infrastructure-recovery.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/07-production-gpu-infrastructure-recovery-check.md) (published)
 - [Part 4 master layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md)
 
 ## Part 5 — Application Deployment
