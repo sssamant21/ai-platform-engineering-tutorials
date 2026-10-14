@@ -15,7 +15,14 @@
 CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node pools, scheduling troubleshooting.
 
 ## Part 4 — GPU Infrastructure
-GPU architecture, Kubernetes scheduling, NVIDIA drivers/device plugin, GPU Operator, CUDA, GPU node pools, resource requests, validation, troubleshooting.
+- [4.1 — GPU Architecture and NVIDIA GPU Fundamentals](part-04-gpu-infrastructure/01-gpu-architecture-nvidia-fundamentals/01-gpu-architecture-nvidia-fundamentals.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/01-gpu-architecture-nvidia-fundamentals-check.md) (published)
+- 4.2 — GPU Nodes and Kubernetes GPU Scheduling (planned)
+- 4.3 — NVIDIA Drivers, Device Plugin and GPU Operator (planned)
+- 4.4 — CUDA, Container Runtime and Compatibility (planned)
+- 4.5 — Dedicated GPU Node Pools and Resource Isolation (planned)
+- 4.6 — GPU Validation, Monitoring and Troubleshooting (planned)
+- 4.7 — Production GPU Infrastructure Recovery Lab (planned)
+- [Part 4 master layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md)
 
 ## Part 5 — Application Deployment
 First service, images/registries, configuration/secrets, resources, probes, endpoints, validation, rollout troubleshooting.
