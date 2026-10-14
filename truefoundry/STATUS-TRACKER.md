@@ -149,7 +149,7 @@ Part 3 canonical publication commits:
 
 ## Part 4 — GPU Infrastructure
 
-**Status:** 🟡 In Progress — 6/7 published
+**Status:** ✅ Publication Complete — 7/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|
@@ -159,9 +159,9 @@ Part 3 canonical publication commits:
 | 4.4 | CUDA, Container Runtime and Compatibility | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 4.5 | Dedicated GPU Node Pools and Resource Isolation | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 4.6 | GPU Validation, Monitoring and Troubleshooting | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 4.7 | Production GPU Infrastructure Recovery Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4.7 | Production GPU Infrastructure Recovery Lab | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 
-Chapters 4.1–4.6 canonical tutorials and labs published; formal vendor and SRE reviews remain to be completed. See [Part 4 layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md).
+Chapters 4.1–4.7 canonical tutorials and labs published; formal vendor and SRE reviews remain to be completed. See [Part 4 layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md).
 
 ## Part 5 — Application Deployment
 
@@ -216,7 +216,7 @@ Chapters 4.1–4.6 canonical tutorials and labs published; formal vendor and SRE
 | 1 | Foundations & Architecture | ✅ Complete — 6/6 |
 | 2 | Kubernetes Integration | ✅ Complete — 7/7 |
 | 3 | Compute & Scheduling | ✅ Complete — 6/6 |
-| 4 | GPU Infrastructure | 🟡 In Progress — 6/7 published |
+| 4 | GPU Infrastructure | ✅ Publication Complete — 7/7 published |
 | 5 | Application Deployment | ⬜ Not Started |
 | 6 | Model Serving | ⬜ Not Started |
 | 7 | vLLM & LLM Serving | ⬜ Not Started |
@@ -231,4 +231,4 @@ Chapters 4.1–4.6 canonical tutorials and labs published; formal vendor and SRE
 
 ---
 
-**Current milestone:** Part 4 — GPU Infrastructure in progress. Chapters 4.1–4.6 published; Chapter 4.7 next.
+**Current milestone:** Part 4 — GPU Infrastructure publication complete (7/7). Next: Part 5 — Application Deployment. Formal vendor and SRE reviews and live lab execution remain separate milestones.
