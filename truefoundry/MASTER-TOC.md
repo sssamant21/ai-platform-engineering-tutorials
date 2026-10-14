@@ -18,7 +18,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [4.1 — GPU Architecture and NVIDIA GPU Fundamentals](part-04-gpu-infrastructure/01-gpu-architecture-nvidia-fundamentals/01-gpu-architecture-nvidia-fundamentals.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/01-gpu-architecture-nvidia-fundamentals-check.md) (published)
 - [4.2 — GPU Nodes and Kubernetes GPU Scheduling](part-04-gpu-infrastructure/02-gpu-nodes-kubernetes-scheduling/02-gpu-nodes-kubernetes-scheduling.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/02-gpu-nodes-kubernetes-scheduling-check.md) (published)
 - [4.3 — NVIDIA Drivers, Device Plugin and GPU Operator](part-04-gpu-infrastructure/03-nvidia-drivers-device-plugin-gpu-operator/03-nvidia-drivers-device-plugin-gpu-operator.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/03-nvidia-drivers-device-plugin-gpu-operator-check.md) (published)
-- 4.4 — CUDA, Container Runtime and Compatibility (planned)
+- [4.4 — CUDA, Container Runtime and Compatibility](part-04-gpu-infrastructure/04-cuda-container-runtime-compatibility/04-cuda-container-runtime-compatibility.md) — [Hands-on Lab](part-04-gpu-infrastructure/labs/04-cuda-container-runtime-compatibility-check.md) (published)
 - 4.5 — Dedicated GPU Node Pools and Resource Isolation (planned)
 - 4.6 — GPU Validation, Monitoring and Troubleshooting (planned)
 - 4.7 — Production GPU Infrastructure Recovery Lab (planned)
