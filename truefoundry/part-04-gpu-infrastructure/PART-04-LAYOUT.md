@@ -11,7 +11,7 @@ Teach production GPU architecture, Kubernetes GPU placement, NVIDIA driver/devic
 | 4.3 | NVIDIA Drivers, Device Plugin and GPU Operator | [Tutorial](03-nvidia-drivers-device-plugin-gpu-operator/03-nvidia-drivers-device-plugin-gpu-operator.md) | [Lab](labs/03-nvidia-drivers-device-plugin-gpu-operator-check.md) |
 | 4.4 | CUDA, Container Runtime and Compatibility | [Tutorial](04-cuda-container-runtime-compatibility/04-cuda-container-runtime-compatibility.md) | [Lab](labs/04-cuda-container-runtime-compatibility-check.md) |
 | 4.5 | Dedicated GPU Node Pools and Resource Isolation | [Tutorial](05-dedicated-gpu-node-pools-isolation/05-dedicated-gpu-node-pools-isolation.md) | [Lab](labs/05-dedicated-gpu-node-pools-isolation-check.md) |
-| 4.6 | GPU Validation, Monitoring and Troubleshooting | Planned | Planned |
+| 4.6 | GPU Validation, Monitoring and Troubleshooting | [Tutorial](06-gpu-validation-monitoring-troubleshooting/06-gpu-validation-monitoring-troubleshooting.md) | [Lab](labs/06-gpu-validation-monitoring-troubleshooting-check.md) |
 | 4.7 | Production GPU Infrastructure Recovery Lab | Planned | Planned |
 
 ## Standard
