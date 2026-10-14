@@ -5,7 +5,7 @@
 | Chapter | Topic | Canonical | Hands-on lab |
 |---|---|---|---|
 | 5.1 | TrueFoundry Application Deployment Architecture and First Service | [Tutorial](01-truefoundry-application-deployment-first-service/01-truefoundry-application-deployment-first-service.md) | [Lab](labs/01-truefoundry-first-application-deployment-check.md) |
-| 5.2 | Container Images, Registries and Supply Chain | Planned | Planned |
+| 5.2 | Container Images, Registries and Supply Chain | [Tutorial](02-container-images-registries-supply-chain/02-container-images-registries-supply-chain.md) | [Lab](labs/02-container-images-registries-supply-chain-check.md) |
 | 5.3 | Application Configuration, Environment Variables and Secrets | Planned | Planned |
 | 5.4 | Resource Requests, Limits, Probes and Workload Reliability | Planned | Planned |
 | 5.5 | Services, Endpoints, Routing and Application Connectivity | Planned | Planned |
