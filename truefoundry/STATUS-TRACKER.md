@@ -149,7 +149,19 @@ Part 3 canonical publication commits:
 
 ## Part 4 — GPU Infrastructure
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress — 1/7 published
+
+| # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
+|---|---|---|---|---|---|---|---|
+| 4.1 | GPU Architecture and NVIDIA GPU Fundamentals | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
+| 4.2 | GPU Nodes and Kubernetes GPU Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4.3 | NVIDIA Drivers, Device Plugin and GPU Operator | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4.4 | CUDA, Container Runtime and Compatibility | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4.5 | Dedicated GPU Node Pools and Resource Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4.6 | GPU Validation, Monitoring and Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 4.7 | Production GPU Infrastructure Recovery Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+Chapter 4.1 canonical and lab published; formal vendor and SRE reviews remain to be completed. See [Part 4 layout](part-04-gpu-infrastructure/PART-04-LAYOUT.md).
 
 ## Part 5 — Application Deployment
 
@@ -204,7 +216,7 @@ Part 3 canonical publication commits:
 | 1 | Foundations & Architecture | ✅ Complete — 6/6 |
 | 2 | Kubernetes Integration | ✅ Complete — 7/7 |
 | 3 | Compute & Scheduling | ✅ Complete — 6/6 |
-| 4 | GPU Infrastructure | ⬜ Not Started |
+| 4 | GPU Infrastructure | 🟡 In Progress — 1/7 published |
 | 5 | Application Deployment | ⬜ Not Started |
 | 6 | Model Serving | ⬜ Not Started |
 | 7 | vLLM & LLM Serving | ⬜ Not Started |
@@ -219,4 +231,4 @@ Part 3 canonical publication commits:
 
 ---
 
-**Current milestone:** Part 3 — Compute & Scheduling complete. Part 4 — GPU Infrastructure is next.
+**Current milestone:** Part 4 — GPU Infrastructure in progress. Chapter 4.1 published; Chapter 4.2 next.
