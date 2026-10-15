@@ -10,8 +10,12 @@
 | 6.4 | Inference Endpoints, Request Lifecycle and API Reliability | [Tutorial](04-inference-endpoints-request-lifecycle-api-reliability/04-inference-endpoints-request-lifecycle-api-reliability.md) | [Lab](labs/04-inference-endpoints-request-lifecycle-api-reliability-check.md) |
 | 6.5 | Model Loading, Warmup, Health Probes and Readiness | [Tutorial](05-model-loading-warmup-health-readiness/05-model-loading-warmup-health-readiness.md) | [Lab](labs/05-model-loading-warmup-health-readiness-check.md) |
 | 6.6 | Model-Serving Observability, Performance and Troubleshooting | [Tutorial](06-model-serving-observability-performance-troubleshooting/06-model-serving-observability-performance-troubleshooting.md) | [Lab](labs/06-model-serving-observability-performance-troubleshooting-check.md) |
-| 6.7 | Production Model-Serving Deployment and Recovery Capstone | Planned | Planned |
+| 6.7 | Production Model-Serving Deployment and Recovery Capstone | [Tutorial](07-production-model-serving-deployment-recovery-capstone/07-production-model-serving-deployment-recovery-capstone.md) | [Lab](labs/07-production-model-serving-deployment-recovery-capstone-check.md) |
 
-**Publication:** 6/7 chapters and 6/7 labs published. Formal technical/vendor validation, SRE review and live lab execution are separate pending milestones.
+**Publication:** 7/7 chapters and 7/7 labs published. Formal technical/vendor validation, SRE review and live lab execution are separate pending milestones.
 
 **Operating principles:** immutable image and model versions; identity isolation; production-safe discovery; lowest proven healthy layer and first failed transition; authoritative rollback and verifiable end-to-end inference.
+
+## Part 06 publication milestone
+
+All seven canonical chapters and companion labs are published and repository links verified. Formal vendor/technical review, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
