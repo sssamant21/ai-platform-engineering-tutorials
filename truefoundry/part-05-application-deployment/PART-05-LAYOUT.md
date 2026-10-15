@@ -9,7 +9,7 @@
 | 5.3 | Application Configuration, Environment Variables and Secrets | [Tutorial](03-application-configuration-environment-secrets/03-application-configuration-environment-secrets.md) | [Lab](labs/03-application-configuration-environment-secrets-check.md) |
 | 5.4 | Resource Requests, Limits, Probes and Workload Reliability | [Tutorial](04-resource-requests-limits-probes-reliability/04-resource-requests-limits-probes-reliability.md) | [Lab](labs/04-resource-requests-limits-probes-reliability-check.md) |
 | 5.5 | Services, Endpoints, Routing and Application Connectivity | [Tutorial](05-services-endpoints-routing-connectivity/05-services-endpoints-routing-connectivity.md) | [Lab](labs/05-services-endpoints-routing-connectivity-check.md) |
-| 5.6 | Deployment Revisions, Rollouts, Rollbacks and Troubleshooting | Planned | Planned |
+| 5.6 | Deployment Revisions, Rollouts, Rollbacks and Troubleshooting | [Tutorial](06-deployment-revisions-rollouts-rollbacks-troubleshooting/06-deployment-revisions-rollouts-rollbacks-troubleshooting.md) | [Lab](labs/06-deployment-revisions-rollouts-rollbacks-troubleshooting-check.md) |
 | 5.7 | Production Application Deployment and Recovery Capstone | Planned | Planned |
 
 ## Scope boundaries
