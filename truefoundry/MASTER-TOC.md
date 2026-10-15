@@ -65,7 +65,15 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 8 master layout](part-08-scaling-performance/PART-08-LAYOUT.md)
 
 ## Part 9 — Networking
-Architecture, Services, Ingress, DNS, TLS, internal/external endpoints, troubleshooting.
+
+- [9.1 — TrueFoundry Networking Architecture and End-to-End Request Path](part-09-networking/01-truefoundry-networking-architecture-request-path/01-truefoundry-networking-architecture-request-path.md) — [Hands-on Lab](part-09-networking/labs/01-truefoundry-networking-architecture-request-path-check.md) (published)
+- 9.2 — Kubernetes Services, EndpointSlices and Service Discovery (planned)
+- 9.3 — Ingress, Gateway API and Cloud Load Balancers (planned)
+- 9.4 — DNS, TLS, Certificates and Secure Endpoint Exposure (planned)
+- 9.5 — NetworkPolicy, Private Networking and Egress Security (planned)
+- 9.6 — Inference Streaming, Timeouts and Networking Troubleshooting (planned)
+- 9.7 — Production Networking and Recovery Capstone (planned)
+- [Part 9 master layout](part-09-networking/PART-09-LAYOUT.md)
 
 ## Part 10 — Security
 Architecture, authentication/authorization, RBAC, ServiceAccounts, secrets, cloud IAM, isolation, production checklist.
