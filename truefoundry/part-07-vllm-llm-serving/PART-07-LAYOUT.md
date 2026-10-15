@@ -10,8 +10,8 @@
 | 7.4 | Model Loading Tokenizers and Tensor Parallelism | [Tutorial](04-model-loading-tokenizers-tensor-parallelism/04-model-loading-tokenizers-tensor-parallelism.md) | [Lab](labs/04-model-loading-tokenizers-tensor-parallelism-check.md) |
 | 7.5 | PagedAttention KV Cache and Continuous Batching | [Tutorial](05-pagedattention-kv-cache-continuous-batching/05-pagedattention-kv-cache-continuous-batching.md) | [Lab](labs/05-pagedattention-kv-cache-continuous-batching-check.md) |
 | 7.6 | vLLM Performance Tuning Observability and Troubleshooting | [Tutorial](06-vllm-performance-tuning-observability-troubleshooting/06-vllm-performance-tuning-observability-troubleshooting.md) | [Lab](labs/06-vllm-performance-tuning-observability-troubleshooting-check.md) |
-| 7.7 | Production vLLM Deployment and Recovery Capstone | Planned | Planned |
+| 7.7 | Production vLLM Deployment and Recovery Capstone | [Tutorial](07-production-vllm-deployment-recovery-capstone/07-production-vllm-deployment-recovery-capstone.md) | [Lab](labs/07-production-vllm-deployment-recovery-capstone-check.md) |
 
-**Publication:** 6/7 chapters and 6/7 labs published. Formal technical/vendor validation, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
+**Publication:** Complete — 7/7 chapters and 7/7 labs published. Formal technical/vendor validation, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
 
 **Operating principles:** pin immutable model/image/runtime; verify actual GPU device chain; measure TTFT/ITL and KV cache; use lowest proven healthy layer and first failed transition; recover via authoritative TrueFoundry/GitOps release.
