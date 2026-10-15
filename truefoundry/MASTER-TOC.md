@@ -79,7 +79,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [10.1 — Security Architecture, Trust Boundaries and Threat Modeling](part-10-security/01-security-architecture-trust-boundaries-threat-modeling/01-security-architecture-trust-boundaries-threat-modeling.md) — [Hands-on Lab](part-10-security/labs/01-security-architecture-trust-boundaries-threat-modeling-check.md) (published)
 - [10.2 — Identity, SSO, Authentication and Authorization](part-10-security/02-identity-sso-authentication-authorization/02-identity-sso-authentication-authorization.md) — [Hands-on Lab](part-10-security/labs/02-identity-sso-authentication-authorization-check.md) (published)
 - [10.3 — Kubernetes RBAC, ServiceAccounts and Workload Identity](part-10-security/03-kubernetes-rbac-serviceaccounts-workload-identity/03-kubernetes-rbac-serviceaccounts-workload-identity.md) — [Hands-on Lab](part-10-security/labs/03-kubernetes-rbac-serviceaccounts-workload-identity-check.md) (published)
-- 10.4 — Secrets Management, Encryption and Credential Rotation (planned)
+- [10.4 — Secrets Management, Encryption and Credential Rotation](part-10-security/04-secrets-management-encryption-credential-rotation/04-secrets-management-encryption-credential-rotation.md) — [Hands-on Lab](part-10-security/labs/04-secrets-management-encryption-credential-rotation-check.md) (published)
 - 10.5 — Cloud IAM, Supply Chain and Runtime Security (planned)
 - 10.6 — Security Observability, Audit and Incident Response (planned)
 - 10.7 — Production Security Hardening and Recovery Capstone (planned)
