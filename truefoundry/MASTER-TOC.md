@@ -86,7 +86,15 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 10 master layout](part-10-security/PART-10-LAYOUT.md)
 
 ## Part 11 — Observability
-Architecture, logs, Kubernetes events, platform/GPU/model metrics, latency/throughput/errors, dashboards/alerts.
+
+- [11.1 — Observability Architecture and Telemetry Foundations](part-11-observability/01-observability-architecture-telemetry-foundations/01-observability-architecture-telemetry-foundations.md) — [Hands-on Lab](part-11-observability/labs/01-observability-architecture-telemetry-foundations-check.md) (published)
+- 11.2 — Logging Architecture, Structured Logs and Kubernetes Events (planned)
+- 11.3 — Prometheus Metrics, Exporters and Recording Rules (planned)
+- 11.4 — OpenTelemetry Distributed Tracing and Correlation (planned)
+- 11.5 — GPU, vLLM and Inference Performance Observability (planned)
+- 11.6 — Dashboards, SLIs, SLOs, Alerting and Error Budgets (planned)
+- 11.7 — Enterprise Observability and Incident Detection Capstone (planned)
+- [Part 11 master layout](part-11-observability/PART-11-LAYOUT.md)
 
 ## Part 12 — Production Operations
 Readiness, capacity, GPU capacity, HA, upgrades, FinOps, operational runbooks.
