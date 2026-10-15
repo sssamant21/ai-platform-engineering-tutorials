@@ -106,10 +106,9 @@ containers:
       preStop:
         exec:
           command: ["/bin/sh", "-c", "sleep 5"]
-    terminationGracePeriodSeconds: 60
 ```
 
-**Important correction for implementation:** `terminationGracePeriodSeconds` belongs to the **Pod spec**, not inside a container entry. Place it alongside `containers` under `spec.template.spec`. The `preStop` example is merely illustrative; a fixed sleep does not guarantee graceful draining and may not be appropriate for your runtime. Verify executable availability and use a measured shutdown protocol.
+Set `terminationGracePeriodSeconds: 60` at the **Pod spec** level, alongside `containers` under `spec.template.spec`, not within the container entry. The `preStop` example is merely illustrative; a fixed sleep does not guarantee graceful draining and may not be appropriate for your runtime. Verify executable availability and use a measured shutdown protocol.
 
 For GPU serving, include the appropriate integer `nvidia.com/gpu` allocation and validated driver/CUDA/runtime stack. Set startup budget from observed P99 initialization time plus headroom; excessive budgets can hide genuine failure.
 
