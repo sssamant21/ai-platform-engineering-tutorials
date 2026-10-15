@@ -89,7 +89,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 - [11.1 — Observability Architecture and Telemetry Foundations](part-11-observability/01-observability-architecture-telemetry-foundations/01-observability-architecture-telemetry-foundations.md) — [Hands-on Lab](part-11-observability/labs/01-observability-architecture-telemetry-foundations-check.md) (published)
 - [11.2 — Logging Architecture, Structured Logs and Kubernetes Events](part-11-observability/02-logging-architecture-structured-logs-kubernetes-events/02-logging-architecture-structured-logs-kubernetes-events.md) — [Hands-on Lab](part-11-observability/labs/02-logging-architecture-structured-logs-kubernetes-events-check.md) (published)
-- 11.3 — Prometheus Metrics, Exporters and Recording Rules (planned)
+- [11.3 — Prometheus Metrics, Exporters and Recording Rules](part-11-observability/03-prometheus-metrics-exporters-recording-rules/03-prometheus-metrics-exporters-recording-rules.md) — [Hands-on Lab](part-11-observability/labs/03-prometheus-metrics-exporters-recording-rules-check.md) (published)
 - 11.4 — OpenTelemetry Distributed Tracing and Correlation (planned)
 - 11.5 — GPU, vLLM and Inference Performance Observability (planned)
 - 11.6 — Dashboards, SLIs, SLOs, Alerting and Error Budgets (planned)
