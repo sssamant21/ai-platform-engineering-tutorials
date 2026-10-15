@@ -28,7 +28,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [5.1 — TrueFoundry Application Deployment Architecture and First Service](part-05-application-deployment/01-truefoundry-application-deployment-first-service/01-truefoundry-application-deployment-first-service.md) — [Hands-on Lab](part-05-application-deployment/labs/01-truefoundry-first-application-deployment-check.md) (published)
 - [5.2 — Container Images, Registries and Supply Chain](part-05-application-deployment/02-container-images-registries-supply-chain/02-container-images-registries-supply-chain.md) — [Hands-on Lab](part-05-application-deployment/labs/02-container-images-registries-supply-chain-check.md) (published)
 - [5.3 — Application Configuration, Environment Variables and Secrets](part-05-application-deployment/03-application-configuration-environment-secrets/03-application-configuration-environment-secrets.md) — [Hands-on Lab](part-05-application-deployment/labs/03-application-configuration-environment-secrets-check.md) (published)
-- 5.4 — Resource Requests, Limits, Probes and Workload Reliability (planned)
+- [5.4 — Resource Requests, Limits, Probes and Workload Reliability](part-05-application-deployment/04-resource-requests-limits-probes-reliability/04-resource-requests-limits-probes-reliability.md) — [Hands-on Lab](part-05-application-deployment/labs/04-resource-requests-limits-probes-reliability-check.md) (published)
 - 5.5 — Services, Endpoints, Routing and Application Connectivity (planned)
 - 5.6 — Deployment Revisions, Rollouts, Rollbacks and Troubleshooting (planned)
 - 5.7 — Production Application Deployment and Recovery Capstone (planned)
