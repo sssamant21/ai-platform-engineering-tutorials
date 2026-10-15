@@ -6,12 +6,12 @@
 |---|---|---|---|
 | 6.1 | Model-Serving Fundamentals and Architecture | [Tutorial](01-model-serving-fundamentals-architecture/01-model-serving-fundamentals-architecture.md) | [Lab](labs/01-model-serving-fundamentals-architecture-check.md) |
 | 6.2 | Model Artifacts, Registries and Storage Integration | [Tutorial](02-model-artifacts-registries-storage/02-model-artifacts-registries-storage.md) | [Lab](labs/02-model-artifacts-registries-storage-check.md) |
-| 6.3 | CPU and GPU Inference Runtimes and Scheduling | Planned | Planned |
+| 6.3 | CPU and GPU Inference Runtimes and Scheduling | [Tutorial](03-cpu-gpu-inference-runtimes-scheduling/03-cpu-gpu-inference-runtimes-scheduling.md) | [Lab](labs/03-cpu-gpu-inference-runtimes-scheduling-check.md) |
 | 6.4 | Inference Endpoints, Request Lifecycle and API Reliability | Planned | Planned |
 | 6.5 | Model Loading, Warmup, Health Probes and Readiness | Planned | Planned |
 | 6.6 | Model-Serving Observability, Performance and Troubleshooting | Planned | Planned |
 | 6.7 | Production Model-Serving Deployment and Recovery Capstone | Planned | Planned |
 
-**Publication:** 2/7 chapters and 2/7 labs published. Formal technical/vendor validation, SRE review and live lab execution are separate pending milestones.
+**Publication:** 3/7 chapters and 3/7 labs published. Formal technical/vendor validation, SRE review and live lab execution are separate pending milestones.
 
 **Operating principles:** immutable image and model versions; identity isolation; production-safe discovery; lowest proven healthy layer and first failed transition; authoritative rollback and verifiable end-to-end inference.
