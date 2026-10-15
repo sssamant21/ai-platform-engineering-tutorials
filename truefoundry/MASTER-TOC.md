@@ -47,7 +47,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 ## Part 7 — vLLM & LLM Serving
 - [7.1 — vLLM Fundamentals and Serving Architecture](part-07-vllm-llm-serving/01-vllm-fundamentals-serving-architecture/01-vllm-fundamentals-serving-architecture.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/01-vllm-fundamentals-serving-architecture-check.md) (published)
 - [7.2 — vLLM Deployment with TrueFoundry and Kubernetes](part-07-vllm-llm-serving/02-vllm-deployment-truefoundry-kubernetes/02-vllm-deployment-truefoundry-kubernetes.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/02-vllm-deployment-truefoundry-kubernetes-check.md) (published)
-- 7.3 — GPU CUDA PyTorch and Device Detection (planned)
+- [7.3 — GPU CUDA PyTorch and Device Detection](part-07-vllm-llm-serving/03-gpu-cuda-pytorch-device-detection/03-gpu-cuda-pytorch-device-detection.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/03-gpu-cuda-pytorch-device-detection-check.md) (published)
 - 7.4 — Model Loading Tokenizers and Tensor Parallelism (planned)
 - 7.5 — PagedAttention KV Cache and Continuous Batching (planned)
 - 7.6 — vLLM Performance Tuning Observability and Troubleshooting (planned)
