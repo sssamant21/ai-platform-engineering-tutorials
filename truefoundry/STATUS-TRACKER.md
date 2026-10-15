@@ -229,12 +229,12 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 
 ## Part 9 — Networking
 
-**Status:** 🟡 In Progress — 1/7 published
+**Status:** 🟡 In Progress — 2/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
 | 9.1 | TrueFoundry Networking Architecture and End-to-End Request Path | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 9.2 | Kubernetes Services, EndpointSlices and Service Discovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 9.2 | Kubernetes Services, EndpointSlices and Service Discovery | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 9.3 | Ingress, Gateway API and Cloud Load Balancers | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 9.4 | DNS, TLS, Certificates and Secure Endpoint Exposure | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 9.5 | NetworkPolicy, Private Networking and Egress Security | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -281,7 +281,7 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 | 6 | Model Serving | ✅ Publication Complete — 7/7 published |
 | 7 | vLLM & LLM Serving | ✅ Publication Complete — 7/7 published |
 | 8 | Scaling & Performance | 🟡 Publication Complete — 7/7 published |
-| 9 | Networking | 🟡 In Progress — 1/7 published |
+| 9 | Networking | 🟡 In Progress — 2/7 published |
 | 10 | Security | ⬜ Not Started |
 | 11 | Observability | ⬜ Not Started |
 | 12 | Production Operations | ⬜ Not Started |
@@ -291,4 +291,4 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 
 ---
 
-**Current milestone:** Part 09 — Networking in progress: Chapter 9.1 and lab published; Chapter 9.2 next. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 09 — Networking in progress: Chapters 9.1–9.2 and their labs published; Chapter 9.3 next. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
