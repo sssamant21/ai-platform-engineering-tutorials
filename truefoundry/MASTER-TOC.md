@@ -55,7 +55,14 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 7 master layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md)
 
 ## Part 8 — Scaling & Performance
-Scaling, HPA, GPU autoscaling, concurrency, latency/throughput, GPU utilization, performance troubleshooting.
+- [8.1 — Scaling Architecture and GPU-Aware Capacity Planning](part-08-scaling-performance/01-scaling-architecture-capacity-planning/01-scaling-architecture-capacity-planning.md) — [Hands-on Lab](part-08-scaling-performance/labs/01-scaling-architecture-capacity-planning-check.md) (published)
+- 8.2 — Horizontal Pod Autoscaling for Inference Workloads (planned)
+- 8.3 — KEDA Event-Driven Scaling and Custom Metrics (planned)
+- 8.4 — GPU Node Autoscaling and Cluster Capacity (planned)
+- 8.5 — Inference Concurrency, Latency and Throughput Optimization (planned)
+- 8.6 — Scaling Observability, Cost and Troubleshooting (planned)
+- 8.7 — Production Scaling and Recovery Capstone (planned)
+- [Part 8 master layout](part-08-scaling-performance/PART-08-LAYOUT.md)
 
 ## Part 9 — Networking
 Architecture, Services, Ingress, DNS, TLS, internal/external endpoints, troubleshooting.
