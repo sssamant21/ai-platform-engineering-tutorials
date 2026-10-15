@@ -50,7 +50,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [7.3 — GPU CUDA PyTorch and Device Detection](part-07-vllm-llm-serving/03-gpu-cuda-pytorch-device-detection/03-gpu-cuda-pytorch-device-detection.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/03-gpu-cuda-pytorch-device-detection-check.md) (published)
 - [7.4 — Model Loading Tokenizers and Tensor Parallelism](part-07-vllm-llm-serving/04-model-loading-tokenizers-tensor-parallelism/04-model-loading-tokenizers-tensor-parallelism.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/04-model-loading-tokenizers-tensor-parallelism-check.md) (published)
 - [7.5 — PagedAttention KV Cache and Continuous Batching](part-07-vllm-llm-serving/05-pagedattention-kv-cache-continuous-batching/05-pagedattention-kv-cache-continuous-batching.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/05-pagedattention-kv-cache-continuous-batching-check.md) (published)
-- 7.6 — vLLM Performance Tuning Observability and Troubleshooting (planned)
+- [7.6 — vLLM Performance Tuning Observability and Troubleshooting](part-07-vllm-llm-serving/06-vllm-performance-tuning-observability-troubleshooting/06-vllm-performance-tuning-observability-troubleshooting.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/06-vllm-performance-tuning-observability-troubleshooting-check.md) (published)
 - 7.7 — Production vLLM Deployment and Recovery Capstone (planned)
 - [Part 7 master layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md)
 
