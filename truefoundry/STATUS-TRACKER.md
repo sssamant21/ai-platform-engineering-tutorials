@@ -213,7 +213,7 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 
 ## Part 8 — Scaling & Performance
 
-**Status:** 🟡 In Progress — 6/7 published
+**Status:** 🟡 Publication Complete — 7/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
@@ -223,7 +223,7 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 | 8.4 | GPU Node Autoscaling and Cluster Capacity | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 8.5 | Inference Concurrency, Latency and Throughput Optimization | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 8.6 | Scaling Observability, Cost and Troubleshooting | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 8.7 | Production Scaling and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.7 | Production Scaling and Recovery Capstone | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 
 See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal reviews and live lab execution remain pending.
 
@@ -268,7 +268,7 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 | 5 | Application Deployment | ✅ Publication Complete — 7/7 published |
 | 6 | Model Serving | ✅ Publication Complete — 7/7 published |
 | 7 | vLLM & LLM Serving | ✅ Publication Complete — 7/7 published |
-| 8 | Scaling & Performance | 🟡 In Progress — 6/7 published |
+| 8 | Scaling & Performance | 🟡 Publication Complete — 7/7 published |
 | 9 | Networking | ⬜ Not Started |
 | 10 | Security | ⬜ Not Started |
 | 11 | Observability | ⬜ Not Started |
@@ -279,4 +279,4 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 
 ---
 
-**Current milestone:** Part 08 — Scaling & Performance in progress: Chapters 8.1–8.6 and their labs published; Chapter 8.7 capstone next. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 08 — Scaling & Performance publication complete: Chapters 8.1–8.7 and their labs published; Part 09 — Networking next. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
