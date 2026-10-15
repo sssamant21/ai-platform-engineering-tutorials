@@ -59,7 +59,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [8.2 — Horizontal Pod Autoscaling for Inference Workloads](part-08-scaling-performance/02-horizontal-pod-autoscaling-inference-workloads/02-horizontal-pod-autoscaling-inference-workloads.md) — [Hands-on Lab](part-08-scaling-performance/labs/02-horizontal-pod-autoscaling-inference-workloads-check.md) (published)
 - [8.3 — KEDA Event-Driven Scaling and Custom Metrics](part-08-scaling-performance/03-keda-event-driven-scaling-custom-metrics/03-keda-event-driven-scaling-custom-metrics.md) — [Hands-on Lab](part-08-scaling-performance/labs/03-keda-event-driven-scaling-custom-metrics-check.md) (published)
 - [8.4 — GPU Node Autoscaling and Cluster Capacity](part-08-scaling-performance/04-gpu-node-autoscaling-cluster-capacity/04-gpu-node-autoscaling-cluster-capacity.md) — [Hands-on Lab](part-08-scaling-performance/labs/04-gpu-node-autoscaling-cluster-capacity-check.md) (published)
-- 8.5 — Inference Concurrency, Latency and Throughput Optimization (planned)
+- [8.5 — Inference Concurrency, Latency and Throughput Optimization](part-08-scaling-performance/05-inference-concurrency-latency-throughput-optimization/05-inference-concurrency-latency-throughput-optimization.md) — [Hands-on Lab](part-08-scaling-performance/labs/05-inference-concurrency-latency-throughput-optimization-check.md) (published)
 - 8.6 — Scaling Observability, Cost and Troubleshooting (planned)
 - 8.7 — Production Scaling and Recovery Capstone (planned)
 - [Part 8 master layout](part-08-scaling-performance/PART-08-LAYOUT.md)
