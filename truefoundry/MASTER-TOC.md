@@ -58,7 +58,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [8.1 — Scaling Architecture and GPU-Aware Capacity Planning](part-08-scaling-performance/01-scaling-architecture-capacity-planning/01-scaling-architecture-capacity-planning.md) — [Hands-on Lab](part-08-scaling-performance/labs/01-scaling-architecture-capacity-planning-check.md) (published)
 - [8.2 — Horizontal Pod Autoscaling for Inference Workloads](part-08-scaling-performance/02-horizontal-pod-autoscaling-inference-workloads/02-horizontal-pod-autoscaling-inference-workloads.md) — [Hands-on Lab](part-08-scaling-performance/labs/02-horizontal-pod-autoscaling-inference-workloads-check.md) (published)
 - [8.3 — KEDA Event-Driven Scaling and Custom Metrics](part-08-scaling-performance/03-keda-event-driven-scaling-custom-metrics/03-keda-event-driven-scaling-custom-metrics.md) — [Hands-on Lab](part-08-scaling-performance/labs/03-keda-event-driven-scaling-custom-metrics-check.md) (published)
-- 8.4 — GPU Node Autoscaling and Cluster Capacity (planned)
+- [8.4 — GPU Node Autoscaling and Cluster Capacity](part-08-scaling-performance/04-gpu-node-autoscaling-cluster-capacity/04-gpu-node-autoscaling-cluster-capacity.md) — [Hands-on Lab](part-08-scaling-performance/labs/04-gpu-node-autoscaling-cluster-capacity-check.md) (published)
 - 8.5 — Inference Concurrency, Latency and Throughput Optimization (planned)
 - 8.6 — Scaling Observability, Cost and Troubleshooting (planned)
 - 8.7 — Production Scaling and Recovery Capstone (planned)
