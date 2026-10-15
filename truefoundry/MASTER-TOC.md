@@ -40,7 +40,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [6.3 — CPU and GPU Inference Runtimes and Scheduling](part-06-model-serving/03-cpu-gpu-inference-runtimes-scheduling/03-cpu-gpu-inference-runtimes-scheduling.md) — [Hands-on Lab](part-06-model-serving/labs/03-cpu-gpu-inference-runtimes-scheduling-check.md) (published)
 - [6.4 — Inference Endpoints, Request Lifecycle and API Reliability](part-06-model-serving/04-inference-endpoints-request-lifecycle-api-reliability/04-inference-endpoints-request-lifecycle-api-reliability.md) — [Hands-on Lab](part-06-model-serving/labs/04-inference-endpoints-request-lifecycle-api-reliability-check.md) (published)
 - [6.5 — Model Loading, Warmup, Health Probes and Readiness](part-06-model-serving/05-model-loading-warmup-health-readiness/05-model-loading-warmup-health-readiness.md) — [Hands-on Lab](part-06-model-serving/labs/05-model-loading-warmup-health-readiness-check.md) (published)
-- 6.6 — Model-Serving Observability, Performance and Troubleshooting (planned)
+- [6.6 — Model-Serving Observability, Performance and Troubleshooting](part-06-model-serving/06-model-serving-observability-performance-troubleshooting/06-model-serving-observability-performance-troubleshooting.md) — [Hands-on Lab](part-06-model-serving/labs/06-model-serving-observability-performance-troubleshooting-check.md) (published)
 - 6.7 — Production Model-Serving Deployment and Recovery Capstone (planned)
 - [Part 6 master layout](part-06-model-serving/PART-06-LAYOUT.md)
 
