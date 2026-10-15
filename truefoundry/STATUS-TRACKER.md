@@ -229,7 +229,7 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 
 ## Part 9 — Networking
 
-**Status:** 🟡 In Progress — 5/7 published
+**Status:** 🟡 In Progress — 6/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
@@ -238,7 +238,7 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 | 9.3 | Ingress, Gateway API and Cloud Load Balancers | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 9.4 | DNS, TLS, Certificates and Secure Endpoint Exposure | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 9.5 | NetworkPolicy, Private Networking and Egress Security | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 9.6 | Inference Streaming, Timeouts and Networking Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 9.6 | Inference Streaming, Timeouts and Networking Troubleshooting | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 9.7 | Production Networking and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and live lab execution remain pending.
@@ -291,13 +291,13 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 
 ---
 
-**Current milestone:** Part 09 — Networking in progress: Chapters 9.1–9.5 and their labs published; Chapter 9.6 next. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 09 — Networking in progress: Chapters 9.1–9.6 and their labs published; Chapter 9.7 next. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
 
 ### Chapter 9.3 — Ingress, Gateway API and Cloud Load Balancers
 - Canonical: [Published](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md)
 - Lab: [Published](part-09-networking/labs/03-ingress-gateway-api-cloud-load-balancers-check.md)
 - Repository validation: pending final link verification; vendor/SRE review and live execution pending.
-- Part 09 publication: 5/7 chapters and labs; curriculum: 59 chapters published.
+- Part 09 publication: 6/7 chapters and labs; curriculum: 60 chapters published.
 
 ### Chapter 9.4 — DNS, TLS, Certificates and Secure Endpoint Exposure
 - Canonical: [Published](part-09-networking/04-dns-tls-certificates-secure-endpoint-exposure/04-dns-tls-certificates-secure-endpoint-exposure.md)
@@ -308,3 +308,8 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 - Canonical: [Published](part-09-networking/05-networkpolicy-private-networking-egress-security/05-networkpolicy-private-networking-egress-security.md)
 - Lab: [Published](part-09-networking/labs/05-networkpolicy-private-networking-egress-security-check.md)
 - Part 09: 5/7 chapters and labs published; curriculum: 59 chapters. Formal reviews and live lab execution pending.
+
+### Chapter 9.6 — Inference Streaming, Timeouts and Networking Troubleshooting
+- Canonical: [Published](part-09-networking/06-inference-streaming-timeouts-networking-troubleshooting/06-inference-streaming-timeouts-networking-troubleshooting.md)
+- Lab: [Published](part-09-networking/labs/06-inference-streaming-timeouts-networking-troubleshooting-check.md)
+- Part 09: 6/7 chapters and labs; curriculum: 60 chapters. Formal reviews and live lab execution pending.
