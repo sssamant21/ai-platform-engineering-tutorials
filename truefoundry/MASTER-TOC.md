@@ -35,7 +35,14 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 5 master layout](part-05-application-deployment/PART-05-LAYOUT.md)
 
 ## Part 6 — Model Serving
-Model-serving fundamentals, architecture, CPU/GPU serving, storage/loading, endpoints, health/readiness, troubleshooting.
+- [6.1 — Model-Serving Fundamentals and Architecture](part-06-model-serving/01-model-serving-fundamentals-architecture/01-model-serving-fundamentals-architecture.md) — [Hands-on Lab](part-06-model-serving/labs/01-model-serving-fundamentals-architecture-check.md) (published)
+- 6.2 — Model Artifacts, Registries and Storage Integration (planned)
+- 6.3 — CPU and GPU Inference Runtimes and Scheduling (planned)
+- 6.4 — Inference Endpoints, Request Lifecycle and API Reliability (planned)
+- 6.5 — Model Loading, Warmup, Health Probes and Readiness (planned)
+- 6.6 — Model-Serving Observability, Performance and Troubleshooting (planned)
+- 6.7 — Production Model-Serving Deployment and Recovery Capstone (planned)
+- [Part 6 master layout](part-06-model-serving/PART-06-LAYOUT.md)
 
 ## Part 7 — vLLM & LLM Serving
 vLLM fundamentals/architecture, TrueFoundry deployment, GPU/CUDA, loading, tensor parallelism, KV cache, tuning, device detection, CUDA/PyTorch troubleshooting.
