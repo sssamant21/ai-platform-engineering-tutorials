@@ -9,9 +9,9 @@
 | 11.3 | Prometheus Metrics, Exporters and Recording Rules | [Tutorial](03-prometheus-metrics-exporters-recording-rules/03-prometheus-metrics-exporters-recording-rules.md) | [Lab](labs/03-prometheus-metrics-exporters-recording-rules-check.md) |
 | 11.4 | OpenTelemetry Distributed Tracing and Correlation | [Tutorial](04-opentelemetry-distributed-tracing-correlation/04-opentelemetry-distributed-tracing-correlation.md) | [Lab](labs/04-opentelemetry-distributed-tracing-correlation-check.md) |
 | 11.5 | GPU, vLLM and Inference Performance Observability | [Tutorial](05-gpu-vllm-inference-performance-observability/05-gpu-vllm-inference-performance-observability.md) | [Lab](labs/05-gpu-vllm-inference-performance-observability-check.md) |
-| 11.6 | Dashboards, SLIs, SLOs, Alerting and Error Budgets | Planned | Planned |
+| 11.6 | Dashboards, SLIs, SLOs, Alerting and Error Budgets | [Tutorial](06-dashboards-slis-slos-alerting-error-budgets/06-dashboards-slis-slos-alerting-error-budgets.md) | [Lab](labs/06-dashboards-slis-slos-alerting-error-budgets-check.md) |
 | 11.7 | Enterprise Observability and Incident Detection Capstone | Planned | Planned |
 
-**Publication:** 5/7 chapters and 5/7 labs published. Formal technical review and live lab execution pending.
+**Publication:** 6/7 chapters and 6/7 labs published. Formal technical review and live lab execution pending.
 
 **Principles:** version-verify integrations; protect sensitive data; use actionable alerts; correlate metrics, logs and traces; preserve runbooks and rollback.
