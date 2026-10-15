@@ -165,14 +165,14 @@ Chapters 4.1–4.7 canonical tutorials and labs published; formal vendor and SRE
 
 ## Part 5 — Application Deployment
 
-**Status:** 🟡 In Progress — 3/7 published
+**Status:** 🟡 In Progress — 4/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
 | 5.1 | Application Deployment Architecture and First Service | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 5.2 | Container Images, Registries and Supply Chain | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 5.3 | Application Configuration, Environment Variables and Secrets | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 5.4 | Resource Requests, Limits, Probes and Workload Reliability | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 5.4 | Resource Requests, Limits, Probes and Workload Reliability | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 5.5 | Services, Endpoints, Routing and Application Connectivity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 5.6 | Deployment Revisions, Rollouts, Rollbacks and Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 5.7 | Production Application Deployment and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -229,7 +229,7 @@ Formal technical/vendor and SRE reviews and actual lab execution remain pending.
 | 2 | Kubernetes Integration | ✅ Complete — 7/7 |
 | 3 | Compute & Scheduling | ✅ Complete — 6/6 |
 | 4 | GPU Infrastructure | ✅ Publication Complete — 7/7 published |
-| 5 | Application Deployment | 🟡 In Progress — 3/7 published |
+| 5 | Application Deployment | 🟡 In Progress — 4/7 published |
 | 6 | Model Serving | ⬜ Not Started |
 | 7 | vLLM & LLM Serving | ⬜ Not Started |
 | 8 | Scaling & Performance | ⬜ Not Started |
@@ -243,4 +243,4 @@ Formal technical/vendor and SRE reviews and actual lab execution remain pending.
 
 ---
 
-**Current milestone:** Part 5 — Application Deployment in progress. Chapters 5.1–5.3 published; Chapter 5.4 next. Formal vendor and SRE reviews and live lab execution remain separate milestones.
+**Current milestone:** Part 5 — Application Deployment in progress. Chapters 5.1–5.4 published; Chapter 5.5 next. Formal vendor and SRE reviews and live lab execution remain separate milestones.
