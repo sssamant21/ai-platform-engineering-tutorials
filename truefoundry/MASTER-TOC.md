@@ -68,6 +68,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 - [9.1 — TrueFoundry Networking Architecture and End-to-End Request Path](part-09-networking/01-truefoundry-networking-architecture-request-path/01-truefoundry-networking-architecture-request-path.md) — [Hands-on Lab](part-09-networking/labs/01-truefoundry-networking-architecture-request-path-check.md) (published)
 - [9.2 — Kubernetes Services, EndpointSlices and Service Discovery](part-09-networking/02-kubernetes-services-endpointslices-service-discovery/02-kubernetes-services-endpointslices-service-discovery.md) — [Hands-on Lab](part-09-networking/labs/02-kubernetes-services-endpointslices-service-discovery-check.md) (published)
+- [9.3 — Ingress, Gateway API and Cloud Load Balancers](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md) — [Hands-on Lab](part-09-networking/labs/03-ingress-gateway-api-cloud-load-balancers-check.md) (published)
 - 9.3 — Ingress, Gateway API and Cloud Load Balancers (planned)
 - 9.4 — DNS, TLS, Certificates and Secure Endpoint Exposure (planned)
 - 9.5 — NetworkPolicy, Private Networking and Egress Security (planned)
