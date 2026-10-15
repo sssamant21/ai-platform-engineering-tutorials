@@ -213,12 +213,12 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 
 ## Part 8 — Scaling & Performance
 
-**Status:** 🟡 In Progress — 1/7 published
+**Status:** 🟡 In Progress — 2/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
 | 8.1 | Scaling Architecture and GPU-Aware Capacity Planning | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 8.2 | Horizontal Pod Autoscaling for Inference Workloads | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.2 | Horizontal Pod Autoscaling for Inference Workloads | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 8.3 | KEDA Event-Driven Scaling and Custom Metrics | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 8.4 | GPU Node Autoscaling and Cluster Capacity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 8.5 | Inference Concurrency, Latency and Throughput Optimization | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -268,7 +268,7 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 | 5 | Application Deployment | ✅ Publication Complete — 7/7 published |
 | 6 | Model Serving | ✅ Publication Complete — 7/7 published |
 | 7 | vLLM & LLM Serving | ✅ Publication Complete — 7/7 published |
-| 8 | Scaling & Performance | 🟡 In Progress — 1/7 published |
+| 8 | Scaling & Performance | 🟡 In Progress — 2/7 published |
 | 9 | Networking | ⬜ Not Started |
 | 10 | Security | ⬜ Not Started |
 | 11 | Observability | ⬜ Not Started |
@@ -279,4 +279,4 @@ See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal revie
 
 ---
 
-**Current milestone:** Part 08 — Scaling & Performance in progress: Chapter 8.1 and its lab published; Chapter 8.2 next. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 08 — Scaling & Performance in progress: Chapters 8.1–8.2 and their labs published; Chapter 8.3 next. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
