@@ -245,7 +245,19 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 
 ## Part 10 — Security
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress — 1/7 published
+
+| Chapter | Topic | Draft | Vendor review | SRE/security review | Live lab | Canonical | Lab | Verified |
+|---|---|---|---|---|---|---|---|---|
+| 10.1 | Security Architecture, Trust Boundaries and Threat Modeling | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
+| 10.2 | Identity, SSO, Authentication and Authorization | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 10.3 | Kubernetes RBAC, ServiceAccounts and Workload Identity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 10.4 | Secrets Management, Encryption and Credential Rotation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 10.5 | Cloud IAM, Supply Chain and Runtime Security | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 10.6 | Security Observability, Audit and Incident Response | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 10.7 | Production Security Hardening and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+See [Part 10 layout](part-10-security/PART-10-LAYOUT.md).
 
 ## Part 11 — Observability
 
@@ -291,7 +303,7 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 
 ---
 
-**Current milestone:** Part 09 — Networking in progress: Chapters 9.1–9.7 and their labs published; Part 10 — Security next. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapter 10.1 and lab published (1/7), Chapter 10.2 next. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
 
 ### Chapter 9.3 — Ingress, Gateway API and Cloud Load Balancers
 - Canonical: [Published](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md)
@@ -318,3 +330,8 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 - Canonical: [Published](part-09-networking/07-production-networking-recovery-capstone/07-production-networking-recovery-capstone.md)
 - Lab: [Published](part-09-networking/labs/07-production-networking-recovery-capstone-check.md)
 - Part 09 publication complete: 7/7 chapters and labs; curriculum: 61 chapters published. Formal vendor/SRE reviews and live lab execution remain pending.
+
+### Chapter 10.1 — Security Architecture, Trust Boundaries and Threat Modeling
+- Canonical: [Published](part-10-security/01-security-architecture-trust-boundaries-threat-modeling/01-security-architecture-trust-boundaries-threat-modeling.md)
+- Lab: [Published](part-10-security/labs/01-security-architecture-trust-boundaries-threat-modeling-check.md)
+- Part 10: 1/7 chapters and labs; curriculum: 62 chapters published. Formal reviews and live execution pending.
