@@ -292,3 +292,9 @@ See [Part 9 layout](part-09-networking/PART-09-LAYOUT.md). Formal reviews and li
 ---
 
 **Current milestone:** Part 09 — Networking in progress: Chapters 9.1–9.2 and their labs published; Chapter 9.3 next. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+
+### Chapter 9.3 — Ingress, Gateway API and Cloud Load Balancers
+- Canonical: [Published](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md)
+- Lab: [Published](part-09-networking/labs/03-ingress-gateway-api-cloud-load-balancers-check.md)
+- Repository validation: pending final link verification; vendor/SRE review and live execution pending.
+- Part 09 publication: 3/7 chapters and labs; curriculum: 57 chapters published (based on prior 56).
