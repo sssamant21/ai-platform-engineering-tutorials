@@ -72,7 +72,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [9.4 — DNS, TLS, Certificates and Secure Endpoint Exposure](part-09-networking/04-dns-tls-certificates-secure-endpoint-exposure/04-dns-tls-certificates-secure-endpoint-exposure.md) — [Hands-on Lab](part-09-networking/labs/04-dns-tls-certificates-secure-endpoint-exposure-check.md) (published)
 - [9.5 — NetworkPolicy, Private Networking and Egress Security](part-09-networking/05-networkpolicy-private-networking-egress-security/05-networkpolicy-private-networking-egress-security.md) — [Hands-on Lab](part-09-networking/labs/05-networkpolicy-private-networking-egress-security-check.md) (published)
 - [9.6 — Inference Streaming, Timeouts and Networking Troubleshooting](part-09-networking/06-inference-streaming-timeouts-networking-troubleshooting/06-inference-streaming-timeouts-networking-troubleshooting.md) — [Hands-on Lab](part-09-networking/labs/06-inference-streaming-timeouts-networking-troubleshooting-check.md) (published)
-- 9.7 — Production Networking and Recovery Capstone (planned)
+- [9.7 — Production Networking and Recovery Capstone](part-09-networking/07-production-networking-recovery-capstone/07-production-networking-recovery-capstone.md) — [Hands-on Lab](part-09-networking/labs/07-production-networking-recovery-capstone-check.md) (published)
 - [Part 9 master layout](part-09-networking/PART-09-LAYOUT.md)
 
 ## Part 10 — Security
