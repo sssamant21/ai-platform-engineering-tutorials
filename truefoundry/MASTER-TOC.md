@@ -92,7 +92,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [11.3 — Prometheus Metrics, Exporters and Recording Rules](part-11-observability/03-prometheus-metrics-exporters-recording-rules/03-prometheus-metrics-exporters-recording-rules.md) — [Hands-on Lab](part-11-observability/labs/03-prometheus-metrics-exporters-recording-rules-check.md) (published)
 - [11.4 — OpenTelemetry Distributed Tracing and Correlation](part-11-observability/04-opentelemetry-distributed-tracing-correlation/04-opentelemetry-distributed-tracing-correlation.md) — [Hands-on Lab](part-11-observability/labs/04-opentelemetry-distributed-tracing-correlation-check.md) (published)
 - [11.5 — GPU, vLLM and Inference Performance Observability](part-11-observability/05-gpu-vllm-inference-performance-observability/05-gpu-vllm-inference-performance-observability.md) — [Hands-on Lab](part-11-observability/labs/05-gpu-vllm-inference-performance-observability-check.md) (published)
-- 11.6 — Dashboards, SLIs, SLOs, Alerting and Error Budgets (planned)
+- [11.6 — Dashboards, SLIs, SLOs, Alerting and Error Budgets](part-11-observability/06-dashboards-slis-slos-alerting-error-budgets/06-dashboards-slis-slos-alerting-error-budgets.md) — [Hands-on Lab](part-11-observability/labs/06-dashboards-slis-slos-alerting-error-budgets-check.md) (published)
 - 11.7 — Enterprise Observability and Incident Detection Capstone (planned)
 - [Part 11 master layout](part-11-observability/PART-11-LAYOUT.md)
 
