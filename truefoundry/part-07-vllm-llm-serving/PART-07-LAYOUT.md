@@ -8,10 +8,10 @@
 | 7.2 | vLLM Deployment with TrueFoundry and Kubernetes | [Tutorial](02-vllm-deployment-truefoundry-kubernetes/02-vllm-deployment-truefoundry-kubernetes.md) | [Lab](labs/02-vllm-deployment-truefoundry-kubernetes-check.md) |
 | 7.3 | GPU CUDA PyTorch and Device Detection | [Tutorial](03-gpu-cuda-pytorch-device-detection/03-gpu-cuda-pytorch-device-detection.md) | [Lab](labs/03-gpu-cuda-pytorch-device-detection-check.md) |
 | 7.4 | Model Loading Tokenizers and Tensor Parallelism | [Tutorial](04-model-loading-tokenizers-tensor-parallelism/04-model-loading-tokenizers-tensor-parallelism.md) | [Lab](labs/04-model-loading-tokenizers-tensor-parallelism-check.md) |
-| 7.5 | PagedAttention KV Cache and Continuous Batching | Planned | Planned |
+| 7.5 | PagedAttention KV Cache and Continuous Batching | [Tutorial](05-pagedattention-kv-cache-continuous-batching/05-pagedattention-kv-cache-continuous-batching.md) | [Lab](labs/05-pagedattention-kv-cache-continuous-batching-check.md) |
 | 7.6 | vLLM Performance Tuning Observability and Troubleshooting | Planned | Planned |
 | 7.7 | Production vLLM Deployment and Recovery Capstone | Planned | Planned |
 
-**Publication:** 4/7 chapters and 4/7 labs published. Formal technical/vendor validation, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
+**Publication:** 5/7 chapters and 5/7 labs published. Formal technical/vendor validation, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
 
 **Operating principles:** pin immutable model/image/runtime; verify actual GPU device chain; measure TTFT/ITL and KV cache; use lowest proven healthy layer and first failed transition; recover via authoritative TrueFoundry/GitOps release.
