@@ -197,7 +197,7 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 
 ## Part 7 — vLLM & LLM Serving
 
-**Status:** 🟡 In Progress — 5/7 published
+**Status:** 🟡 In Progress — 6/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
@@ -206,7 +206,7 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 | 7.3 | GPU CUDA PyTorch and Device Detection | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 7.4 | Model Loading Tokenizers and Tensor Parallelism | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 7.5 | PagedAttention KV Cache and Continuous Batching | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 7.6 | vLLM Performance Tuning Observability and Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 7.6 | vLLM Performance Tuning Observability and Troubleshooting | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 7.7 | Production vLLM Deployment and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
 See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews and live lab execution remain pending.
@@ -255,7 +255,7 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 | 4 | GPU Infrastructure | ✅ Publication Complete — 7/7 published |
 | 5 | Application Deployment | ✅ Publication Complete — 7/7 published |
 | 6 | Model Serving | ✅ Publication Complete — 7/7 published |
-| 7 | vLLM & LLM Serving | 🟡 In Progress — 5/7 published |
+| 7 | vLLM & LLM Serving | 🟡 In Progress — 6/7 published |
 | 8 | Scaling & Performance | ⬜ Not Started |
 | 9 | Networking | ⬜ Not Started |
 | 10 | Security | ⬜ Not Started |
@@ -267,4 +267,4 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 
 ---
 
-**Current milestone:** Part 07 — vLLM & LLM Serving in progress. Chapters 7.1–7.5 and their labs published; Chapter 7.6 next. Part 06 publication complete. Formal vendor and SRE reviews and live lab execution remain separate milestones.
+**Current milestone:** Part 07 — vLLM & LLM Serving in progress. Chapters 7.1–7.6 and their labs published; Chapter 7.7 next. Part 06 publication complete. Formal vendor and SRE reviews and live lab execution remain separate milestones.
