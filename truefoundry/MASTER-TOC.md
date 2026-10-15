@@ -31,7 +31,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [5.4 — Resource Requests, Limits, Probes and Workload Reliability](part-05-application-deployment/04-resource-requests-limits-probes-reliability/04-resource-requests-limits-probes-reliability.md) — [Hands-on Lab](part-05-application-deployment/labs/04-resource-requests-limits-probes-reliability-check.md) (published)
 - [5.5 — Services, Endpoints, Routing and Application Connectivity](part-05-application-deployment/05-services-endpoints-routing-connectivity/05-services-endpoints-routing-connectivity.md) — [Hands-on Lab](part-05-application-deployment/labs/05-services-endpoints-routing-connectivity-check.md) (published)
 - [5.6 — Deployment Revisions, Rollouts, Rollbacks and Troubleshooting](part-05-application-deployment/06-deployment-revisions-rollouts-rollbacks-troubleshooting/06-deployment-revisions-rollouts-rollbacks-troubleshooting.md) — [Hands-on Lab](part-05-application-deployment/labs/06-deployment-revisions-rollouts-rollbacks-troubleshooting-check.md) (published)
-- 5.7 — Production Application Deployment and Recovery Capstone (planned)
+- [5.7 — Production Application Deployment and Recovery Capstone](part-05-application-deployment/07-production-application-deployment-recovery-capstone/07-production-application-deployment-recovery-capstone.md) — [Hands-on Lab](part-05-application-deployment/labs/07-production-application-deployment-recovery-capstone-check.md) (published)
 - [Part 5 master layout](part-05-application-deployment/PART-05-LAYOUT.md)
 
 ## Part 6 — Model Serving
