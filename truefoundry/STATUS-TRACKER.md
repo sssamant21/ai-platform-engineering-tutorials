@@ -181,12 +181,12 @@ Formal technical/vendor and SRE reviews and actual lab execution remain pending.
 
 ## Part 6 — Model Serving
 
-**Status:** 🟡 In Progress — 1/7 published
+**Status:** 🟡 In Progress — 2/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
 | 6.1 | Model-Serving Fundamentals and Architecture | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 6.2 | Model Artifacts, Registries and Storage Integration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 6.2 | Model Artifacts, Registries and Storage Integration | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 6.3 | CPU and GPU Inference Runtimes and Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 6.4 | Inference Endpoints, Request Lifecycle and API Reliability | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 6.5 | Model Loading, Warmup, Health Probes and Readiness | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -242,7 +242,7 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 | 3 | Compute & Scheduling | ✅ Complete — 6/6 |
 | 4 | GPU Infrastructure | ✅ Publication Complete — 7/7 published |
 | 5 | Application Deployment | ✅ Publication Complete — 7/7 published |
-| 6 | Model Serving | 🟡 In Progress — 1/7 published |
+| 6 | Model Serving | 🟡 In Progress — 2/7 published |
 | 7 | vLLM & LLM Serving | ⬜ Not Started |
 | 8 | Scaling & Performance | ⬜ Not Started |
 | 9 | Networking | ⬜ Not Started |
@@ -255,4 +255,4 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 
 ---
 
-**Current milestone:** Part 06 — Model Serving in progress. Chapter 6.1 and its lab published; Chapter 6.2 next. Formal vendor and SRE reviews and live lab execution remain separate milestones.
+**Current milestone:** Part 06 — Model Serving in progress. Chapters 6.1–6.2 and their labs published; Chapter 6.3 next. Formal vendor and SRE reviews and live lab execution remain separate milestones.
