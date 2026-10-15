@@ -81,7 +81,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [10.3 — Kubernetes RBAC, ServiceAccounts and Workload Identity](part-10-security/03-kubernetes-rbac-serviceaccounts-workload-identity/03-kubernetes-rbac-serviceaccounts-workload-identity.md) — [Hands-on Lab](part-10-security/labs/03-kubernetes-rbac-serviceaccounts-workload-identity-check.md) (published)
 - [10.4 — Secrets Management, Encryption and Credential Rotation](part-10-security/04-secrets-management-encryption-credential-rotation/04-secrets-management-encryption-credential-rotation.md) — [Hands-on Lab](part-10-security/labs/04-secrets-management-encryption-credential-rotation-check.md) (published)
 - [10.5 — Cloud IAM, Supply Chain and Runtime Security](part-10-security/05-cloud-iam-supply-chain-runtime-security/05-cloud-iam-supply-chain-runtime-security.md) — [Hands-on Lab](part-10-security/labs/05-cloud-iam-supply-chain-runtime-security-check.md) (published)
-- 10.6 — Security Observability, Audit and Incident Response (planned)
+- [10.6 — Security Observability, Audit and Incident Response](part-10-security/06-security-observability-audit-incident-response/06-security-observability-audit-incident-response.md) — [Hands-on Lab](part-10-security/labs/06-security-observability-audit-incident-response-check.md) (published)
 - 10.7 — Production Security Hardening and Recovery Capstone (planned)
 - [Part 10 master layout](part-10-security/PART-10-LAYOUT.md)
 
