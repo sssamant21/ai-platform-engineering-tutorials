@@ -37,7 +37,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 ## Part 6 — Model Serving
 - [6.1 — Model-Serving Fundamentals and Architecture](part-06-model-serving/01-model-serving-fundamentals-architecture/01-model-serving-fundamentals-architecture.md) — [Hands-on Lab](part-06-model-serving/labs/01-model-serving-fundamentals-architecture-check.md) (published)
 - [6.2 — Model Artifacts, Registries and Storage Integration](part-06-model-serving/02-model-artifacts-registries-storage/02-model-artifacts-registries-storage.md) — [Hands-on Lab](part-06-model-serving/labs/02-model-artifacts-registries-storage-check.md) (published)
-- 6.3 — CPU and GPU Inference Runtimes and Scheduling (planned)
+- [6.3 — CPU and GPU Inference Runtimes and Scheduling](part-06-model-serving/03-cpu-gpu-inference-runtimes-scheduling/03-cpu-gpu-inference-runtimes-scheduling.md) — [Hands-on Lab](part-06-model-serving/labs/03-cpu-gpu-inference-runtimes-scheduling-check.md) (published)
 - 6.4 — Inference Endpoints, Request Lifecycle and API Reliability (planned)
 - 6.5 — Model Loading, Warmup, Health Probes and Readiness (planned)
 - 6.6 — Model-Serving Observability, Performance and Troubleshooting (planned)
