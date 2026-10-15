@@ -181,7 +181,7 @@ Formal technical/vendor and SRE reviews and actual lab execution remain pending.
 
 ## Part 6 — Model Serving
 
-**Status:** 🟡 In Progress — 6/7 published
+**Status:** ✅ Publication Complete — 7/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
@@ -191,7 +191,7 @@ Formal technical/vendor and SRE reviews and actual lab execution remain pending.
 | 6.4 | Inference Endpoints, Request Lifecycle and API Reliability | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 6.5 | Model Loading, Warmup, Health Probes and Readiness | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 6.6 | Model-Serving Observability, Performance and Troubleshooting | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 6.7 | Production Model-Serving Deployment and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 6.7 | Production Model-Serving Deployment and Recovery Capstone | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 
 See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/vendor validation, SRE review and live lab execution remain pending.
 
@@ -242,7 +242,7 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 | 3 | Compute & Scheduling | ✅ Complete — 6/6 |
 | 4 | GPU Infrastructure | ✅ Publication Complete — 7/7 published |
 | 5 | Application Deployment | ✅ Publication Complete — 7/7 published |
-| 6 | Model Serving | 🟡 In Progress — 6/7 published |
+| 6 | Model Serving | ✅ Publication Complete — 7/7 published |
 | 7 | vLLM & LLM Serving | ⬜ Not Started |
 | 8 | Scaling & Performance | ⬜ Not Started |
 | 9 | Networking | ⬜ Not Started |
@@ -255,4 +255,4 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 
 ---
 
-**Current milestone:** Part 06 — Model Serving in progress. Chapters 6.1–6.6 and their labs published; Chapter 6.7 next. Formal vendor and SRE reviews and live lab execution remain separate milestones.
+**Current milestone:** Part 06 — Model Serving in progress. Part 06 publication complete: Chapters 6.1–6.7 and their labs published. Next: Part 07 — vLLM and LLM Serving. Formal vendor and SRE reviews and live lab execution remain separate milestones.
