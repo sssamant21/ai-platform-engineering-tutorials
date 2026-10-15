@@ -76,7 +76,14 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 9 master layout](part-09-networking/PART-09-LAYOUT.md)
 
 ## Part 10 — Security
-Architecture, authentication/authorization, RBAC, ServiceAccounts, secrets, cloud IAM, isolation, production checklist.
+- [10.1 — Security Architecture, Trust Boundaries and Threat Modeling](part-10-security/01-security-architecture-trust-boundaries-threat-modeling/01-security-architecture-trust-boundaries-threat-modeling.md) — [Hands-on Lab](part-10-security/labs/01-security-architecture-trust-boundaries-threat-modeling-check.md) (published)
+- 10.2 — Identity, SSO, Authentication and Authorization (planned)
+- 10.3 — Kubernetes RBAC, ServiceAccounts and Workload Identity (planned)
+- 10.4 — Secrets Management, Encryption and Credential Rotation (planned)
+- 10.5 — Cloud IAM, Supply Chain and Runtime Security (planned)
+- 10.6 — Security Observability, Audit and Incident Response (planned)
+- 10.7 — Production Security Hardening and Recovery Capstone (planned)
+- [Part 10 master layout](part-10-security/PART-10-LAYOUT.md)
 
 ## Part 11 — Observability
 Architecture, logs, Kubernetes events, platform/GPU/model metrics, latency/throughput/errors, dashboards/alerts.
