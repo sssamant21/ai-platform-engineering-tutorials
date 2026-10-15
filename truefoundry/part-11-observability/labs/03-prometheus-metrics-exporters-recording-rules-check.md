@@ -1,105 +1,172 @@
-# Chapter 11.3 — Hands-on Lab: Prometheus Metrics, Exporters and Recording Rules
+# Lab 11.3 — Prometheus Metrics, Exporters and Recording Rules Check
 
-**Part 11 | Staging only | Live execution pending**
+**Canonical:** [Chapter 11.3](../03-prometheus-metrics-exporters-recording-rules/03-prometheus-metrics-exporters-recording-rules.md)  
+**Default:** [SAFE-READ]. Only approved isolated staging changes are [LAB-MUTATE].
 
-## Mission and safeguards
+## 1. Mission
 
-Validate Prometheus target discovery, Kubernetes/node/GPU exporters, inference metrics, PromQL, recording rules, cardinality, storage and failure recovery. **[SAFE-READ]** inspect; **[LAB-MUTATE]** isolated staging; **[CHANGE-CONTROL]** production approval. Use synthetic traffic and no secrets, raw prompts or customer data.
+Inventory the actual Prometheus pipeline, prove scrape health and metric semantics, validate a versioned recording rule, and diagnose 24 common observability failures. Do not scrape customer data, expose /metrics publicly, leak bearer tokens or mutate production monitoring.
 
-## Lab 0 — Inventory [SAFE-READ]
+## 2. Preflight
+
+```text
+Date/time, approval and owner:
+TrueFoundry workspace/cluster/namespace:
+Prometheus/Operator/collector and versions:
+Monitoring namespace, target labels and endpoint:
+vLLM/GPU exporter versions and metric names:
+Known-good rule revision and rollback:
+Series/cardinality, cost and query budgets:
+```
+
+## 3. Read-only inventory
 
 ```bash
 kubectl config current-context
-kubectl get pods -A -o wide
-kubectl get svc -A
-kubectl get servicemonitors,podmonitors -A 2>/dev/null || true
-kubectl get prometheusrules -A 2>/dev/null || true
-kubectl get deployments,daemonsets -A
-kubectl top nodes 2>/dev/null || true
+kubectl -n <monitoring-namespace> get pods,svc -o wide
+kubectl -n <namespace> get svc,endpointslices,pods -o wide
+kubectl -n <namespace> get events --sort-by=.lastTimestamp
 ```
 
-Record Prometheus version, Operator/managed implementation, retention, target labels, namespace selectors, exporters, GPU runtime, approved metric names and rule owner. Missing CRDs mean use the installed scrape/rule mechanism or tabletop.
+If Operator CRDs exist:
 
-## Lab 1 — Target discovery and exporter validation
-
-From an approved Prometheus UI/API, list UP/DOWN targets and scrape duration/sample count. Inspect kube-state-metrics, node exporter, kubelet/cAdvisor, gateway/app and optional DCGM/vLLM endpoints. Validate units, labels and version-dependent metric availability.
-
-## Lab 2 — PromQL validation
-
-Run `up`, `rate`, `increase`, `sum by`, histogram p95 and `absent` against verified metrics. Compare synthetic request counts with gateway logs. Explain missing series vs zero, counter reset and sparse-traffic edge cases. Do not aggregate summary quantiles across instances.
-
-## Lab 3 — Recording rules [LAB-MUTATE]
-
-Create staging-only rules for request rate, 5xx ratio and p95 based on existing metrics. Run:
 ```bash
-promtool check rules staging-recording-rules.yml
+kubectl -n <monitoring-namespace> get servicemonitors.monitoring.coreos.com
+kubectl -n <monitoring-namespace> get podmonitors.monitoring.coreos.com
+kubectl -n <monitoring-namespace> get prometheusrules.monitoring.coreos.com
 ```
-Use a local file matching the installed Prometheus rule syntax; if Prometheus Operator is installed, apply a reviewed `PrometheusRule` in an approved staging namespace. Confirm selection, evaluation interval, series creation and query parity with the source expression. Revert lab rules afterward.
 
-## Lab 4 — Cardinality and storage review
+If absent, mark Not installed and inspect the installed collector rather than installing components.
 
-Estimate series count by metric and label dimensions; identify unbounded labels and propose source-side fixes. Inspect TSDB head series, ingestion, WAL, retention and remote-write queue from approved dashboards. Record storage/cost impact before any change.
+## 4. Target and exporter worksheet
 
-## Lab 5 — Faults and recovery
+| Source | Target discovered | up | Key series | Owner/evidence |
+|---|---|---|---|---|
+| kube-state-metrics | | | | |
+| node exporter | | | | |
+| kubelet/cAdvisor | | | | |
+| DCGM GPU exporter | | | | |
+| vLLM /metrics | | | | |
+| TrueFoundry integration | | | | |
+| Gateway/Ingress | | | | |
+| Autoscaler | | | | |
 
-Rehearse target DOWN, invalid scrape path, bad rule expression, high cardinality and remote-write outage on disposable resources or tabletop. Verify alert routing and rollback. Do not disable production scraping or delete TSDB data.
+PromQL:
 
-## Lab 6 — Evidence and cleanup
+```promql
+up
+count by (job) (up)
+count by (job) (up == 0)
+scrape_duration_seconds
+scrape_samples_scraped
+prometheus_rule_evaluation_failures_total
+```
 
-Restore lab-only rules and workloads, validate target health and no new series explosion. Capture sanitized UTC evidence, PromQL, expected/actual values, rule validation, reviewer and rollback commit.
+Remember: a missing target has **no** `up` series; do not count it as up=0.
 
-## Thirty failure scenarios
+## 5. Metric correctness checks
 
-| # | Scenario | Diagnostic focus |
+| Check | Query/observation | Result |
 |---|---|---|
-| 01 | Prometheus Pod not Ready | StatefulSet/storage |
-| 02 | Prometheus target DOWN | Discovery/network |
-| 03 | ServiceMonitor CRD missing | Operator installation |
-| 04 | ServiceMonitor selector mismatch | Labels |
-| 05 | Namespace selector excludes target | Scope |
-| 06 | Service port name wrong | Endpoint |
-| 07 | Metrics path wrong | HTTP |
-| 08 | Metrics endpoint TLS error | Trust |
-| 09 | Metrics endpoint 401/403 | Auth |
-| 10 | NetworkPolicy blocks scrape | Connectivity |
-| 11 | Exporter reports UP but series absent | Exporter/filter |
-| 12 | kube-state-metrics missing | Deployment |
-| 13 | Node exporter not scheduled | DaemonSet |
-| 14 | kubelet/cAdvisor series unavailable | Managed cluster |
-| 15 | DCGM exporter absent | GPU metrics |
-| 16 | MIG GPU labels incompatible | Exporter version |
-| 17 | vLLM metric renamed | Runtime version |
-| 18 | PromQL returns no data | Labels/staleness |
-| 19 | Counter reset misinterpreted | `rate` |
-| 20 | Sparse traffic inflates error ratio | Denominator |
-| 21 | Histogram p95 wrong | Buckets/units |
-| 22 | Summary quantiles averaged | Invalid aggregation |
-| 23 | Recording rule YAML invalid | `promtool` |
-| 24 | PrometheusRule not selected | Operator labels |
-| 25 | Recording rule evaluation slow | Query cost |
-| 26 | High-cardinality label explosion | Series budget |
-| 27 | WAL/disk saturation | Storage |
-| 28 | Remote-write queue backlog | Receiver/network |
-| 29 | Alert missing or noisy | Rules/routing |
-| 30 | Metrics endpoint leaks sensitive labels | Privacy |
+| Counter rate survives restart | | |
+| Gauge units documented | | |
+| Request throughput by service | | |
+| 5xx ratio with low-traffic handling | | |
+| Histogram P95 aggregated by le/service | | |
+| GPU metric labels and units | | |
+| vLLM TTFT/ITL metric type | | |
+| Queue/KV/token metrics available | | |
+| No sensitive/high-cardinality labels | | |
 
-For each: expected/actual, time, target/series, sanitized evidence, cause hypothesis, mitigation, rollback and reviewer. Mark unsafe tests tabletop.
+Example PromQL **only after verifying names**:
 
-## Ten acceptance gates
+```promql
+sum by (service) (rate(http_requests_total[5m]))
+sum by (service) (rate(http_requests_total{status=~"5.."}[5m]))
+/
+clamp_min(sum by (service) (rate(http_requests_total[5m])), 1e-9)
+histogram_quantile(0.95, sum by (le, service) (rate(http_request_duration_seconds_bucket[5m])))
+```
 
-| Gate | Evidence | Status |
+## 6. Recording rule test [SAFE-READ local validation]
+
+Extract a standard Prometheus rule file from the chapter's illustrative `PrometheusRule.spec.groups` (do not pass the CRD wrapper directly to promtool). Then run:
+
+```bash
+promtool check rules inference-rules.yaml
+promtool test rules inference-rules-test.yaml
+```
+
+The second command requires a correctly authored test file with `rule_files`, `evaluation_interval`, `tests` and expected series. Cover counter resets, no traffic, missing targets, histogram bucket aggregation and rule label scope. Record test file commit and output.
+
+## 7. Optional staging deployment [LAB-MUTATE]
+
+1. Obtain change approval and confirm an isolated monitoring target.
+2. Validate Prometheus Operator CRDs, selectors and Service named metrics port.
+3. Deploy only a lab-owned ServiceMonitor/PrometheusRule through the authorized GitOps workflow.
+4. Confirm target discovery, `up=1`, fresh samples and rule evaluation.
+5. Verify dashboards and an approved non-paging test alert route.
+6. Stop for cardinality spikes, scrape pressure, sensitive data or unexpected alerts.
+7. Roll back via the authoritative revision; verify targets, rules and alert routing.
+
+If mutation is not approved, mark live deployment Not run.
+
+## 8. Failure tabletop
+
+| ID | Scenario | LPHL | FFT | Evidence | Recovery |
+|---|---|---|---|---|---|
+| M1 | Exporter absent | | | | |
+| M2 | Operator CRD absent | | | | |
+| M3 | ServiceMonitor ignored | | | | |
+| M4 | Metrics port mismatch | | | | |
+| M5 | Target undiscovered | | | | |
+| M6 | up=0 | | | | |
+| M7 | Scrape TLS failure | | | | |
+| M8 | Scrape auth denied | | | | |
+| M9 | NetworkPolicy block | | | | |
+| M10 | Scrape timeout | | | | |
+| M11 | Renamed metric | | | | |
+| M12 | DCGM missing GPU | | | | |
+| M13 | vLLM metrics missing | | | | |
+| M14 | Counter reset artifact | | | | |
+| M15 | Histogram P95 wrong | | | | |
+| M16 | Summary quantiles averaged | | | | |
+| M17 | High cardinality | | | | |
+| M18 | Relabel drop | | | | |
+| M19 | Invalid recording rule | | | | |
+| M20 | Rule not evaluated | | | | |
+| M21 | Expensive query | | | | |
+| M22 | Remote-write backlog | | | | |
+| M23 | Missing target hidden | | | | |
+| M24 | Alert route failure | | | | |
+
+LPHL = Lowest Proven Healthy Layer; FFT = First Failed Transition.
+
+## 9. Acceptance gates
+
+| Gate | Pass / Fail / Not run | Evidence |
 |---|---|---|
-| G1 | Approved scope and exporter inventory | Pending |
-| G2 | Scrape target discovery and health verified | Pending |
-| G3 | Kubernetes/node/container metrics verified | Pending |
-| G4 | GPU/vLLM metrics verified or gaps recorded | Pending |
-| G5 | PromQL counters, gauges, histograms validated | Pending |
-| G6 | Recording rules syntax/evaluation verified | Pending |
-| G7 | Cardinality, privacy and storage budgets reviewed | Pending |
-| G8 | Dashboards and alert ownership tested | Pending |
-| G9 | Recovery, rollback and cleanup demonstrated | Pending |
-| G10 | SRE review and sign-off recorded | Pending |
+| A1 Architecture and ownership | | |
+| A2 Target discovery and scrape health | | |
+| A3 Kubernetes/GPU/vLLM signals | | |
+| A4 PromQL and histogram semantics | | |
+| A5 Rule validation/version control | | |
+| A6 Cardinality/retention/security | | |
+| A7 M1–M24 LPHL/FFT | | |
+| A8 Staging, rollback and alert | | |
 
-**Pass** requires timestamped evidence and reviewer approval; pending/blocked is not pass.
+## 10. Final report
+
+```text
+Scope/owner/date/approval:
+Prometheus/collector/exporter versions:
+Target inventory and scrape health:
+GPU/vLLM metric families and units:
+PromQL and rule test output:
+Cardinality, retention, data security:
+M1–M24 LPHL/FFT:
+A1–A8 Pass/Fail/Not run:
+Rollback revision, reviewer, open risks:
+```
 
 **Next:** Chapter 11.4 — OpenTelemetry Distributed Tracing and Correlation.
