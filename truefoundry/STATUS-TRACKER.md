@@ -261,12 +261,12 @@ See [Part 10 layout](part-10-security/PART-10-LAYOUT.md).
 
 ## Part 11 — Observability
 
-**Status:** 🟡 In Progress — 1/7 published
+**Status:** 🟡 In Progress — 2/7 published
 
 | Chapter | Topic | Canonical | Review | Live Lab | Security Review | Tutorial | Lab | Link Check |
 |---|---|---|---|---|---|---|---|---|
 | 11.1 | Observability Architecture and Telemetry Foundations | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 11.2 | Logging Architecture, Structured Logs and Kubernetes Events | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 11.2 | Logging Architecture, Structured Logs and Kubernetes Events | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 11.3 | Prometheus Metrics, Exporters and Recording Rules | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 11.4 | OpenTelemetry Distributed Tracing and Correlation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 11.5 | GPU, vLLM and Inference Performance Observability | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -307,7 +307,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 8 | Scaling & Performance | 🟡 Publication Complete — 7/7 published |
 | 9 | Networking | 🟡 In Progress — 2/7 published |
 | 10 | Security | ✅ Publication Complete — 7/7 published |
-| 11 | Observability | 🟡 In Progress — 1/7 published |
+| 11 | Observability | 🟡 In Progress — 2/7 published |
 | 12 | Production Operations | ⬜ Not Started |
 | 13 | Troubleshooting | ⬜ Not Started |
 | 14 | SRE Runbooks | ⬜ Not Started |
@@ -315,7 +315,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ---
 
-**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapters 10.1–10.7 and labs published (7/7); Part 10 publication complete; Part 11 Chapter 11.1 and lab published (1/7), Chapter 11.2 next. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapters 10.1–10.7 and labs published (7/7); Part 10 publication complete; Part 11 Chapters 11.1–11.2 and labs published (2/7), Chapter 11.3 next. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
 
 ### Chapter 9.3 — Ingress, Gateway API and Cloud Load Balancers
 - Canonical: [Published](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md)
@@ -381,4 +381,9 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 ### Chapter 11.1 — Observability Architecture and Telemetry Foundations
 - Canonical: [Published](part-11-observability/01-observability-architecture-telemetry-foundations/01-observability-architecture-telemetry-foundations.md)
 - Lab: [Published](part-11-observability/labs/01-observability-architecture-telemetry-foundations-check.md)
-- Part 11: 1/7 chapters and labs; curriculum: 69 chapters published. Formal review and live execution pending.
+- Part 11: 2/7 chapters and labs; curriculum: 70 chapters published. Formal review and live execution pending.
+
+### Chapter 11.2 — Logging Architecture, Structured Logs and Kubernetes Events
+- Canonical: [Published](part-11-observability/02-logging-architecture-structured-logs-kubernetes-events/02-logging-architecture-structured-logs-kubernetes-events.md)
+- Lab: [Published](part-11-observability/labs/02-logging-architecture-structured-logs-kubernetes-events-check.md)
+- Part 11: 2/7 chapters and labs; curriculum: 70 chapters. Formal review and live execution pending.
