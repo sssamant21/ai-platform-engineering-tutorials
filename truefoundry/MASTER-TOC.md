@@ -51,7 +51,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [7.4 — Model Loading Tokenizers and Tensor Parallelism](part-07-vllm-llm-serving/04-model-loading-tokenizers-tensor-parallelism/04-model-loading-tokenizers-tensor-parallelism.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/04-model-loading-tokenizers-tensor-parallelism-check.md) (published)
 - [7.5 — PagedAttention KV Cache and Continuous Batching](part-07-vllm-llm-serving/05-pagedattention-kv-cache-continuous-batching/05-pagedattention-kv-cache-continuous-batching.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/05-pagedattention-kv-cache-continuous-batching-check.md) (published)
 - [7.6 — vLLM Performance Tuning Observability and Troubleshooting](part-07-vllm-llm-serving/06-vllm-performance-tuning-observability-troubleshooting/06-vllm-performance-tuning-observability-troubleshooting.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/06-vllm-performance-tuning-observability-troubleshooting-check.md) (published)
-- 7.7 — Production vLLM Deployment and Recovery Capstone (planned)
+- [7.7 — Production vLLM Deployment and Recovery Capstone](part-07-vllm-llm-serving/07-production-vllm-deployment-recovery-capstone/07-production-vllm-deployment-recovery-capstone.md) — [Hands-on Lab](part-07-vllm-llm-serving/labs/07-production-vllm-deployment-recovery-capstone-check.md) (published)
 - [Part 7 master layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md)
 
 ## Part 8 — Scaling & Performance
