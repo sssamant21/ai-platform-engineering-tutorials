@@ -61,7 +61,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [8.4 — GPU Node Autoscaling and Cluster Capacity](part-08-scaling-performance/04-gpu-node-autoscaling-cluster-capacity/04-gpu-node-autoscaling-cluster-capacity.md) — [Hands-on Lab](part-08-scaling-performance/labs/04-gpu-node-autoscaling-cluster-capacity-check.md) (published)
 - [8.5 — Inference Concurrency, Latency and Throughput Optimization](part-08-scaling-performance/05-inference-concurrency-latency-throughput-optimization/05-inference-concurrency-latency-throughput-optimization.md) — [Hands-on Lab](part-08-scaling-performance/labs/05-inference-concurrency-latency-throughput-optimization-check.md) (published)
 - [8.6 — Scaling Observability, Cost and Troubleshooting](part-08-scaling-performance/06-scaling-observability-cost-troubleshooting/06-scaling-observability-cost-troubleshooting.md) — [Hands-on Lab](part-08-scaling-performance/labs/06-scaling-observability-cost-troubleshooting-check.md) (published)
-- 8.7 — Production Scaling and Recovery Capstone (planned)
+- [8.7 — Production Scaling and Recovery Capstone](part-08-scaling-performance/07-production-scaling-recovery-capstone/07-production-scaling-recovery-capstone.md) — [Hands-on Lab](part-08-scaling-performance/labs/07-production-scaling-recovery-capstone-check.md) (published)
 - [Part 8 master layout](part-08-scaling-performance/PART-08-LAYOUT.md)
 
 ## Part 9 — Networking
