@@ -6,12 +6,12 @@
 |---|---|---|---|
 | 8.1 | Scaling Architecture and GPU-Aware Capacity Planning | [Tutorial](01-scaling-architecture-capacity-planning/01-scaling-architecture-capacity-planning.md) | [Lab](labs/01-scaling-architecture-capacity-planning-check.md) |
 | 8.2 | Horizontal Pod Autoscaling for Inference Workloads | [Tutorial](02-horizontal-pod-autoscaling-inference-workloads/02-horizontal-pod-autoscaling-inference-workloads.md) | [Lab](labs/02-horizontal-pod-autoscaling-inference-workloads-check.md) |
-| 8.3 | KEDA Event-Driven Scaling and Custom Metrics | Planned | Planned |
+| 8.3 | KEDA Event-Driven Scaling and Custom Metrics | [Tutorial](03-keda-event-driven-scaling-custom-metrics/03-keda-event-driven-scaling-custom-metrics.md) | [Lab](labs/03-keda-event-driven-scaling-custom-metrics-check.md) |
 | 8.4 | GPU Node Autoscaling and Cluster Capacity | Planned | Planned |
 | 8.5 | Inference Concurrency, Latency and Throughput Optimization | Planned | Planned |
 | 8.6 | Scaling Observability, Cost and Troubleshooting | Planned | Planned |
 | 8.7 | Production Scaling and Recovery Capstone | Planned | Planned |
 
-**Publication:** 2/7 chapters and 2/7 labs published. Formal technical/vendor review, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
+**Publication:** 3/7 chapters and 3/7 labs published. Formal technical/vendor review, production/SRE review, revised-final approval and live lab execution remain separate pending milestones.
 
 **Operating principles:** measure SLO-constrained throughput; separate engine batching, serving replicas and GPU nodes; plan N-1 headroom and cold starts; validate metrics; protect streaming requests; recover through authoritative TrueFoundry/GitOps.
