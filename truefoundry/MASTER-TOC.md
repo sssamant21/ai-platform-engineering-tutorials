@@ -77,7 +77,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 ## Part 10 — Security
 - [10.1 — Security Architecture, Trust Boundaries and Threat Modeling](part-10-security/01-security-architecture-trust-boundaries-threat-modeling/01-security-architecture-trust-boundaries-threat-modeling.md) — [Hands-on Lab](part-10-security/labs/01-security-architecture-trust-boundaries-threat-modeling-check.md) (published)
-- 10.2 — Identity, SSO, Authentication and Authorization (planned)
+- [10.2 — Identity, SSO, Authentication and Authorization](part-10-security/02-identity-sso-authentication-authorization/02-identity-sso-authentication-authorization.md) — [Hands-on Lab](part-10-security/labs/02-identity-sso-authentication-authorization-check.md) (published)
 - 10.3 — Kubernetes RBAC, ServiceAccounts and Workload Identity (planned)
 - 10.4 — Secrets Management, Encryption and Credential Rotation (planned)
 - 10.5 — Cloud IAM, Supply Chain and Runtime Security (planned)
