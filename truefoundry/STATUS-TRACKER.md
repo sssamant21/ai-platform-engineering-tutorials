@@ -197,7 +197,7 @@ See [Part 6 layout](part-06-model-serving/PART-06-LAYOUT.md). Formal technical/v
 
 ## Part 7 — vLLM & LLM Serving
 
-**Status:** 🟡 Publication Complete — 7/7 published
+**Status:** ✅ Publication Complete — 7/7 published
 
 | # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
 |---|---|---|---|---|---|---|---|---|
@@ -213,7 +213,19 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 
 ## Part 8 — Scaling & Performance
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress — 1/7 published
+
+| # | Tutorial | Draft | Technical/Vendor Validation | Production/SRE Review | Revised Final | Canonical | Hands-On Lab | Repository Validation |
+|---|---|---|---|---|---|---|---|---|
+| 8.1 | Scaling Architecture and GPU-Aware Capacity Planning | ✅ | ⬜ Pending formal review | ⬜ Pending formal review | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
+| 8.2 | Horizontal Pod Autoscaling for Inference Workloads | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.3 | KEDA Event-Driven Scaling and Custom Metrics | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.4 | GPU Node Autoscaling and Cluster Capacity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.5 | Inference Concurrency, Latency and Throughput Optimization | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.6 | Scaling Observability, Cost and Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 8.7 | Production Scaling and Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+See [Part 8 layout](part-08-scaling-performance/PART-08-LAYOUT.md). Formal reviews and live lab execution remain pending.
 
 ## Part 9 — Networking
 
@@ -255,8 +267,8 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 | 4 | GPU Infrastructure | ✅ Publication Complete — 7/7 published |
 | 5 | Application Deployment | ✅ Publication Complete — 7/7 published |
 | 6 | Model Serving | ✅ Publication Complete — 7/7 published |
-| 7 | vLLM & LLM Serving | 🟡 Publication Complete — 7/7 published |
-| 8 | Scaling & Performance | ⬜ Not Started |
+| 7 | vLLM & LLM Serving | ✅ Publication Complete — 7/7 published |
+| 8 | Scaling & Performance | 🟡 In Progress — 1/7 published |
 | 9 | Networking | ⬜ Not Started |
 | 10 | Security | ⬜ Not Started |
 | 11 | Observability | ⬜ Not Started |
@@ -267,4 +279,4 @@ See [Part 7 layout](part-07-vllm-llm-serving/PART-07-LAYOUT.md). Formal reviews 
 
 ---
 
-**Current milestone:** Part 07 — vLLM & LLM Serving publication complete: Chapters 7.1–7.7 and all seven labs published. Next: Part 08. Parts 06 and 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 08 — Scaling & Performance in progress: Chapter 8.1 and its lab published; Chapter 8.2 next. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
