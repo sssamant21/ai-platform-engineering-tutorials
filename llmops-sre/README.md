@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 10/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 11/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -77,4 +77,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 02:** 5/5 chapters and companion labs published. Reviews, live execution and acceptance remain pending.
 
-**Next:** Chapter 011 — GPU Architecture, SMs, HBM and Memory Bandwidth.
+**Published:** [Chapter 011 — GPU Architecture, SMs, HBM and Memory Bandwidth](part-03-gpu-cuda-vram/011-gpu-architecture-sms-hbm-memory-bandwidth.md) — [Lab](labs/011-gpu-architecture-sms-hbm-memory-bandwidth-check.md).
+
+**Part 03:** 1/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 012 — CUDA Runtime, Drivers, Containers and Compatibility.
