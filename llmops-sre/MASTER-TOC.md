@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 20/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 21/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -33,7 +33,7 @@
 - [018 — Continuous Batching, PagedAttention and KV Cache](part-04-vllm/018-continuous-batching-pagedattention-kv-cache.md) — [Hands-on Lab](labs/018-continuous-batching-pagedattention-kv-cache-check.md) (published)
 - [019 — vLLM Streaming and OpenAI-Compatible APIs](part-04-vllm/019-vllm-streaming-openai-compatible-apis.md) — [Hands-on Lab](labs/019-vllm-streaming-openai-compatible-apis-check.md) (published)
 - [020 — vLLM GPU Memory and Context Tuning](part-04-vllm/020-vllm-gpu-memory-context-tuning.md) — [Hands-on Lab](labs/020-vllm-gpu-memory-context-tuning-check.md) (published)
-- 021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving (planned)
+- [021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving](part-04-vllm/021-vllm-tensor-pipeline-parallelism-distributed-serving.md) — [Hands-on Lab](labs/021-vllm-tensor-pipeline-parallelism-distributed-serving-check.md) (published)
 - 022 — vLLM Security, Authentication and Network Isolation (planned)
 - 023 — vLLM Metrics, Logging and Distributed Tracing (planned)
 - 024 — vLLM Slowness, CUDA OOM and Recovery Runbooks (planned)
