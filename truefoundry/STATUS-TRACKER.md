@@ -457,3 +457,19 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-12-production-operations/07-production-readiness-recovery-capstone/07-production-readiness-recovery-capstone.md)
 - Lab: [Published](part-12-production-operations/labs/07-production-readiness-recovery-capstone-check.md)
 - Part 12: 7/7 chapters and labs published; curriculum: 82 chapters published. Formal technical/security review, live execution and acceptance remain pending.
+
+## Part 13 — Troubleshooting
+
+**Status:** 🟡 In Progress — 1/7 published
+
+| Chapter | Topic | Tutorial | Review | Live Lab | Acceptance | Canonical | Lab | Verified |
+|---|---|---|---|---|---|---|---|---|
+| 13.1 | Production Troubleshooting Methodology and Evidence Collection | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
+| 13.2 | TrueFoundry Agent and Control Plane Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.3 | Kubernetes Scheduling, Pending Pods and GPU Capacity Failures | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.4 | Deployment Failures, CrashLoopBackOff and ImagePullBackOff | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.5 | Networking, DNS, TLS, Ingress and Streaming Failures | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.6 | NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.7 | Enterprise Troubleshooting and Incident Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+- Part 13: 1/7 chapters and labs; curriculum: **83 chapters published**. Formal review and live execution pending. Next Chapter 13.2.
