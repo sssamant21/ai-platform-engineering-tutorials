@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 29/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 30/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -35,7 +35,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 027 | Triton Model Repository and Model Lifecycle | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 028 | Triton Scheduling, Dynamic Batching and Ensembles | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 029 | Triton GPU Metrics and Model Performance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 030 | Triton Kubernetes Deployment and Operations | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 030 | Triton Kubernetes Deployment and Operations | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 031 | TensorRT-LLM Architecture and Compilation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 032 | TensorRT-LLM Quantization and Engine Compatibility | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 033 | TensorRT-LLM Throughput, Latency and KV Cache | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -260,3 +260,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-05-triton-tensorrt-llm/029-triton-gpu-metrics-model-performance.md) and [companion lab](labs/029-triton-gpu-metrics-model-performance-check.md) — published.
 - Part 05: 4/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 030 — Triton Kubernetes Deployment and Operations.
+
+## Chapter 030 publication evidence
+- [Canonical tutorial](part-05-triton-tensorrt-llm/030-triton-kubernetes-deployment-operations.md) and [companion lab](labs/030-triton-kubernetes-deployment-operations-check.md) — published.
+- Part 05: 5/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 031 — TensorRT-LLM Architecture and Compilation.
