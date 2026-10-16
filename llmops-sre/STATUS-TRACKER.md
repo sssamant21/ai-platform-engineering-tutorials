@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 14/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 15/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -20,7 +20,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 012 | CUDA Runtime, Drivers, Containers and Compatibility | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 013 | GPU VRAM Sizing, Precision and Quantization | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 014 | Multi-GPU Parallelism and Topology | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 015 | GPU Diagnostics, DCGM and Failure Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 015 | GPU Diagnostics, DCGM and Failure Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 016 | vLLM Architecture and Production Deployment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 017 | vLLM Model Loading and Runtime Configuration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 018 | Continuous Batching, PagedAttention and KV Cache | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -185,3 +185,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-03-gpu-cuda-vram/014-multi-gpu-parallelism-topology.md) and [companion lab](labs/014-multi-gpu-parallelism-topology-check.md) — published.
 - Part 03: 4/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 015 — GPU Diagnostics, DCGM and Failure Lab.
+
+## Chapter 015 and Part 03 publication evidence
+- [Chapter 015 tutorial](part-03-gpu-cuda-vram/015-gpu-diagnostics-dcgm-failure-lab.md) and [capstone lab](labs/015-gpu-diagnostics-dcgm-failure-lab-check.md) — published.
+- **Part 03 written curriculum: 5/5 chapters and 5/5 companion labs published.** Technical/security review, live execution, 100-point assessment and operational acceptance remain pending.
+- Next: Chapter 016 — vLLM Architecture and Production Deployment.
