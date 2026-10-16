@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 7/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 8/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -65,4 +65,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 02:** 2/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 008 — Prefill, Decode, KV Cache and Continuous Batching.
+**Published:** [Chapter 008 — Prefill, Decode, KV Cache and Continuous Batching](part-02-inference-internals/008-prefill-decode-kv-cache-continuous-batching.md) — [Lab](labs/008-prefill-decode-kv-cache-continuous-batching-check.md).
+
+**Part 02:** 3/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 009 — Streaming, Backpressure and API Gateway Behavior.
