@@ -103,7 +103,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [12.4 — Production Releases, Upgrades and Rollback](part-12-production-operations/04-production-releases-upgrades-rollback/04-production-releases-upgrades-rollback.md) — [Hands-on Lab](part-12-production-operations/labs/04-production-releases-upgrades-rollback-check.md) (published)
 - [12.5 — FinOps, GPU Cost Governance and Rightsizing](part-12-production-operations/05-finops-gpu-cost-governance-rightsizing/05-finops-gpu-cost-governance-rightsizing.md) — [Hands-on Lab](part-12-production-operations/labs/05-finops-gpu-cost-governance-rightsizing-check.md) (published)
 - [12.6 — Operational Runbooks, Maintenance and Incident Command](part-12-production-operations/06-operational-runbooks-maintenance-incident-command/06-operational-runbooks-maintenance-incident-command.md) — [Hands-on Lab](part-12-production-operations/labs/06-operational-runbooks-maintenance-incident-command-check.md) (published)
-- 12.7 — Production Readiness and Recovery Capstone (planned)
+- [12.7 — Production Readiness and Recovery Capstone](part-12-production-operations/07-production-readiness-recovery-capstone/07-production-readiness-recovery-capstone.md) — [Acceptance Lab](part-12-production-operations/labs/07-production-readiness-recovery-capstone-check.md) (published)
 - [Part 12 master layout](part-12-production-operations/PART-12-LAYOUT.md)
 
 ## Part 13 — Troubleshooting
