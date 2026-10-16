@@ -10,6 +10,6 @@
 | 13.4 | Deployment Failures, CrashLoopBackOff and ImagePullBackOff | [Tutorial](04-deployment-failures-crashloopbackoff-imagepullbackoff/04-deployment-failures-crashloopbackoff-imagepullbackoff.md) | [Lab](labs/04-deployment-failures-crashloopbackoff-imagepullbackoff-check.md) |
 | 13.5 | Networking, DNS, TLS, Ingress and Streaming Failures | [Tutorial](05-networking-dns-tls-ingress-streaming-failures/05-networking-dns-tls-ingress-streaming-failures.md) | [Lab](labs/05-networking-dns-tls-ingress-streaming-failures-check.md) |
 | 13.6 | NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance | [Tutorial](06-nvidia-drivers-cuda-gpu-oom-vllm-performance/06-nvidia-drivers-cuda-gpu-oom-vllm-performance.md) | [Lab](labs/06-nvidia-drivers-cuda-gpu-oom-vllm-performance-check.md) |
-| 13.7 | Enterprise Troubleshooting and Incident Recovery Capstone | Planned | Planned |
+| 13.7 | Enterprise Troubleshooting and Incident Recovery Capstone | [Tutorial](07-enterprise-troubleshooting-incident-recovery-capstone/07-enterprise-troubleshooting-incident-recovery-capstone.md) | [Lab](labs/07-enterprise-troubleshooting-incident-recovery-capstone-check.md) |
 
-**Publication:** 6/7 chapters and 6/7 labs published. Formal review and live execution pending.
+**Publication:** 7/7 chapters and 7/7 labs published — publication complete. Formal review and live execution pending.
