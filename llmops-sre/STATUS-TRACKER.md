@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 19/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 20/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -25,7 +25,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 017 | vLLM Model Loading and Runtime Configuration | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 018 | Continuous Batching, PagedAttention and KV Cache | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 019 | vLLM Streaming and OpenAI-Compatible APIs | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 020 | vLLM GPU Memory and Context Tuning | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 020 | vLLM GPU Memory and Context Tuning | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 021 | vLLM Tensor/Pipeline Parallelism and Distributed Serving | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 022 | vLLM Security, Authentication and Network Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 023 | vLLM Metrics, Logging and Distributed Tracing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -210,3 +210,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-04-vllm/019-vllm-streaming-openai-compatible-apis.md) and [companion lab](labs/019-vllm-streaming-openai-compatible-apis-check.md) — published.
 - Part 04: 4/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 020 — vLLM GPU Memory and Context Tuning.
+
+## Chapter 020 publication evidence
+- [Canonical tutorial](part-04-vllm/020-vllm-gpu-memory-context-tuning.md) and [companion lab](labs/020-vllm-gpu-memory-context-tuning-check.md) — published.
+- Part 04: 5/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving.
