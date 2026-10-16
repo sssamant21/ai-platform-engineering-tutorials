@@ -311,7 +311,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 15 — End-to-End Production Project
 
-**Status:** 🟡 In Progress — 4/7 published
+**Status:** 🟡 In Progress — 5/7 published
 
 | Chapter | Topic | Draft | Technical review | Security review | Lab executed | Tutorial published | Lab published | Verified |
 |---|---|---|---|---|---|---|---|
@@ -319,11 +319,11 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 15.2 | Kubernetes and GPU Infrastructure Foundation | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.3 | TrueFoundry Integration and Secure Model Serving | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.4 | Networking, Security and GitOps Delivery | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 15.5 | Observability, SLOs and Load/Capacity Validation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.5 | Observability, SLOs and Load/Capacity Validation | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.6 | Failure Injection, Incident Response and Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 15.7 | Production Readiness and Final Enterprise Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-**Part 15 publication:** 4/7 chapters and labs; curriculum: **100 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.5.
+**Part 15 publication:** 5/7 chapters and labs; curriculum: **101 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.6.
 
 ---
 
@@ -345,7 +345,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
 | 14 | SRE Runbooks | ✅ Publication Complete — 7/7 published |
-| 15 | End-to-End Production Project | 🟡 In Progress — 4/7 published |
+| 15 | End-to-End Production Project | 🟡 In Progress — 5/7 published |
 
 ---
 
@@ -584,3 +584,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-15-end-to-end-production-project/04-networking-security-gitops-delivery/04-networking-security-gitops-delivery.md)
 - Lab: [Published](part-15-end-to-end-production-project/labs/04-networking-security-gitops-delivery-check.md)
 - Part 15: 4/7 chapters and labs; curriculum: 100 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 15.5 — Observability, SLOs and Load/Capacity Validation
+- Canonical: [Published](part-15-end-to-end-production-project/05-observability-slos-load-capacity-validation/05-observability-slos-load-capacity-validation.md)
+- Lab: [Published](part-15-end-to-end-production-project/labs/05-observability-slos-load-capacity-validation-check.md)
+- Part 15: 5/7 chapters and labs; curriculum: 101 chapters published. Formal technical/security review and live execution pending.
