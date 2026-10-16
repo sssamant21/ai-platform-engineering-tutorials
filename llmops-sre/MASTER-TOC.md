@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 12/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 13/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -22,7 +22,7 @@
 
 - [011 — GPU Architecture, SMs, HBM and Memory Bandwidth](part-03-gpu-cuda-vram/011-gpu-architecture-sms-hbm-memory-bandwidth.md) — [Hands-on Lab](labs/011-gpu-architecture-sms-hbm-memory-bandwidth-check.md) (published)
 - [012 — CUDA Runtime, Drivers, Containers and Compatibility](part-03-gpu-cuda-vram/012-cuda-runtime-drivers-containers-compatibility.md) — [Hands-on Lab](labs/012-cuda-runtime-drivers-containers-compatibility-check.md) (published)
-- 013 — GPU VRAM Sizing, Precision and Quantization (planned)
+- [013 — GPU VRAM Sizing, Precision and Quantization](part-03-gpu-cuda-vram/013-gpu-vram-sizing-precision-quantization.md) — [Hands-on Lab](labs/013-gpu-vram-sizing-precision-quantization-check.md) (published)
 - 014 — Multi-GPU Parallelism and Topology (planned)
 - 015 — GPU Diagnostics, DCGM and Failure Lab (planned)
 
