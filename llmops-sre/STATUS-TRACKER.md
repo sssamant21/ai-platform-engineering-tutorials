@@ -1,12 +1,12 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Curriculum planned, not yet authored. **Published:** 0/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 1/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
 | Chapter | Topic | Draft | Review | Tutorial | Lab | Live execution |
 |---|---|---|---|---|---|---|
-| 001 | Introduction to LLMOps and AI Inference SRE | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 001 | Introduction to LLMOps and AI Inference SRE | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 002 | Production LLM Service Architecture and SRE Responsibilities | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 003 | SLIs, SLOs, Error Budgets and Inference User Journeys | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 004 | Hands-On Lab Environment and Safety Controls | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -106,3 +106,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 098 | Implement SLOs, Load Testing and Capacity Governance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 099 | Run Compound Failure and Incident Recovery Exercises | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 100 | Final AI Inference SRE Production Readiness Assessment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+## Chapter 001 publication evidence
+- [Canonical tutorial](part-01-fundamentals/001-introduction-to-llmops-ai-inference-sre.md) — published and verified.
+- [Companion lab](labs/001-introduction-to-llmops-ai-inference-sre-check.md) — published and verified.
+- Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 002 — Production LLM Service Architecture and SRE Responsibilities.
