@@ -125,7 +125,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [14.4 — Model Deployment and Rollback](part-14-sre-runbooks/04-model-deployment-rollback/04-model-deployment-rollback.md) — [Hands-on Lab](part-14-sre-runbooks/labs/04-model-deployment-rollback-check.md) (published)
 - [14.5 — vLLM Serving Health and Performance](part-14-sre-runbooks/05-vllm-serving-health-performance/05-vllm-serving-health-performance.md) — [Hands-on Lab](part-14-sre-runbooks/labs/05-vllm-serving-health-performance-check.md) (published)
 - [14.6 — Incident Response, Escalation and Communications](part-14-sre-runbooks/06-incident-response-escalation-communications/06-incident-response-escalation-communications.md) — [Hands-on Lab](part-14-sre-runbooks/labs/06-incident-response-escalation-communications-check.md) (published)
-- 14.7 — Post-Incident Validation and Reliability Acceptance (planned)
+- [14.7 — Post-Incident Validation and Reliability Acceptance](part-14-sre-runbooks/07-post-incident-validation-reliability-acceptance/07-post-incident-validation-reliability-acceptance.md) — [Hands-on Lab](part-14-sre-runbooks/labs/07-post-incident-validation-reliability-acceptance-check.md) (published)
 
 ## Part 15 — End-to-End Production Project
 Architecture, Kubernetes, GPU, TrueFoundry, vLLM deployment, networking/security, observability, load testing, failure/recovery, readiness, incident simulation, acceptance lab.
