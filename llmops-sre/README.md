@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 14/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 15/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -93,4 +93,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 03:** 4/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 015 — GPU Diagnostics, DCGM and Failure Lab.
+**Published:** [Chapter 015 — GPU Diagnostics, DCGM and Failure Lab](part-03-gpu-cuda-vram/015-gpu-diagnostics-dcgm-failure-lab.md) — [Capstone Lab](labs/015-gpu-diagnostics-dcgm-failure-lab-check.md).
+
+**Part 03:** 5/5 chapters and companion labs published. Technical/security review, live execution and operational acceptance remain pending.
+
+**Next:** Chapter 016 — vLLM Architecture and Production Deployment.
