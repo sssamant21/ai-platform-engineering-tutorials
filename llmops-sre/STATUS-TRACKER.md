@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 7/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 8/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -13,7 +13,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 005 | Fundamentals Acceptance Lab and Incident Walkthrough | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 006 | Transformer Inference Request Lifecycle | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 007 | Tokenization, Context Windows and Generation Parameters | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 008 | Prefill, Decode, KV Cache and Continuous Batching | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 008 | Prefill, Decode, KV Cache and Continuous Batching | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 009 | Streaming, Backpressure and API Gateway Behavior | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 010 | Inference Internals Performance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 011 | GPU Architecture, SMs, HBM and Memory Bandwidth | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -148,3 +148,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/007-tokenization-context-windows-generation-parameters-check.md) — published.
 - Part 02: 2/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 008 — Prefill, Decode, KV Cache and Continuous Batching.
+
+## Chapter 008 publication evidence
+- [Canonical tutorial](part-02-inference-internals/008-prefill-decode-kv-cache-continuous-batching.md) — published.
+- [Companion lab](labs/008-prefill-decode-kv-cache-continuous-batching-check.md) — published.
+- Part 02: 3/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 009 — Streaming, Backpressure and API Gateway Behavior.
