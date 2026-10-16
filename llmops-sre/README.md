@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** master plan published; tutorials and labs not yet written.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 1/100 chapters and companion labs published; technical review and live execution pending.
 
 ## Mission
 
@@ -45,4 +45,6 @@ Each chapter should contain learning objectives, architecture and production tra
 3. Update this index, master TOC and status tracker.
 4. Keep technical review, security review, actual lab execution and acceptance tracked separately.
 
-**Next:** Chapter 001 — Introduction to LLMOps and AI Inference SRE.
+**Published:** [Chapter 001 — Introduction to LLMOps and AI Inference SRE](part-01-fundamentals/001-introduction-to-llmops-ai-inference-sre.md) — [Lab](labs/001-introduction-to-llmops-ai-inference-sre-check.md).
+
+**Next:** Chapter 002 — Production LLM Service Architecture and SRE Responsibilities.
