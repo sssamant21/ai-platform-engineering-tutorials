@@ -117,7 +117,15 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 13 master layout](part-13-troubleshooting/PART-13-LAYOUT.md)
 
 ## Part 14 — SRE Runbooks
-Platform health, `tfy-agent`, GPU health, model deployment, vLLM health, incidents, post-incident validation.
+[Part 14 Layout](part-14-sre-runbooks/PART-14-LAYOUT.md)
+
+- [14.1 — Platform Health Monitoring and Incident Detection](part-14-sre-runbooks/01-platform-health-monitoring-incident-detection/01-platform-health-monitoring-incident-detection.md) — [Hands-on Lab](part-14-sre-runbooks/labs/01-platform-health-monitoring-incident-detection-check.md) (published)
+- 14.2 — TrueFoundry Agent Health and Reconciliation (planned)
+- 14.3 — GPU Node Health and Capacity (planned)
+- 14.4 — Model Deployment and Rollback (planned)
+- 14.5 — vLLM Serving Health and Performance (planned)
+- 14.6 — Incident Response, Escalation and Communications (planned)
+- 14.7 — Post-Incident Validation and Reliability Acceptance (planned)
 
 ## Part 15 — End-to-End Production Project
 Architecture, Kubernetes, GPU, TrueFoundry, vLLM deployment, networking/security, observability, load testing, failure/recovery, readiness, incident simulation, acceptance lab.
