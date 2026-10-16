@@ -108,7 +108,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 ## Part 13 — Troubleshooting
 - [13.1 — Production Troubleshooting Methodology and Evidence Collection](part-13-troubleshooting/01-production-troubleshooting-methodology-evidence/01-production-troubleshooting-methodology-evidence.md) — [Hands-on Lab](part-13-troubleshooting/labs/01-production-troubleshooting-methodology-evidence-check.md) (published)
-- 13.2 — TrueFoundry Agent and Control Plane Troubleshooting (planned)
+- [13.2 — TrueFoundry Agent and Control Plane Troubleshooting](part-13-troubleshooting/02-truefoundry-agent-control-plane-troubleshooting/02-truefoundry-agent-control-plane-troubleshooting.md) — [Hands-on Lab](part-13-troubleshooting/labs/02-truefoundry-agent-control-plane-troubleshooting-check.md) (published)
 - 13.3 — Kubernetes Scheduling, Pending Pods and GPU Capacity Failures (planned)
 - 13.4 — Deployment Failures, CrashLoopBackOff and ImagePullBackOff (planned)
 - 13.5 — Networking, DNS, TLS, Ingress and Streaming Failures (planned)
