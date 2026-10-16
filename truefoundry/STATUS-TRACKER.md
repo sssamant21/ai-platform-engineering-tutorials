@@ -277,12 +277,12 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 12 — Production Operations
 
-**Status:** 🟡 In Progress — 1/7 published
+**Status:** 🟡 In Progress — 2/7 published
 
 | Chapter | Topic | Tutorial | Review | Live Lab | Acceptance | Canonical | Lab | Verified |
 |---|---|---|---|---|---|---|---|---|
 | 12.1 | Production Operations Architecture and Readiness | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 12.2 | GPU Capacity Planning, Quotas and Production Scaling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 12.2 | GPU Capacity Planning, Quotas and Production Scaling | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 12.3 | High Availability, Resilience and Failure Domains | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 12.4 | Production Releases, Upgrades and Rollback | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 12.5 | FinOps, GPU Cost Governance and Rightsizing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -318,14 +318,14 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 9 | Networking | 🟡 In Progress — 2/7 published |
 | 10 | Security | ✅ Publication Complete — 7/7 published |
 | 11 | Observability | 🟢 Publication Complete — 7/7 published |
-| 12 | Production Operations | 🟡 In Progress — 1/7 published |
+| 12 | Production Operations | 🟡 In Progress — 2/7 published |
 | 13 | Troubleshooting | ⬜ Not Started |
 | 14 | SRE Runbooks | ⬜ Not Started |
 | 15 | End-to-End Production Project | ⬜ Not Started |
 
 ---
 
-**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapters 10.1–10.7 and labs published (7/7); Part 10 publication complete; Part 11 Chapters 11.1–11.7 and labs published (7/7); Part 11 publication complete; Part 12 Chapter 12.1 and lab published (1/7), Chapter 12.2 next. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapters 10.1–10.7 and labs published (7/7); Part 10 publication complete; Part 11 Chapters 11.1–11.7 and labs published (7/7); Part 11 publication complete; Part 12 Chapters 12.1–12.2 and labs published (2/7), Chapter 12.3 next. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
 
 ### Chapter 9.3 — Ingress, Gateway API and Cloud Load Balancers
 - Canonical: [Published](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md)
@@ -427,3 +427,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-12-production-operations/01-production-operations-architecture-readiness/01-production-operations-architecture-readiness.md)
 - Lab: [Published](part-12-production-operations/labs/01-production-operations-architecture-readiness-check.md)
 - Part 12: 1/7 chapters and labs; curriculum: 76 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 12.2 — GPU Capacity Planning, Quotas and Production Scaling
+- Canonical: [Published](part-12-production-operations/02-gpu-capacity-planning-quotas-production-scaling/02-gpu-capacity-planning-quotas-production-scaling.md)
+- Lab: [Published](part-12-production-operations/labs/02-gpu-capacity-planning-quotas-production-scaling-check.md)
+- Part 12: 2/7 chapters and labs; curriculum: 77 chapters published. Formal technical/security review and live execution pending.
