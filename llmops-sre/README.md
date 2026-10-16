@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 15/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 16/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -97,4 +97,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 03:** 5/5 chapters and companion labs published. Technical/security review, live execution and operational acceptance remain pending.
 
-**Next:** Chapter 016 — vLLM Architecture and Production Deployment.
+**Published:** [Chapter 016 — vLLM Architecture and Production Deployment](part-04-vllm/016-vllm-architecture-production-deployment.md) — [Lab](labs/016-vllm-architecture-production-deployment-check.md).
+
+**Part 04:** 1/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 017 — vLLM Model Loading and Runtime Configuration.
