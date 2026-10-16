@@ -460,7 +460,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 13 — Troubleshooting
 
-**Status:** 🟡 In Progress — 6/7 published
+**Status:** ✅ Publication Complete — 7/7 published
 
 | Chapter | Topic | Tutorial | Review | Live Lab | Acceptance | Canonical | Lab | Verified |
 |---|---|---|---|---|---|---|---|---|
@@ -470,9 +470,9 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 13.4 | Deployment Failures, CrashLoopBackOff and ImagePullBackOff | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 13.5 | Networking, DNS, TLS, Ingress and Streaming Failures | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 13.6 | NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 13.7 | Enterprise Troubleshooting and Incident Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.7 | Enterprise Troubleshooting and Incident Recovery Capstone | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 
-- Part 13: 6/7 chapters and labs; curriculum: **88 chapters published**. Formal review and live execution pending. Next Chapter 13.7.
+- Part 13: 7/7 chapters and labs; curriculum: **89 chapters published**. Publication complete; formal review and live execution pending. Next Part 14 — SRE Runbooks.
 
 ### Chapter 13.2 — TrueFoundry Agent and Control Plane Troubleshooting
 - Canonical: [Published](part-13-troubleshooting/02-truefoundry-agent-control-plane-troubleshooting/02-truefoundry-agent-control-plane-troubleshooting.md)
@@ -498,3 +498,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-13-troubleshooting/06-nvidia-drivers-cuda-gpu-oom-vllm-performance/06-nvidia-drivers-cuda-gpu-oom-vllm-performance.md)
 - Lab: [Published](part-13-troubleshooting/labs/06-nvidia-drivers-cuda-gpu-oom-vllm-performance-check.md)
 - Part 13: 6/7 chapters and labs; curriculum: 88 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 13.7 — Enterprise Troubleshooting and Incident Recovery Capstone
+- Canonical: [Published](part-13-troubleshooting/07-enterprise-troubleshooting-incident-recovery-capstone/07-enterprise-troubleshooting-incident-recovery-capstone.md)
+- Lab: [Published](part-13-troubleshooting/labs/07-enterprise-troubleshooting-incident-recovery-capstone-check.md)
+- Part 13: 7/7 chapters and labs published; curriculum: 89 chapters published. Formal technical/security review, live execution and acceptance pending.
