@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 5/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 6/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -57,4 +57,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 01:** 5/5 tutorials and 5/5 labs published. Technical/security review and actual lab execution are pending.
 
-**Next:** Chapter 006 — Transformer Inference Request Lifecycle (Part 02).
+**Published:** [Chapter 006 — Transformer Inference Request Lifecycle](part-02-inference-internals/006-transformer-inference-request-lifecycle.md) — [Lab](labs/006-transformer-inference-request-lifecycle-check.md).
+
+**Part 02:** 1/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 007 — Tokenization, Context Windows and Generation Parameters.
