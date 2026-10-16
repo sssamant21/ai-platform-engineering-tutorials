@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 28/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 29/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -44,7 +44,7 @@
 - [026 — Triton Inference Server Architecture](part-05-triton-tensorrt-llm/026-triton-inference-server-architecture.md) — [Hands-on Lab](labs/026-triton-inference-server-architecture-check.md) (published)
 - [027 — Triton Model Repository and Model Lifecycle](part-05-triton-tensorrt-llm/027-triton-model-repository-model-lifecycle.md) — [Hands-on Lab](labs/027-triton-model-repository-model-lifecycle-check.md) (published)
 - [028 — Triton Scheduling, Dynamic Batching and Ensembles](part-05-triton-tensorrt-llm/028-triton-scheduling-dynamic-batching-ensembles.md) — [Hands-on Lab](labs/028-triton-scheduling-dynamic-batching-ensembles-check.md) (published)
-- 029 — Triton GPU Metrics and Model Performance (planned)
+- [029 — Triton GPU Metrics and Model Performance](part-05-triton-tensorrt-llm/029-triton-gpu-metrics-model-performance.md) — [Hands-on Lab](labs/029-triton-gpu-metrics-model-performance-check.md) (published)
 - 030 — Triton Kubernetes Deployment and Operations (planned)
 - 031 — TensorRT-LLM Architecture and Compilation (planned)
 - 032 — TensorRT-LLM Quantization and Engine Compatibility (planned)
