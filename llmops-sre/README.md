@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 6/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 7/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -61,4 +61,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 02:** 1/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 007 — Tokenization, Context Windows and Generation Parameters.
+**Published:** [Chapter 007 — Tokenization, Context Windows and Generation Parameters](part-02-inference-internals/007-tokenization-context-windows-generation-parameters.md) — [Lab](labs/007-tokenization-context-windows-generation-parameters-check.md).
+
+**Part 02:** 2/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 008 — Prefill, Decode, KV Cache and Continuous Batching.
