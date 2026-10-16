@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 14/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 15/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -24,7 +24,7 @@
 - [012 — CUDA Runtime, Drivers, Containers and Compatibility](part-03-gpu-cuda-vram/012-cuda-runtime-drivers-containers-compatibility.md) — [Hands-on Lab](labs/012-cuda-runtime-drivers-containers-compatibility-check.md) (published)
 - [013 — GPU VRAM Sizing, Precision and Quantization](part-03-gpu-cuda-vram/013-gpu-vram-sizing-precision-quantization.md) — [Hands-on Lab](labs/013-gpu-vram-sizing-precision-quantization-check.md) (published)
 - [014 — Multi-GPU Parallelism and Topology](part-03-gpu-cuda-vram/014-multi-gpu-parallelism-topology.md) — [Hands-on Lab](labs/014-multi-gpu-parallelism-topology-check.md) (published)
-- 015 — GPU Diagnostics, DCGM and Failure Lab (planned)
+- [015 — GPU Diagnostics, DCGM and Failure Lab](part-03-gpu-cuda-vram/015-gpu-diagnostics-dcgm-failure-lab.md) — [Capstone Lab](labs/015-gpu-diagnostics-dcgm-failure-lab-check.md) (published)
 
 ## Part 04 — vLLM Administration and Operations (Chapters 016–025)
 
