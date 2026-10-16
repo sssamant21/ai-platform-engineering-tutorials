@@ -295,7 +295,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 14 — SRE Runbooks
 
-**Status:** 🟡 In Progress — 5/7 published
+**Status:** 🟡 In Progress — 6/7 published
 
 | Chapter | Topic | Draft | Review | Live Lab | Acceptance | Tutorial | Lab | Verified |
 |---|---|---|---|---|---|---|---|---|
@@ -304,10 +304,10 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 14.3 | GPU Node Health and Capacity | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.4 | Model Deployment and Rollback | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.5 | vLLM Serving Health and Performance | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 14.6 | Incident Response, Escalation and Communications | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.6 | Incident Response, Escalation and Communications | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.7 | Post-Incident Validation and Reliability Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-**Part 14 publication:** 5/7 chapters and labs; curriculum: **94 chapters published**. Formal review and live execution pending. Next Chapter 14.6.
+**Part 14 publication:** 6/7 chapters and labs; curriculum: **95 chapters published**. Formal review and live execution pending. Next Chapter 14.7.
 
 ## Part 15 — End-to-End Production Project
 
@@ -332,7 +332,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 11 | Observability | 🟢 Publication Complete — 7/7 published |
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
-| 14 | SRE Runbooks | 🟡 In Progress — 5/7 published |
+| 14 | SRE Runbooks | 🟡 In Progress — 6/7 published |
 | 15 | End-to-End Production Project | ⬜ Not Started |
 
 ---
@@ -541,3 +541,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-14-sre-runbooks/05-vllm-serving-health-performance/05-vllm-serving-health-performance.md)
 - Lab: [Published](part-14-sre-runbooks/labs/05-vllm-serving-health-performance-check.md)
 - Part 14: 5/7 chapters and labs; curriculum: 94 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 14.6 — Incident Response, Escalation and Communications
+- Canonical: [Published](part-14-sre-runbooks/06-incident-response-escalation-communications/06-incident-response-escalation-communications.md)
+- Lab: [Published](part-14-sre-runbooks/labs/06-incident-response-escalation-communications-check.md)
+- Part 14: 6/7 chapters and labs; curriculum: 95 chapters published. Formal technical/security review and live execution pending.
