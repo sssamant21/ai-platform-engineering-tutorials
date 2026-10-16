@@ -320,3 +320,11 @@ TrueFoundry
 
 ```
 
+
+
+## LLMOps & AI Inference SRE
+
+The [LLMOps & AI Inference SRE track](llmops-sre/README.md) contains a newly published 100-chapter master plan across 12 parts covering vLLM, Triton, TensorRT-LLM, Ray Serve, KServe, GPU/Kubernetes operations, observability, performance, security, FinOps and production incident recovery. Tutorials and hands-on labs are **planned**, not yet published or executed.
+
+- [LLMOps Master TOC](llmops-sre/MASTER-TOC.md)
+- [LLMOps Status Tracker](llmops-sre/STATUS-TRACKER.md)
