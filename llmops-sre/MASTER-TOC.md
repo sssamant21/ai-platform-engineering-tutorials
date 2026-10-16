@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 30/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 31/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -46,7 +46,7 @@
 - [028 — Triton Scheduling, Dynamic Batching and Ensembles](part-05-triton-tensorrt-llm/028-triton-scheduling-dynamic-batching-ensembles.md) — [Hands-on Lab](labs/028-triton-scheduling-dynamic-batching-ensembles-check.md) (published)
 - [029 — Triton GPU Metrics and Model Performance](part-05-triton-tensorrt-llm/029-triton-gpu-metrics-model-performance.md) — [Hands-on Lab](labs/029-triton-gpu-metrics-model-performance-check.md) (published)
 - [030 — Triton Kubernetes Deployment and Operations](part-05-triton-tensorrt-llm/030-triton-kubernetes-deployment-operations.md) — [Hands-on Lab](labs/030-triton-kubernetes-deployment-operations-check.md) (published)
-- 031 — TensorRT-LLM Architecture and Compilation (planned)
+- [031 — TensorRT-LLM Architecture and Compilation](part-05-triton-tensorrt-llm/031-tensorrt-llm-architecture-compilation.md) — [Hands-on Lab](labs/031-tensorrt-llm-architecture-compilation-check.md) (published)
 - 032 — TensorRT-LLM Quantization and Engine Compatibility (planned)
 - 033 — TensorRT-LLM Throughput, Latency and KV Cache (planned)
 - 034 — Triton and TensorRT-LLM Troubleshooting (planned)
