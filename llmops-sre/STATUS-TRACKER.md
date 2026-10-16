@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 4/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 5/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -10,7 +10,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 002 | Production LLM Service Architecture and SRE Responsibilities | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 003 | SLIs, SLOs, Error Budgets and Inference User Journeys | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 004 | Hands-On Lab Environment and Safety Controls | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 005 | Fundamentals Acceptance Lab and Incident Walkthrough | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 005 | Fundamentals Acceptance Lab and Incident Walkthrough | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 006 | Transformer Inference Request Lifecycle | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 007 | Tokenization, Context Windows and Generation Parameters | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 008 | Prefill, Decode, KV Cache and Continuous Batching | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -130,3 +130,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/004-hands-on-lab-environment-safety-controls-check.md) — published.
 - Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 005 — Fundamentals Acceptance Lab and Incident Walkthrough.
+
+## Part 01 written-curriculum completion
+- **5/5 tutorials and 5/5 companion labs published** for Chapters 001–005.
+- Technical/security review, live execution, evidence-based acceptance and reviewer signoff remain pending. Written completion is not operational readiness.
+- [Chapter 005 tutorial](part-01-fundamentals/005-fundamentals-acceptance-lab-incident-walkthrough.md) and [capstone lab](labs/005-fundamentals-acceptance-lab-incident-walkthrough-check.md).
+- Next: Chapter 006 — Transformer Inference Request Lifecycle (Part 02).
