@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 8/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 9/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -14,7 +14,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 006 | Transformer Inference Request Lifecycle | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 007 | Tokenization, Context Windows and Generation Parameters | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 008 | Prefill, Decode, KV Cache and Continuous Batching | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 009 | Streaming, Backpressure and API Gateway Behavior | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 009 | Streaming, Backpressure and API Gateway Behavior | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 010 | Inference Internals Performance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 011 | GPU Architecture, SMs, HBM and Memory Bandwidth | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 012 | CUDA Runtime, Drivers, Containers and Compatibility | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -154,3 +154,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/008-prefill-decode-kv-cache-continuous-batching-check.md) — published.
 - Part 02: 3/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 009 — Streaming, Backpressure and API Gateway Behavior.
+
+## Chapter 009 publication evidence
+- [Canonical tutorial](part-02-inference-internals/009-streaming-backpressure-api-gateway-behavior.md) — published.
+- [Companion lab](labs/009-streaming-backpressure-api-gateway-behavior-check.md) — published.
+- Part 02: 4/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 010 — Inference Internals Performance and Reliability Acceptance Project.
