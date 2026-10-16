@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 26/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 27/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -42,7 +42,7 @@
 ## Part 05 — NVIDIA Triton and TensorRT-LLM (Chapters 026–035)
 
 - [026 — Triton Inference Server Architecture](part-05-triton-tensorrt-llm/026-triton-inference-server-architecture.md) — [Hands-on Lab](labs/026-triton-inference-server-architecture-check.md) (published)
-- 027 — Triton Model Repository and Model Lifecycle (planned)
+- [027 — Triton Model Repository and Model Lifecycle](part-05-triton-tensorrt-llm/027-triton-model-repository-model-lifecycle.md) — [Hands-on Lab](labs/027-triton-model-repository-model-lifecycle-check.md) (published)
 - 028 — Triton Scheduling, Dynamic Batching and Ensembles (planned)
 - 029 — Triton GPU Metrics and Model Performance (planned)
 - 030 — Triton Kubernetes Deployment and Operations (planned)
