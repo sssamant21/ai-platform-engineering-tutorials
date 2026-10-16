@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 28/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 29/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -34,7 +34,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 026 | Triton Inference Server Architecture | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 027 | Triton Model Repository and Model Lifecycle | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 028 | Triton Scheduling, Dynamic Batching and Ensembles | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 029 | Triton GPU Metrics and Model Performance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 029 | Triton GPU Metrics and Model Performance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 030 | Triton Kubernetes Deployment and Operations | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 031 | TensorRT-LLM Architecture and Compilation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 032 | TensorRT-LLM Quantization and Engine Compatibility | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -255,3 +255,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-05-triton-tensorrt-llm/028-triton-scheduling-dynamic-batching-ensembles.md) and [companion lab](labs/028-triton-scheduling-dynamic-batching-ensembles-check.md) — published.
 - Part 05: 3/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 029 — Triton GPU Metrics and Model Performance.
+
+## Chapter 029 publication evidence
+- [Canonical tutorial](part-05-triton-tensorrt-llm/029-triton-gpu-metrics-model-performance.md) and [companion lab](labs/029-triton-gpu-metrics-model-performance-check.md) — published.
+- Part 05: 4/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 030 — Triton Kubernetes Deployment and Operations.
