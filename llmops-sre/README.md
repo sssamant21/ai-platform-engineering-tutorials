@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 11/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 12/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -81,4 +81,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 03:** 1/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 012 — CUDA Runtime, Drivers, Containers and Compatibility.
+**Published:** [Chapter 012 — CUDA Runtime, Drivers, Containers and Compatibility](part-03-gpu-cuda-vram/012-cuda-runtime-drivers-containers-compatibility.md) — [Lab](labs/012-cuda-runtime-drivers-containers-compatibility-check.md).
+
+**Part 03:** 2/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 013 — GPU VRAM Sizing, Precision and Quantization.
