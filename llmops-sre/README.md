@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 28/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 29/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -149,4 +149,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 05:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 029 — Triton GPU Metrics and Model Performance.
+**Published:** [Chapter 029 — Triton GPU Metrics and Model Performance](part-05-triton-tensorrt-llm/029-triton-gpu-metrics-model-performance.md) — [Lab](labs/029-triton-gpu-metrics-model-performance-check.md).
+
+**Part 05:** 4/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 030 — Triton Kubernetes Deployment and Operations.
