@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 15/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 16/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -21,7 +21,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 013 | GPU VRAM Sizing, Precision and Quantization | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 014 | Multi-GPU Parallelism and Topology | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 015 | GPU Diagnostics, DCGM and Failure Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 016 | vLLM Architecture and Production Deployment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 016 | vLLM Architecture and Production Deployment | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 017 | vLLM Model Loading and Runtime Configuration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 018 | Continuous Batching, PagedAttention and KV Cache | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 019 | vLLM Streaming and OpenAI-Compatible APIs | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -190,3 +190,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Chapter 015 tutorial](part-03-gpu-cuda-vram/015-gpu-diagnostics-dcgm-failure-lab.md) and [capstone lab](labs/015-gpu-diagnostics-dcgm-failure-lab-check.md) — published.
 - **Part 03 written curriculum: 5/5 chapters and 5/5 companion labs published.** Technical/security review, live execution, 100-point assessment and operational acceptance remain pending.
 - Next: Chapter 016 — vLLM Architecture and Production Deployment.
+
+## Chapter 016 publication evidence
+- [Canonical tutorial](part-04-vllm/016-vllm-architecture-production-deployment.md) and [companion lab](labs/016-vllm-architecture-production-deployment-check.md) — published.
+- Part 04: 1/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 017 — vLLM Model Loading and Runtime Configuration.
