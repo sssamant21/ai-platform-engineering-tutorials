@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 24/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 25/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -37,7 +37,7 @@
 - [022 — vLLM Security, Authentication and Network Isolation](part-04-vllm/022-vllm-security-authentication-network-isolation.md) — [Hands-on Lab](labs/022-vllm-security-authentication-network-isolation-check.md) (published)
 - [023 — vLLM Metrics, Logging and Distributed Tracing](part-04-vllm/023-vllm-metrics-logging-distributed-tracing.md) — [Hands-on Lab](labs/023-vllm-metrics-logging-distributed-tracing-check.md) (published)
 - [024 — vLLM Slowness, CUDA OOM and Recovery Runbooks](part-04-vllm/024-vllm-slowness-cuda-oom-recovery-runbooks.md) — [Hands-on Lab](labs/024-vllm-slowness-cuda-oom-recovery-runbooks-check.md) (published)
-- 025 — vLLM Production Acceptance Project (planned)
+- [025 — vLLM Production Acceptance Project](part-04-vllm/025-vllm-production-acceptance-project.md) — [Hands-on Lab](labs/025-vllm-production-acceptance-project-check.md) (published)
 
 ## Part 05 — NVIDIA Triton and TensorRT-LLM (Chapters 026–035)
 
