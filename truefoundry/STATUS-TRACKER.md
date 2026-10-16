@@ -460,19 +460,19 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 13 — Troubleshooting
 
-**Status:** 🟡 In Progress — 3/7 published
+**Status:** 🟡 In Progress — 4/7 published
 
 | Chapter | Topic | Tutorial | Review | Live Lab | Acceptance | Canonical | Lab | Verified |
 |---|---|---|---|---|---|---|---|---|
 | 13.1 | Production Troubleshooting Methodology and Evidence Collection | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 13.2 | TrueFoundry Agent and Control Plane Troubleshooting | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 13.3 | Kubernetes Scheduling, Pending Pods and GPU Capacity Failures | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 13.4 | Deployment Failures, CrashLoopBackOff and ImagePullBackOff | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 13.4 | Deployment Failures, CrashLoopBackOff and ImagePullBackOff | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 13.5 | Networking, DNS, TLS, Ingress and Streaming Failures | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 13.6 | NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 13.7 | Enterprise Troubleshooting and Incident Recovery Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-- Part 13: 3/7 chapters and labs; curriculum: **85 chapters published**. Formal review and live execution pending. Next Chapter 13.4.
+- Part 13: 4/7 chapters and labs; curriculum: **86 chapters published**. Formal review and live execution pending. Next Chapter 13.5.
 
 ### Chapter 13.2 — TrueFoundry Agent and Control Plane Troubleshooting
 - Canonical: [Published](part-13-troubleshooting/02-truefoundry-agent-control-plane-troubleshooting/02-truefoundry-agent-control-plane-troubleshooting.md)
@@ -483,3 +483,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-13-troubleshooting/03-kubernetes-scheduling-pending-pods-gpu-capacity/03-kubernetes-scheduling-pending-pods-gpu-capacity.md)
 - Lab: [Published](part-13-troubleshooting/labs/03-kubernetes-scheduling-pending-pods-gpu-capacity-check.md)
 - Part 13: 3/7 chapters and labs; curriculum: 85 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 13.4 — Deployment Failures, CrashLoopBackOff and ImagePullBackOff
+- Canonical: [Published](part-13-troubleshooting/04-deployment-failures-crashloopbackoff-imagepullbackoff/04-deployment-failures-crashloopbackoff-imagepullbackoff.md)
+- Lab: [Published](part-13-troubleshooting/labs/04-deployment-failures-crashloopbackoff-imagepullbackoff-check.md)
+- Part 13: 4/7 chapters and labs; curriculum: 86 chapters published. Formal technical/security review and live execution pending.
