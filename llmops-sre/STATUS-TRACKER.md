@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 13/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 14/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -19,7 +19,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 011 | GPU Architecture, SMs, HBM and Memory Bandwidth | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 012 | CUDA Runtime, Drivers, Containers and Compatibility | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 013 | GPU VRAM Sizing, Precision and Quantization | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 014 | Multi-GPU Parallelism and Topology | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 014 | Multi-GPU Parallelism and Topology | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 015 | GPU Diagnostics, DCGM and Failure Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 016 | vLLM Architecture and Production Deployment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 017 | vLLM Model Loading and Runtime Configuration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -180,3 +180,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-03-gpu-cuda-vram/013-gpu-vram-sizing-precision-quantization.md) and [companion lab](labs/013-gpu-vram-sizing-precision-quantization-check.md) — published.
 - Part 03: 3/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 014 — Multi-GPU Parallelism and Topology.
+
+## Chapter 014 publication evidence
+- [Canonical tutorial](part-03-gpu-cuda-vram/014-multi-gpu-parallelism-topology.md) and [companion lab](labs/014-multi-gpu-parallelism-topology-check.md) — published.
+- Part 03: 4/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 015 — GPU Diagnostics, DCGM and Failure Lab.
