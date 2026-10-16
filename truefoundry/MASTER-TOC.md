@@ -97,7 +97,14 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 11 master layout](part-11-observability/PART-11-LAYOUT.md)
 
 ## Part 12 — Production Operations
-Readiness, capacity, GPU capacity, HA, upgrades, FinOps, operational runbooks.
+- [12.1 — Production Operations Architecture and Readiness](part-12-production-operations/01-production-operations-architecture-readiness/01-production-operations-architecture-readiness.md) — [Hands-on Lab](part-12-production-operations/labs/01-production-operations-architecture-readiness-check.md) (published)
+- 12.2 — GPU Capacity Planning, Quotas and Production Scaling (planned)
+- 12.3 — High Availability, Resilience and Failure Domains (planned)
+- 12.4 — Production Releases, Upgrades and Rollback (planned)
+- 12.5 — FinOps, GPU Cost Governance and Rightsizing (planned)
+- 12.6 — Operational Runbooks, Maintenance and Incident Command (planned)
+- 12.7 — Production Readiness and Recovery Capstone (planned)
+- [Part 12 master layout](part-12-production-operations/PART-12-LAYOUT.md)
 
 ## Part 13 — Troubleshooting
 Methodology, `tfy-agent`, deployment, Pending, CrashLoopBackOff, ImagePullBackOff, RBAC, networking, GPU, NVIDIA/CUDA, vLLM, inference performance, GPU OOM, incidents.
