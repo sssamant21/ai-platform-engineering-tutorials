@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 18/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 19/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -109,4 +109,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 019 — vLLM Streaming and OpenAI-Compatible APIs.
+**Published:** [Chapter 019 — vLLM Streaming and OpenAI-Compatible APIs](part-04-vllm/019-vllm-streaming-openai-compatible-apis.md) — [Lab](labs/019-vllm-streaming-openai-compatible-apis-check.md).
+
+**Part 04:** 4/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 020 — vLLM GPU Memory and Context Tuning.
