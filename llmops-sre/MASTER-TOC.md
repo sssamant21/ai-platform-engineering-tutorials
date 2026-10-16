@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 32/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 33/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -48,7 +48,7 @@
 - [030 — Triton Kubernetes Deployment and Operations](part-05-triton-tensorrt-llm/030-triton-kubernetes-deployment-operations.md) — [Hands-on Lab](labs/030-triton-kubernetes-deployment-operations-check.md) (published)
 - [031 — TensorRT-LLM Architecture and Compilation](part-05-triton-tensorrt-llm/031-tensorrt-llm-architecture-compilation.md) — [Hands-on Lab](labs/031-tensorrt-llm-architecture-compilation-check.md) (published)
 - [032 — TensorRT-LLM Quantization and Engine Compatibility](part-05-triton-tensorrt-llm/032-tensorrt-llm-quantization-engine-compatibility.md) — [Hands-on Lab](labs/032-tensorrt-llm-quantization-engine-compatibility-check.md) (published)
-- 033 — TensorRT-LLM Throughput, Latency and KV Cache (planned)
+- [033 — TensorRT-LLM Throughput, Latency and KV Cache](part-05-triton-tensorrt-llm/033-tensorrt-llm-throughput-latency-kv-cache.md) — [Hands-on Lab](labs/033-tensorrt-llm-throughput-latency-kv-cache-check.md) (published)
 - 034 — Triton and TensorRT-LLM Troubleshooting (planned)
 - 035 — NVIDIA Inference Stack Acceptance Lab (planned)
 
