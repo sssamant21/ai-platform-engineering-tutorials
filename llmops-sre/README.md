@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 26/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 27/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -141,4 +141,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 05:** 1/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 027 — Triton Model Repository and Model Lifecycle.
+**Published:** [Chapter 027 — Triton Model Repository and Model Lifecycle](part-05-triton-tensorrt-llm/027-triton-model-repository-model-lifecycle.md) — [Lab](labs/027-triton-model-repository-model-lifecycle-check.md).
+
+**Part 05:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 028 — Triton Scheduling, Dynamic Batching and Ensembles.
