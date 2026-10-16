@@ -93,7 +93,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [11.4 — OpenTelemetry Distributed Tracing and Correlation](part-11-observability/04-opentelemetry-distributed-tracing-correlation/04-opentelemetry-distributed-tracing-correlation.md) — [Hands-on Lab](part-11-observability/labs/04-opentelemetry-distributed-tracing-correlation-check.md) (published)
 - [11.5 — GPU, vLLM and Inference Performance Observability](part-11-observability/05-gpu-vllm-inference-performance-observability/05-gpu-vllm-inference-performance-observability.md) — [Hands-on Lab](part-11-observability/labs/05-gpu-vllm-inference-performance-observability-check.md) (published)
 - [11.6 — Dashboards, SLIs, SLOs, Alerting and Error Budgets](part-11-observability/06-dashboards-slis-slos-alerting-error-budgets/06-dashboards-slis-slos-alerting-error-budgets.md) — [Hands-on Lab](part-11-observability/labs/06-dashboards-slis-slos-alerting-error-budgets-check.md) (published)
-- 11.7 — Enterprise Observability and Incident Detection Capstone (planned)
+- [11.7 — Enterprise Observability and Incident Detection Capstone](part-11-observability/07-enterprise-observability-incident-detection-capstone/07-enterprise-observability-incident-detection-capstone.md) — [Hands-on Lab](part-11-observability/labs/07-enterprise-observability-incident-detection-capstone-check.md) (published)
 - [Part 11 master layout](part-11-observability/PART-11-LAYOUT.md)
 
 ## Part 12 — Production Operations
