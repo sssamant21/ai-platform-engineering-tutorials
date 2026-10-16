@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 9/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 10/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -73,4 +73,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 02:** 4/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 010 — Inference Internals Performance and Reliability Acceptance Project.
+**Published:** [Chapter 010 — Inference Internals Performance Lab and Reliability Acceptance Project](part-02-inference-internals/010-inference-internals-performance-reliability-acceptance.md) — [Capstone Lab](labs/010-inference-internals-performance-reliability-acceptance-check.md).
+
+**Part 02:** 5/5 chapters and companion labs published. Reviews, live execution and acceptance remain pending.
+
+**Next:** Chapter 011 — GPU Architecture, SMs, HBM and Memory Bandwidth.
