@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 23/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 24/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -129,4 +129,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 8/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 024 — vLLM Slowness, CUDA OOM and Recovery Runbooks.
+**Published:** [Chapter 024 — vLLM Slowness, CUDA OOM and Recovery Runbooks](part-04-vllm/024-vllm-slowness-cuda-oom-recovery-runbooks.md) — [Lab](labs/024-vllm-slowness-cuda-oom-recovery-runbooks-check.md).
+
+**Part 04:** 9/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 025 — vLLM Production Acceptance Project.
