@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 21/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 22/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -121,4 +121,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 6/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 022 — vLLM Security, Authentication and Network Isolation.
+**Published:** [Chapter 022 — vLLM Security, Authentication and Network Isolation](part-04-vllm/022-vllm-security-authentication-network-isolation.md) — [Lab](labs/022-vllm-security-authentication-network-isolation-check.md).
+
+**Part 04:** 7/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 023 — vLLM Metrics, Logging and Distributed Tracing.
