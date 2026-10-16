@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 22/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 23/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -28,7 +28,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 020 | vLLM GPU Memory and Context Tuning | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 021 | vLLM Tensor/Pipeline Parallelism and Distributed Serving | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 022 | vLLM Security, Authentication and Network Isolation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 023 | vLLM Metrics, Logging and Distributed Tracing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 023 | vLLM Metrics, Logging and Distributed Tracing | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 024 | vLLM Slowness, CUDA OOM and Recovery Runbooks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 025 | vLLM Production Acceptance Project | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 026 | Triton Inference Server Architecture | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -225,3 +225,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-04-vllm/022-vllm-security-authentication-network-isolation.md) and [companion lab](labs/022-vllm-security-authentication-network-isolation-check.md) — published.
 - Part 04: 7/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 023 — vLLM Metrics, Logging and Distributed Tracing.
+
+## Chapter 023 publication evidence
+- [Canonical tutorial](part-04-vllm/023-vllm-metrics-logging-distributed-tracing.md) and [companion lab](labs/023-vllm-metrics-logging-distributed-tracing-check.md) — published.
+- Part 04: 8/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 024 — vLLM Slowness, CUDA OOM and Recovery Runbooks.
