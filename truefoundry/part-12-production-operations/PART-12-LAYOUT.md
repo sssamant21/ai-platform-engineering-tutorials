@@ -10,8 +10,8 @@
 | 12.4 | Production Releases, Upgrades and Rollback | [Tutorial](04-production-releases-upgrades-rollback/04-production-releases-upgrades-rollback.md) | [Lab](labs/04-production-releases-upgrades-rollback-check.md) |
 | 12.5 | FinOps, GPU Cost Governance and Rightsizing | [Tutorial](05-finops-gpu-cost-governance-rightsizing/05-finops-gpu-cost-governance-rightsizing.md) | [Lab](labs/05-finops-gpu-cost-governance-rightsizing-check.md) |
 | 12.6 | Operational Runbooks, Maintenance and Incident Command | [Tutorial](06-operational-runbooks-maintenance-incident-command/06-operational-runbooks-maintenance-incident-command.md) | [Lab](labs/06-operational-runbooks-maintenance-incident-command-check.md) |
-| 12.7 | Production Readiness and Recovery Capstone | Planned | Planned |
+| 12.7 | Production Readiness and Recovery Capstone | [Tutorial](07-production-readiness-recovery-capstone/07-production-readiness-recovery-capstone.md) | [Lab](labs/07-production-readiness-recovery-capstone-check.md) |
 
-**Publication:** 6/7 chapters and 6/7 labs published. Formal technical review and live lab execution pending.
+**Publication:** 7/7 chapters and 7/7 labs published. Publication complete. Formal technical review and live lab execution pending.
 
 **Principles:** version-verify TrueFoundry integration; protect sensitive data; require safe staging tests; evidence-backed readiness; explicit rollback and escalation.
