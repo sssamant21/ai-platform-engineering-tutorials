@@ -1,10 +1,10 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 0/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 1/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
-- 001 — Introduction to LLMOps and AI Inference SRE (planned)
+- [001 — Introduction to LLMOps and AI Inference SRE](part-01-fundamentals/001-introduction-to-llmops-ai-inference-sre.md) — [Hands-on Lab](labs/001-introduction-to-llmops-ai-inference-sre-check.md) (published)
 - 002 — Production LLM Service Architecture and SRE Responsibilities (planned)
 - 003 — SLIs, SLOs, Error Budgets and Inference User Journeys (planned)
 - 004 — Hands-On Lab Environment and Safety Controls (planned)
