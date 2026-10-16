@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 20/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 21/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -26,7 +26,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 018 | Continuous Batching, PagedAttention and KV Cache | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 019 | vLLM Streaming and OpenAI-Compatible APIs | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 020 | vLLM GPU Memory and Context Tuning | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 021 | vLLM Tensor/Pipeline Parallelism and Distributed Serving | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 021 | vLLM Tensor/Pipeline Parallelism and Distributed Serving | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 022 | vLLM Security, Authentication and Network Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 023 | vLLM Metrics, Logging and Distributed Tracing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 024 | vLLM Slowness, CUDA OOM and Recovery Runbooks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -215,3 +215,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-04-vllm/020-vllm-gpu-memory-context-tuning.md) and [companion lab](labs/020-vllm-gpu-memory-context-tuning-check.md) — published.
 - Part 04: 5/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving.
+
+## Chapter 021 publication evidence
+- [Canonical tutorial](part-04-vllm/021-vllm-tensor-pipeline-parallelism-distributed-serving.md) and [companion lab](labs/021-vllm-tensor-pipeline-parallelism-distributed-serving-check.md) — published.
+- Part 04: 6/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 022 — vLLM Security, Authentication and Network Isolation.
