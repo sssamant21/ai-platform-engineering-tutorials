@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 19/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 20/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -113,4 +113,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 4/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 020 — vLLM GPU Memory and Context Tuning.
+**Published:** [Chapter 020 — vLLM GPU Memory and Context Tuning](part-04-vllm/020-vllm-gpu-memory-context-tuning.md) — [Lab](labs/020-vllm-gpu-memory-context-tuning-check.md).
+
+**Part 04:** 5/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving.
