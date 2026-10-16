@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 31/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 32/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -161,4 +161,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 05:** 6/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 032 — TensorRT-LLM Quantization and Engine Compatibility.
+**Published:** [Chapter 032 — TensorRT-LLM Quantization and Engine Compatibility](part-05-triton-tensorrt-llm/032-tensorrt-llm-quantization-engine-compatibility.md) — [Lab](labs/032-tensorrt-llm-quantization-engine-compatibility-check.md).
+
+**Part 05:** 7/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 033 — TensorRT-LLM Throughput, Latency and KV Cache.
