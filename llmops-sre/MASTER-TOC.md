@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 16/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 17/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -29,7 +29,7 @@
 ## Part 04 — vLLM Administration and Operations (Chapters 016–025)
 
 - [016 — vLLM Architecture and Production Deployment](part-04-vllm/016-vllm-architecture-production-deployment.md) — [Hands-on Lab](labs/016-vllm-architecture-production-deployment-check.md) (published)
-- 017 — vLLM Model Loading and Runtime Configuration (planned)
+- [017 — vLLM Model Loading and Runtime Configuration](part-04-vllm/017-vllm-model-loading-runtime-configuration.md) — [Hands-on Lab](labs/017-vllm-model-loading-runtime-configuration-check.md) (published)
 - 018 — Continuous Batching, PagedAttention and KV Cache (planned)
 - 019 — vLLM Streaming and OpenAI-Compatible APIs (planned)
 - 020 — vLLM GPU Memory and Context Tuning (planned)
