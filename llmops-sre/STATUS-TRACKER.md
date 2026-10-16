@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 24/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 25/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -30,7 +30,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 022 | vLLM Security, Authentication and Network Isolation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 023 | vLLM Metrics, Logging and Distributed Tracing | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 024 | vLLM Slowness, CUDA OOM and Recovery Runbooks | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 025 | vLLM Production Acceptance Project | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 025 | vLLM Production Acceptance Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 026 | Triton Inference Server Architecture | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 027 | Triton Model Repository and Model Lifecycle | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 028 | Triton Scheduling, Dynamic Batching and Ensembles | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -235,3 +235,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-04-vllm/024-vllm-slowness-cuda-oom-recovery-runbooks.md) and [companion lab](labs/024-vllm-slowness-cuda-oom-recovery-runbooks-check.md) — published.
 - Part 04: 9/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 025 — vLLM Production Acceptance Project.
+
+## Chapter 025 publication evidence — Part 04 written curriculum complete
+- [Canonical capstone](part-04-vllm/025-vllm-production-acceptance-project.md) and [companion lab](labs/025-vllm-production-acceptance-project-check.md) — published.
+- Part 04: 10/10 written chapters and companion labs published. **Not** operationally accepted: technical/security review, live lab execution and capstone sign-off pending.
+- Next: Chapter 026 — Triton Inference Server Architecture, Part 05.
