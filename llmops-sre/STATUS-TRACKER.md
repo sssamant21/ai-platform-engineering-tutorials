@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 16/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 17/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -22,7 +22,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 014 | Multi-GPU Parallelism and Topology | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 015 | GPU Diagnostics, DCGM and Failure Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 016 | vLLM Architecture and Production Deployment | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 017 | vLLM Model Loading and Runtime Configuration | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 017 | vLLM Model Loading and Runtime Configuration | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 018 | Continuous Batching, PagedAttention and KV Cache | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 019 | vLLM Streaming and OpenAI-Compatible APIs | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 020 | vLLM GPU Memory and Context Tuning | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -195,3 +195,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-04-vllm/016-vllm-architecture-production-deployment.md) and [companion lab](labs/016-vllm-architecture-production-deployment-check.md) — published.
 - Part 04: 1/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 017 — vLLM Model Loading and Runtime Configuration.
+
+## Chapter 017 publication evidence
+- [Canonical tutorial](part-04-vllm/017-vllm-model-loading-runtime-configuration.md) and [companion lab](labs/017-vllm-model-loading-runtime-configuration-check.md) — published.
+- Part 04: 2/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 018 — Continuous Batching, PagedAttention and KV Cache.
