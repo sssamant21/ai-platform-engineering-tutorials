@@ -261,7 +261,7 @@ See [Part 10 layout](part-10-security/PART-10-LAYOUT.md).
 
 ## Part 11 — Observability
 
-**Status:** 🟡 In Progress — 6/7 published
+**Status:** 🟢 Publication Complete — 7/7 published
 
 | Chapter | Topic | Canonical | Review | Live Lab | Security Review | Tutorial | Lab | Link Check |
 |---|---|---|---|---|---|---|---|---|
@@ -271,7 +271,7 @@ See [Part 10 layout](part-10-security/PART-10-LAYOUT.md).
 | 11.4 | OpenTelemetry Distributed Tracing and Correlation | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 11.5 | GPU, vLLM and Inference Performance Observability | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 11.6 | Dashboards, SLIs, SLOs, Alerting and Error Budgets | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 11.7 | Enterprise Observability and Incident Detection Capstone | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 11.7 | Enterprise Observability and Incident Detection Capstone | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 
 See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
@@ -307,7 +307,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 8 | Scaling & Performance | 🟡 Publication Complete — 7/7 published |
 | 9 | Networking | 🟡 In Progress — 2/7 published |
 | 10 | Security | ✅ Publication Complete — 7/7 published |
-| 11 | Observability | 🟡 In Progress — 6/7 published |
+| 11 | Observability | 🟢 Publication Complete — 7/7 published |
 | 12 | Production Operations | ⬜ Not Started |
 | 13 | Troubleshooting | ⬜ Not Started |
 | 14 | SRE Runbooks | ⬜ Not Started |
@@ -315,7 +315,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ---
 
-**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapters 10.1–10.7 and labs published (7/7); Part 10 publication complete; Part 11 Chapters 11.1–11.6 and labs published (6/7), Chapter 11.7 next. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
+**Current milestone:** Part 09 publication complete (7/7); Part 10 — Security Chapters 10.1–10.7 and labs published (7/7); Part 10 publication complete; Part 11 Chapters 11.1–11.7 and labs published (7/7); Part 11 publication complete. Formal reviews and live lab execution remain pending. Part 08 publication complete. Part 07 publication complete. Formal vendor/SRE reviews and live lab execution remain separate pending milestones.
 
 ### Chapter 9.3 — Ingress, Gateway API and Cloud Load Balancers
 - Canonical: [Published](part-09-networking/03-ingress-gateway-api-cloud-load-balancers/03-ingress-gateway-api-cloud-load-balancers.md)
@@ -407,3 +407,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-11-observability/06-dashboards-slis-slos-alerting-error-budgets/06-dashboards-slis-slos-alerting-error-budgets.md)
 - Lab: [Published](part-11-observability/labs/06-dashboards-slis-slos-alerting-error-budgets-check.md)
 - Part 11: 6/7 chapters and labs; curriculum: 74 chapters. Formal review and live execution pending.
+
+### Chapter 11.7 — Enterprise Observability and Incident Detection Capstone
+- Canonical: [Published](part-11-observability/07-enterprise-observability-incident-detection-capstone/07-enterprise-observability-incident-detection-capstone.md)
+- Lab: [Published](part-11-observability/labs/07-enterprise-observability-incident-detection-capstone-check.md)
+- Part 11 publication complete: 7/7 chapters and labs; curriculum: 75 chapters published. Formal technical/security review and live execution pending.
