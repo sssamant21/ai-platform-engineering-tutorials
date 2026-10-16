@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 22/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 23/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -125,4 +125,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 7/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 023 — vLLM Metrics, Logging and Distributed Tracing.
+**Published:** [Chapter 023 — vLLM Metrics, Logging and Distributed Tracing](part-04-vllm/023-vllm-metrics-logging-distributed-tracing.md) — [Lab](labs/023-vllm-metrics-logging-distributed-tracing-check.md).
+
+**Part 04:** 8/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 024 — vLLM Slowness, CUDA OOM and Recovery Runbooks.
