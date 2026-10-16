@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 9/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 10/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -15,7 +15,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 007 | Tokenization, Context Windows and Generation Parameters | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 008 | Prefill, Decode, KV Cache and Continuous Batching | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 009 | Streaming, Backpressure and API Gateway Behavior | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 010 | Inference Internals Performance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 010 | Inference Internals Performance Lab and Reliability Acceptance Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 011 | GPU Architecture, SMs, HBM and Memory Bandwidth | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 012 | CUDA Runtime, Drivers, Containers and Compatibility | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 013 | GPU VRAM Sizing, Precision and Quantization | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -160,3 +160,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/009-streaming-backpressure-api-gateway-behavior-check.md) — published.
 - Part 02: 4/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 010 — Inference Internals Performance and Reliability Acceptance Project.
+
+## Chapter 010 and Part 02 publication evidence
+- [Chapter 010 tutorial](part-02-inference-internals/010-inference-internals-performance-reliability-acceptance.md) and [capstone lab](labs/010-inference-internals-performance-reliability-acceptance-check.md) — published.
+- **Part 02 written curriculum: 5/5 chapters and 5/5 companion labs published.** Technical/security review, live execution, assessment and acceptance remain pending.
+- Next: Chapter 011 — GPU Architecture, SMs, HBM and Memory Bandwidth.
