@@ -311,7 +311,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 15 — End-to-End Production Project
 
-**Status:** 🟡 In Progress — 5/7 published
+**Status:** 🟡 In Progress — 6/7 published
 
 | Chapter | Topic | Draft | Technical review | Security review | Lab executed | Tutorial published | Lab published | Verified |
 |---|---|---|---|---|---|---|---|
@@ -320,10 +320,10 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 15.3 | TrueFoundry Integration and Secure Model Serving | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.4 | Networking, Security and GitOps Delivery | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.5 | Observability, SLOs and Load/Capacity Validation | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 15.6 | Failure Injection, Incident Response and Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.6 | Failure Injection, Incident Response and Recovery | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.7 | Production Readiness and Final Enterprise Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-**Part 15 publication:** 5/7 chapters and labs; curriculum: **101 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.6.
+**Part 15 publication:** 6/7 chapters and labs; curriculum: **102 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.7.
 
 ---
 
@@ -345,7 +345,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
 | 14 | SRE Runbooks | ✅ Publication Complete — 7/7 published |
-| 15 | End-to-End Production Project | 🟡 In Progress — 5/7 published |
+| 15 | End-to-End Production Project | 🟡 In Progress — 6/7 published |
 
 ---
 
@@ -589,3 +589,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-15-end-to-end-production-project/05-observability-slos-load-capacity-validation/05-observability-slos-load-capacity-validation.md)
 - Lab: [Published](part-15-end-to-end-production-project/labs/05-observability-slos-load-capacity-validation-check.md)
 - Part 15: 5/7 chapters and labs; curriculum: 101 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 15.6 — Failure Injection, Incident Response and Recovery
+- Canonical: [Published](part-15-end-to-end-production-project/06-failure-injection-incident-response-recovery/06-failure-injection-incident-response-recovery.md)
+- Lab: [Published](part-15-end-to-end-production-project/labs/06-failure-injection-incident-response-recovery-check.md)
+- Part 15: 6/7 chapters and labs; curriculum: 102 chapters published. Formal technical/security review and live execution pending.
