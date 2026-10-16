@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 3/100 chapters and companion labs published; technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 4/100 chapters and companion labs published; technical review and live execution pending.
 
 ## Mission
 
@@ -51,4 +51,6 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Published:** [Chapter 003 — SLIs, SLOs, Error Budgets and Inference User Journeys](part-01-fundamentals/003-slis-slos-error-budgets-inference-user-journeys.md) — [Lab](labs/003-slis-slos-error-budgets-inference-user-journeys-check.md).
 
-**Next:** Chapter 004 — Hands-On Lab Environment and Safety Controls.
+**Published:** [Chapter 004 — Hands-On Lab Environment and Safety Controls](part-01-fundamentals/004-hands-on-lab-environment-safety-controls.md) — [Lab](labs/004-hands-on-lab-environment-safety-controls-check.md).
+
+**Next:** Chapter 005 — Fundamentals Acceptance Lab and Incident Walkthrough.
