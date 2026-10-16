@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 25/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 26/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -31,7 +31,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 023 | vLLM Metrics, Logging and Distributed Tracing | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 024 | vLLM Slowness, CUDA OOM and Recovery Runbooks | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 025 | vLLM Production Acceptance Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 026 | Triton Inference Server Architecture | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 026 | Triton Inference Server Architecture | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 027 | Triton Model Repository and Model Lifecycle | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 028 | Triton Scheduling, Dynamic Batching and Ensembles | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 029 | Triton GPU Metrics and Model Performance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -240,3 +240,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical capstone](part-04-vllm/025-vllm-production-acceptance-project.md) and [companion lab](labs/025-vllm-production-acceptance-project-check.md) — published.
 - Part 04: 10/10 written chapters and companion labs published. **Not** operationally accepted: technical/security review, live lab execution and capstone sign-off pending.
 - Next: Chapter 026 — Triton Inference Server Architecture, Part 05.
+
+## Chapter 026 publication evidence — Part 05 started
+- [Canonical tutorial](part-05-triton-tensorrt-llm/026-triton-inference-server-architecture.md) and [companion lab](labs/026-triton-inference-server-architecture-check.md) — published.
+- Part 05: 1/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 027 — Triton Model Repository and Model Lifecycle.
