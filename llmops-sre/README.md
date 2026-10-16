@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 2/100 chapters and companion labs published; technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 3/100 chapters and companion labs published; technical review and live execution pending.
 
 ## Mission
 
@@ -49,4 +49,6 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Published:** [Chapter 002 — Production LLM Service Architecture and SRE Responsibilities](part-01-fundamentals/002-production-llm-service-architecture-sre-responsibilities.md) — [Lab](labs/002-production-llm-service-architecture-sre-responsibilities-check.md).
 
-**Next:** Chapter 003 — SLIs, SLOs, Error Budgets and Inference User Journeys.
+**Published:** [Chapter 003 — SLIs, SLOs, Error Budgets and Inference User Journeys](part-01-fundamentals/003-slis-slos-error-budgets-inference-user-journeys.md) — [Lab](labs/003-slis-slos-error-budgets-inference-user-journeys-check.md).
+
+**Next:** Chapter 004 — Hands-On Lab Environment and Safety Controls.
