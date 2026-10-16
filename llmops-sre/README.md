@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 33/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 34/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -169,4 +169,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 05:** 8/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 034 — Triton and TensorRT-LLM Troubleshooting.
+**Published:** [Chapter 034 — Triton and TensorRT-LLM Troubleshooting](part-05-triton-tensorrt-llm/034-triton-tensorrt-llm-troubleshooting.md) — [Lab](labs/034-triton-tensorrt-llm-troubleshooting-check.md).
+
+**Part 05:** 9/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 035 — NVIDIA Inference Stack Acceptance Lab.
