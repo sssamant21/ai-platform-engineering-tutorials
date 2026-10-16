@@ -128,4 +128,12 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [14.7 — Post-Incident Validation and Reliability Acceptance](part-14-sre-runbooks/07-post-incident-validation-reliability-acceptance/07-post-incident-validation-reliability-acceptance.md) — [Hands-on Lab](part-14-sre-runbooks/labs/07-post-incident-validation-reliability-acceptance-check.md) (published)
 
 ## Part 15 — End-to-End Production Project
-Architecture, Kubernetes, GPU, TrueFoundry, vLLM deployment, networking/security, observability, load testing, failure/recovery, readiness, incident simulation, acceptance lab.
+[Part 15 Layout](part-15-end-to-end-production-project/PART-15-LAYOUT.md)
+
+- [15.1 — Production Architecture and Requirements](part-15-end-to-end-production-project/01-production-architecture-requirements/01-production-architecture-requirements.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/01-production-architecture-requirements-check.md) (published)
+- 15.2 — Kubernetes and GPU Infrastructure Foundation (planned)
+- 15.3 — TrueFoundry Integration and Secure Model Serving (planned)
+- 15.4 — Networking, Security and GitOps Delivery (planned)
+- 15.5 — Observability, SLOs and Load/Capacity Validation (planned)
+- 15.6 — Failure Injection, Incident Response and Recovery (planned)
+- 15.7 — Production Readiness and Final Enterprise Acceptance (planned)
