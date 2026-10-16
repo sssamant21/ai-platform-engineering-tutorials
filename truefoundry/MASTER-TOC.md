@@ -134,6 +134,6 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [15.2 — Kubernetes and GPU Infrastructure Foundation](part-15-end-to-end-production-project/02-kubernetes-gpu-infrastructure-foundation/02-kubernetes-gpu-infrastructure-foundation.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/02-kubernetes-gpu-infrastructure-foundation-check.md) (published)
 - [15.3 — TrueFoundry Integration and Secure Model Serving](part-15-end-to-end-production-project/03-truefoundry-integration-secure-model-serving/03-truefoundry-integration-secure-model-serving.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/03-truefoundry-integration-secure-model-serving-check.md) (published)
 - [15.4 — Networking, Security and GitOps Delivery](part-15-end-to-end-production-project/04-networking-security-gitops-delivery/04-networking-security-gitops-delivery.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/04-networking-security-gitops-delivery-check.md) (published)
-- 15.5 — Observability, SLOs and Load/Capacity Validation (planned)
+- [15.5 — Observability, SLOs and Load/Capacity Validation](part-15-end-to-end-production-project/05-observability-slos-load-capacity-validation/05-observability-slos-load-capacity-validation.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/05-observability-slos-load-capacity-validation-check.md) (published)
 - 15.6 — Failure Injection, Incident Response and Recovery (planned)
 - 15.7 — Production Readiness and Final Enterprise Acceptance (planned)
