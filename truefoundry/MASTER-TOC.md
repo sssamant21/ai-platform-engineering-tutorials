@@ -100,7 +100,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [12.1 — Production Operations Architecture and Readiness](part-12-production-operations/01-production-operations-architecture-readiness/01-production-operations-architecture-readiness.md) — [Hands-on Lab](part-12-production-operations/labs/01-production-operations-architecture-readiness-check.md) (published)
 - [12.2 — GPU Capacity Planning, Quotas and Production Scaling](part-12-production-operations/02-gpu-capacity-planning-quotas-production-scaling/02-gpu-capacity-planning-quotas-production-scaling.md) — [Hands-on Lab](part-12-production-operations/labs/02-gpu-capacity-planning-quotas-production-scaling-check.md) (published)
 - [12.3 — High Availability, Resilience and Failure Domains](part-12-production-operations/03-high-availability-resilience-failure-domains/03-high-availability-resilience-failure-domains.md) — [Hands-on Lab](part-12-production-operations/labs/03-high-availability-resilience-failure-domains-check.md) (published)
-- 12.4 — Production Releases, Upgrades and Rollback (planned)
+- [12.4 — Production Releases, Upgrades and Rollback](part-12-production-operations/04-production-releases-upgrades-rollback/04-production-releases-upgrades-rollback.md) — [Hands-on Lab](part-12-production-operations/labs/04-production-releases-upgrades-rollback-check.md) (published)
 - 12.5 — FinOps, GPU Cost Governance and Rightsizing (planned)
 - 12.6 — Operational Runbooks, Maintenance and Incident Command (planned)
 - 12.7 — Production Readiness and Recovery Capstone (planned)
