@@ -120,7 +120,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 [Part 14 Layout](part-14-sre-runbooks/PART-14-LAYOUT.md)
 
 - [14.1 — Platform Health Monitoring and Incident Detection](part-14-sre-runbooks/01-platform-health-monitoring-incident-detection/01-platform-health-monitoring-incident-detection.md) — [Hands-on Lab](part-14-sre-runbooks/labs/01-platform-health-monitoring-incident-detection-check.md) (published)
-- 14.2 — TrueFoundry Agent Health and Reconciliation (planned)
+- [14.2 — TrueFoundry Agent Health and Reconciliation](part-14-sre-runbooks/02-truefoundry-agent-health-reconciliation/02-truefoundry-agent-health-reconciliation.md) — [Hands-on Lab](part-14-sre-runbooks/labs/02-truefoundry-agent-health-reconciliation-check.md) (published)
 - 14.3 — GPU Node Health and Capacity (planned)
 - 14.4 — Model Deployment and Rollback (planned)
 - 14.5 — vLLM Serving Health and Performance (planned)
