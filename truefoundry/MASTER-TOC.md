@@ -102,7 +102,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [12.3 — High Availability, Resilience and Failure Domains](part-12-production-operations/03-high-availability-resilience-failure-domains/03-high-availability-resilience-failure-domains.md) — [Hands-on Lab](part-12-production-operations/labs/03-high-availability-resilience-failure-domains-check.md) (published)
 - [12.4 — Production Releases, Upgrades and Rollback](part-12-production-operations/04-production-releases-upgrades-rollback/04-production-releases-upgrades-rollback.md) — [Hands-on Lab](part-12-production-operations/labs/04-production-releases-upgrades-rollback-check.md) (published)
 - [12.5 — FinOps, GPU Cost Governance and Rightsizing](part-12-production-operations/05-finops-gpu-cost-governance-rightsizing/05-finops-gpu-cost-governance-rightsizing.md) — [Hands-on Lab](part-12-production-operations/labs/05-finops-gpu-cost-governance-rightsizing-check.md) (published)
-- 12.6 — Operational Runbooks, Maintenance and Incident Command (planned)
+- [12.6 — Operational Runbooks, Maintenance and Incident Command](part-12-production-operations/06-operational-runbooks-maintenance-incident-command/06-operational-runbooks-maintenance-incident-command.md) — [Hands-on Lab](part-12-production-operations/labs/06-operational-runbooks-maintenance-incident-command-check.md) (published)
 - 12.7 — Production Readiness and Recovery Capstone (planned)
 - [Part 12 master layout](part-12-production-operations/PART-12-LAYOUT.md)
 
