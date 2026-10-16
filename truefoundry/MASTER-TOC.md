@@ -107,7 +107,14 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [Part 12 master layout](part-12-production-operations/PART-12-LAYOUT.md)
 
 ## Part 13 — Troubleshooting
-Methodology, `tfy-agent`, deployment, Pending, CrashLoopBackOff, ImagePullBackOff, RBAC, networking, GPU, NVIDIA/CUDA, vLLM, inference performance, GPU OOM, incidents.
+- [13.1 — Production Troubleshooting Methodology and Evidence Collection](part-13-troubleshooting/01-production-troubleshooting-methodology-evidence/01-production-troubleshooting-methodology-evidence.md) — [Hands-on Lab](part-13-troubleshooting/labs/01-production-troubleshooting-methodology-evidence-check.md) (published)
+- 13.2 — TrueFoundry Agent and Control Plane Troubleshooting (planned)
+- 13.3 — Kubernetes Scheduling, Pending Pods and GPU Capacity Failures (planned)
+- 13.4 — Deployment Failures, CrashLoopBackOff and ImagePullBackOff (planned)
+- 13.5 — Networking, DNS, TLS, Ingress and Streaming Failures (planned)
+- 13.6 — NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance (planned)
+- 13.7 — Enterprise Troubleshooting and Incident Recovery Capstone (planned)
+- [Part 13 master layout](part-13-troubleshooting/PART-13-LAYOUT.md)
 
 ## Part 14 — SRE Runbooks
 Platform health, `tfy-agent`, GPU health, model deployment, vLLM health, incidents, post-incident validation.
