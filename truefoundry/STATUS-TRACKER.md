@@ -311,19 +311,19 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 15 — End-to-End Production Project
 
-**Status:** 🟡 In Progress — 2/7 published
+**Status:** 🟡 In Progress — 3/7 published
 
 | Chapter | Topic | Draft | Technical review | Security review | Lab executed | Tutorial published | Lab published | Verified |
 |---|---|---|---|---|---|---|---|
 | 15.1 | Production Architecture and Requirements | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.2 | Kubernetes and GPU Infrastructure Foundation | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 15.3 | TrueFoundry Integration and Secure Model Serving | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.3 | TrueFoundry Integration and Secure Model Serving | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 15.4 | Networking, Security and GitOps Delivery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 15.5 | Observability, SLOs and Load/Capacity Validation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 15.6 | Failure Injection, Incident Response and Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 15.7 | Production Readiness and Final Enterprise Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-**Part 15 publication:** 2/7 chapters and labs; curriculum: **98 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.3.
+**Part 15 publication:** 3/7 chapters and labs; curriculum: **99 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.4.
 
 ---
 
@@ -345,7 +345,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
 | 14 | SRE Runbooks | ✅ Publication Complete — 7/7 published |
-| 15 | End-to-End Production Project | 🟡 In Progress — 2/7 published |
+| 15 | End-to-End Production Project | 🟡 In Progress — 3/7 published |
 
 ---
 
@@ -574,3 +574,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-15-end-to-end-production-project/02-kubernetes-gpu-infrastructure-foundation/02-kubernetes-gpu-infrastructure-foundation.md)
 - Lab: [Published](part-15-end-to-end-production-project/labs/02-kubernetes-gpu-infrastructure-foundation-check.md)
 - Part 15: 2/7 chapters and labs; curriculum: 98 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 15.3 — TrueFoundry Integration and Secure Model Serving
+- Canonical: [Published](part-15-end-to-end-production-project/03-truefoundry-integration-secure-model-serving/03-truefoundry-integration-secure-model-serving.md)
+- Lab: [Published](part-15-end-to-end-production-project/labs/03-truefoundry-integration-secure-model-serving-check.md)
+- Part 15: 3/7 chapters and labs; curriculum: 99 chapters published. Formal technical/security review and live execution pending.
