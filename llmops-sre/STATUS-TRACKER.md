@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 2/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 3/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -8,7 +8,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 |---|---|---|---|---|---|---|
 | 001 | Introduction to LLMOps and AI Inference SRE | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 002 | Production LLM Service Architecture and SRE Responsibilities | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 003 | SLIs, SLOs, Error Budgets and Inference User Journeys | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 003 | SLIs, SLOs, Error Budgets and Inference User Journeys | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 004 | Hands-On Lab Environment and Safety Controls | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 005 | Fundamentals Acceptance Lab and Incident Walkthrough | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 006 | Transformer Inference Request Lifecycle | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -118,3 +118,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/002-production-llm-service-architecture-sre-responsibilities-check.md) — published and verified.
 - Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 003 — SLIs, SLOs, Error Budgets and Inference User Journeys.
+
+## Chapter 003 publication evidence
+- [Canonical tutorial](part-01-fundamentals/003-slis-slos-error-budgets-inference-user-journeys.md) — published.
+- [Companion lab](labs/003-slis-slos-error-budgets-inference-user-journeys-check.md) — published.
+- Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 004 — Hands-On Lab Environment and Safety Controls.
