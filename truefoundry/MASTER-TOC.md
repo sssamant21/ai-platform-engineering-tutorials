@@ -112,7 +112,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 - [13.3 — Kubernetes Scheduling, Pending Pods and GPU Capacity Failures](part-13-troubleshooting/03-kubernetes-scheduling-pending-pods-gpu-capacity/03-kubernetes-scheduling-pending-pods-gpu-capacity.md) — [Hands-on Lab](part-13-troubleshooting/labs/03-kubernetes-scheduling-pending-pods-gpu-capacity-check.md) (published)
 - [13.4 — Deployment Failures, CrashLoopBackOff and ImagePullBackOff](part-13-troubleshooting/04-deployment-failures-crashloopbackoff-imagepullbackoff/04-deployment-failures-crashloopbackoff-imagepullbackoff.md) — [Hands-on Lab](part-13-troubleshooting/labs/04-deployment-failures-crashloopbackoff-imagepullbackoff-check.md) (published)
 - [13.5 — Networking, DNS, TLS, Ingress and Streaming Failures](part-13-troubleshooting/05-networking-dns-tls-ingress-streaming-failures/05-networking-dns-tls-ingress-streaming-failures.md) — [Hands-on Lab](part-13-troubleshooting/labs/05-networking-dns-tls-ingress-streaming-failures-check.md) (published)
-- 13.6 — NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance (planned)
+- [13.6 — NVIDIA Drivers, CUDA, GPU OOM and vLLM Performance](part-13-troubleshooting/06-nvidia-drivers-cuda-gpu-oom-vllm-performance/06-nvidia-drivers-cuda-gpu-oom-vllm-performance.md) — [Hands-on Lab](part-13-troubleshooting/labs/06-nvidia-drivers-cuda-gpu-oom-vllm-performance-check.md) (published)
 - 13.7 — Enterprise Troubleshooting and Incident Recovery Capstone (planned)
 - [Part 13 master layout](part-13-troubleshooting/PART-13-LAYOUT.md)
 
