@@ -295,19 +295,19 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 14 — SRE Runbooks
 
-**Status:** 🟡 In Progress — 2/7 published
+**Status:** 🟡 In Progress — 3/7 published
 
 | Chapter | Topic | Draft | Review | Live Lab | Acceptance | Tutorial | Lab | Verified |
 |---|---|---|---|---|---|---|---|---|
 | 14.1 | Platform Health Monitoring and Incident Detection | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.2 | TrueFoundry Agent Health and Reconciliation | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 14.3 | GPU Node Health and Capacity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.3 | GPU Node Health and Capacity | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.4 | Model Deployment and Rollback | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 14.5 | vLLM Serving Health and Performance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 14.6 | Incident Response, Escalation and Communications | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 14.7 | Post-Incident Validation and Reliability Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
-**Part 14 publication:** 2/7 chapters and labs; curriculum: **91 chapters published**. Formal review and live execution pending. Next Chapter 14.3.
+**Part 14 publication:** 3/7 chapters and labs; curriculum: **92 chapters published**. Formal review and live execution pending. Next Chapter 14.4.
 
 ## Part 15 — End-to-End Production Project
 
@@ -332,7 +332,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 11 | Observability | 🟢 Publication Complete — 7/7 published |
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
-| 14 | SRE Runbooks | 🟡 In Progress — 2/7 published |
+| 14 | SRE Runbooks | 🟡 In Progress — 3/7 published |
 | 15 | End-to-End Production Project | ⬜ Not Started |
 
 ---
@@ -526,3 +526,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-14-sre-runbooks/02-truefoundry-agent-health-reconciliation/02-truefoundry-agent-health-reconciliation.md)
 - Lab: [Published](part-14-sre-runbooks/labs/02-truefoundry-agent-health-reconciliation-check.md)
 - Part 14: 2/7 chapters and labs; curriculum: 91 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 14.3 — GPU Node Health and Capacity
+- Canonical: [Published](part-14-sre-runbooks/03-gpu-node-health-capacity/03-gpu-node-health-capacity.md)
+- Lab: [Published](part-14-sre-runbooks/labs/03-gpu-node-health-capacity-check.md)
+- Part 14: 3/7 chapters and labs; curriculum: 92 chapters published. Formal technical/security review and live execution pending.
