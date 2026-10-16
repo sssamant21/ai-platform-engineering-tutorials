@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 5/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 6/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -12,7 +12,7 @@
 
 ## Part 02 — LLM Architecture and Inference Internals (Chapters 006–010)
 
-- 006 — Transformer Inference Request Lifecycle (planned)
+- [006 — Transformer Inference Request Lifecycle](part-02-inference-internals/006-transformer-inference-request-lifecycle.md) — [Hands-on Lab](labs/006-transformer-inference-request-lifecycle-check.md) (published)
 - 007 — Tokenization, Context Windows and Generation Parameters (planned)
 - 008 — Prefill, Decode, KV Cache and Continuous Batching (planned)
 - 009 — Streaming, Backpressure and API Gateway Behavior (planned)
