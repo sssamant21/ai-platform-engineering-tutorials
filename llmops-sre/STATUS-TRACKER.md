@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 3/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 4/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -9,7 +9,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 001 | Introduction to LLMOps and AI Inference SRE | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 002 | Production LLM Service Architecture and SRE Responsibilities | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 003 | SLIs, SLOs, Error Budgets and Inference User Journeys | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 004 | Hands-On Lab Environment and Safety Controls | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 004 | Hands-On Lab Environment and Safety Controls | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 005 | Fundamentals Acceptance Lab and Incident Walkthrough | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 006 | Transformer Inference Request Lifecycle | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 007 | Tokenization, Context Windows and Generation Parameters | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -124,3 +124,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/003-slis-slos-error-budgets-inference-user-journeys-check.md) — published.
 - Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 004 — Hands-On Lab Environment and Safety Controls.
+
+## Chapter 004 publication evidence
+- [Canonical tutorial](part-01-fundamentals/004-hands-on-lab-environment-safety-controls.md) — published.
+- [Companion lab](labs/004-hands-on-lab-environment-safety-controls-check.md) — published.
+- Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 005 — Fundamentals Acceptance Lab and Incident Walkthrough.
