@@ -311,7 +311,19 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 15 — End-to-End Production Project
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress — 1/7 published
+
+| Chapter | Topic | Draft | Technical review | Security review | Lab executed | Tutorial published | Lab published | Verified |
+|---|---|---|---|---|---|---|---|
+| 15.1 | Production Architecture and Requirements | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
+| 15.2 | Kubernetes and GPU Infrastructure Foundation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.3 | TrueFoundry Integration and Secure Model Serving | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.4 | Networking, Security and GitOps Delivery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.5 | Observability, SLOs and Load/Capacity Validation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.6 | Failure Injection, Incident Response and Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 15.7 | Production Readiness and Final Enterprise Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+**Part 15 publication:** 1/7 chapters and labs; curriculum: **97 chapters published**. Formal technical/security review and live execution pending. Next Chapter 15.2.
 
 ---
 
@@ -333,7 +345,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
 | 14 | SRE Runbooks | ✅ Publication Complete — 7/7 published |
-| 15 | End-to-End Production Project | ⬜ Not Started |
+| 15 | End-to-End Production Project | 🟡 In Progress — 1/7 published |
 
 ---
 
@@ -551,3 +563,9 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-14-sre-runbooks/07-post-incident-validation-reliability-acceptance/07-post-incident-validation-reliability-acceptance.md)
 - Lab: [Published](part-14-sre-runbooks/labs/07-post-incident-validation-reliability-acceptance-check.md)
 - Part 14: 7/7 chapters and labs; curriculum: 96 chapters published. Formal technical/security review, live execution and operational acceptance pending.
+
+### Chapter 15.1 — Production Architecture and Requirements
+- Canonical: [Published](part-15-end-to-end-production-project/01-production-architecture-requirements/01-production-architecture-requirements.md)
+- Lab: [Published](part-15-end-to-end-production-project/labs/01-production-architecture-requirements-check.md)
+- Part layout: [Published](part-15-end-to-end-production-project/PART-15-LAYOUT.md)
+- Part 15: 1/7 chapters and labs; curriculum: 97 chapters published. Formal technical/security review and live execution pending.
