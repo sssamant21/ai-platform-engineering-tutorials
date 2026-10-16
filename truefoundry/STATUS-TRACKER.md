@@ -295,7 +295,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 14 — SRE Runbooks
 
-**Status:** 🟡 In Progress — 6/7 published
+**Status:** ✅ Publication Complete — 7/7 published
 
 | Chapter | Topic | Draft | Review | Live Lab | Acceptance | Tutorial | Lab | Verified |
 |---|---|---|---|---|---|---|---|---|
@@ -305,9 +305,9 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 14.4 | Model Deployment and Rollback | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.5 | vLLM Serving Health and Performance | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 | 14.6 | Incident Response, Escalation and Communications | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
-| 14.7 | Post-Incident Validation and Reliability Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.7 | Post-Incident Validation and Reliability Acceptance | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
 
-**Part 14 publication:** 6/7 chapters and labs; curriculum: **95 chapters published**. Formal review and live execution pending. Next Chapter 14.7.
+**Part 14 publication:** 7/7 chapters and labs; curriculum: **96 chapters published**. Publication complete; formal review and live execution pending. Next Part 15 — End-to-End Production Project.
 
 ## Part 15 — End-to-End Production Project
 
@@ -332,7 +332,7 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 11 | Observability | 🟢 Publication Complete — 7/7 published |
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
 | 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
-| 14 | SRE Runbooks | 🟡 In Progress — 6/7 published |
+| 14 | SRE Runbooks | ✅ Publication Complete — 7/7 published |
 | 15 | End-to-End Production Project | ⬜ Not Started |
 
 ---
@@ -546,3 +546,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-14-sre-runbooks/06-incident-response-escalation-communications/06-incident-response-escalation-communications.md)
 - Lab: [Published](part-14-sre-runbooks/labs/06-incident-response-escalation-communications-check.md)
 - Part 14: 6/7 chapters and labs; curriculum: 95 chapters published. Formal technical/security review and live execution pending.
+
+### Chapter 14.7 — Post-Incident Validation and Reliability Acceptance
+- Canonical: [Published](part-14-sre-runbooks/07-post-incident-validation-reliability-acceptance/07-post-incident-validation-reliability-acceptance.md)
+- Lab: [Published](part-14-sre-runbooks/labs/07-post-incident-validation-reliability-acceptance-check.md)
+- Part 14: 7/7 chapters and labs; curriculum: 96 chapters published. Formal technical/security review, live execution and operational acceptance pending.
