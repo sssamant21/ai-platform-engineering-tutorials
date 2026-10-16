@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 4/100 chapters and companion labs published; technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 5/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -53,4 +53,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Published:** [Chapter 004 — Hands-On Lab Environment and Safety Controls](part-01-fundamentals/004-hands-on-lab-environment-safety-controls.md) — [Lab](labs/004-hands-on-lab-environment-safety-controls-check.md).
 
-**Next:** Chapter 005 — Fundamentals Acceptance Lab and Incident Walkthrough.
+**Published:** [Chapter 005 — Fundamentals Acceptance Lab and Incident Walkthrough](part-01-fundamentals/005-fundamentals-acceptance-lab-incident-walkthrough.md) — [Capstone Lab](labs/005-fundamentals-acceptance-lab-incident-walkthrough-check.md).
+
+**Part 01:** 5/5 tutorials and 5/5 labs published. Technical/security review and actual lab execution are pending.
+
+**Next:** Chapter 006 — Transformer Inference Request Lifecycle (Part 02).
