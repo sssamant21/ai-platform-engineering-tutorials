@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 20/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 21/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -117,4 +117,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 5/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving.
+**Published:** [Chapter 021 — vLLM Tensor/Pipeline Parallelism and Distributed Serving](part-04-vllm/021-vllm-tensor-pipeline-parallelism-distributed-serving.md) — [Lab](labs/021-vllm-tensor-pipeline-parallelism-distributed-serving-check.md).
+
+**Part 04:** 6/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 022 — vLLM Security, Authentication and Network Isolation.
