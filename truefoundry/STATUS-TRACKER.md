@@ -295,7 +295,19 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 
 ## Part 14 — SRE Runbooks
 
-**Status:** ⬜ Not Started
+**Status:** 🟡 In Progress — 1/7 published
+
+| Chapter | Topic | Draft | Review | Live Lab | Acceptance | Tutorial | Lab | Verified |
+|---|---|---|---|---|---|---|---|---|
+| 14.1 | Platform Health Monitoring and Incident Detection | ✅ | ⬜ Pending | ⬜ Pending | ⬜ Pending | ✅ Published | ✅ Published | ✅ Verified |
+| 14.2 | TrueFoundry Agent Health and Reconciliation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.3 | GPU Node Health and Capacity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.4 | Model Deployment and Rollback | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.5 | vLLM Serving Health and Performance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.6 | Incident Response, Escalation and Communications | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 14.7 | Post-Incident Validation and Reliability Acceptance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+
+**Part 14 publication:** 1/7 chapters and labs; curriculum: **90 chapters published**. Formal review and live execution pending. Next Chapter 14.2.
 
 ## Part 15 — End-to-End Production Project
 
@@ -319,8 +331,8 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 | 10 | Security | ✅ Publication Complete — 7/7 published |
 | 11 | Observability | 🟢 Publication Complete — 7/7 published |
 | 12 | Production Operations | ✅ Publication Complete — 7/7 published |
-| 13 | Troubleshooting | ⬜ Not Started |
-| 14 | SRE Runbooks | ⬜ Not Started |
+| 13 | Troubleshooting | ✅ Publication Complete — 7/7 published |
+| 14 | SRE Runbooks | 🟡 In Progress — 1/7 published |
 | 15 | End-to-End Production Project | ⬜ Not Started |
 
 ---
@@ -503,3 +515,9 @@ See [Part 11 layout](part-11-observability/PART-11-LAYOUT.md).
 - Canonical: [Published](part-13-troubleshooting/07-enterprise-troubleshooting-incident-recovery-capstone/07-enterprise-troubleshooting-incident-recovery-capstone.md)
 - Lab: [Published](part-13-troubleshooting/labs/07-enterprise-troubleshooting-incident-recovery-capstone-check.md)
 - Part 13: 7/7 chapters and labs published; curriculum: 89 chapters published. Formal technical/security review, live execution and acceptance pending.
+
+### Chapter 14.1 — Platform Health Monitoring and Incident Detection
+- Canonical: [Published](part-14-sre-runbooks/01-platform-health-monitoring-incident-detection/01-platform-health-monitoring-incident-detection.md)
+- Lab: [Published](part-14-sre-runbooks/labs/01-platform-health-monitoring-incident-detection-check.md)
+- Part layout: [Published](part-14-sre-runbooks/PART-14-LAYOUT.md)
+- Part 14: 1/7 chapters and labs; curriculum: 90 chapters published. Formal technical/security review and live execution pending.
