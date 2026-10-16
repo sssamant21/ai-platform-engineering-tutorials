@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 17/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 18/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -105,4 +105,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 04:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 018 — Continuous Batching, PagedAttention and KV Cache.
+**Published:** [Chapter 018 — Continuous Batching, PagedAttention and KV Cache](part-04-vllm/018-continuous-batching-pagedattention-kv-cache.md) — [Lab](labs/018-continuous-batching-pagedattention-kv-cache-check.md).
+
+**Part 04:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 019 — vLLM Streaming and OpenAI-Compatible APIs.
