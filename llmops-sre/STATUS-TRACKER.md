@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 6/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 7/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -12,7 +12,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 004 | Hands-On Lab Environment and Safety Controls | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 005 | Fundamentals Acceptance Lab and Incident Walkthrough | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 006 | Transformer Inference Request Lifecycle | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 007 | Tokenization, Context Windows and Generation Parameters | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 007 | Tokenization, Context Windows and Generation Parameters | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 008 | Prefill, Decode, KV Cache and Continuous Batching | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 009 | Streaming, Backpressure and API Gateway Behavior | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 010 | Inference Internals Performance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -142,3 +142,9 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Companion lab](labs/006-transformer-inference-request-lifecycle-check.md) — published.
 - Part 02: 1/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 007 — Tokenization, Context Windows and Generation Parameters.
+
+## Chapter 007 publication evidence
+- [Canonical tutorial](part-02-inference-internals/007-tokenization-context-windows-generation-parameters.md) — published.
+- [Companion lab](labs/007-tokenization-context-windows-generation-parameters-check.md) — published.
+- Part 02: 2/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 008 — Prefill, Decode, KV Cache and Continuous Batching.
