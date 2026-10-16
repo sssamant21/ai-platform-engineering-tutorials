@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 13/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 14/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -89,4 +89,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 03:** 3/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 014 — Multi-GPU Parallelism and Topology.
+**Published:** [Chapter 014 — Multi-GPU Parallelism and Topology](part-03-gpu-cuda-vram/014-multi-gpu-parallelism-topology.md) — [Lab](labs/014-multi-gpu-parallelism-topology-check.md).
+
+**Part 03:** 4/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 015 — GPU Diagnostics, DCGM and Failure Lab.
