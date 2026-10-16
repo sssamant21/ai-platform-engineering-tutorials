@@ -8,8 +8,8 @@
 | 15.2 | Kubernetes and GPU Infrastructure Foundation | [Tutorial](02-kubernetes-gpu-infrastructure-foundation/02-kubernetes-gpu-infrastructure-foundation.md) | [Lab](labs/02-kubernetes-gpu-infrastructure-foundation-check.md) |
 | 15.3 | TrueFoundry Integration and Secure Model Serving | [Tutorial](03-truefoundry-integration-secure-model-serving/03-truefoundry-integration-secure-model-serving.md) | [Lab](labs/03-truefoundry-integration-secure-model-serving-check.md) |
 | 15.4 | Networking, Security and GitOps Delivery | [Tutorial](04-networking-security-gitops-delivery/04-networking-security-gitops-delivery.md) | [Lab](labs/04-networking-security-gitops-delivery-check.md) |
-| 15.5 | Observability, SLOs and Load/Capacity Validation | Planned | Planned |
+| 15.5 | Observability, SLOs and Load/Capacity Validation | [Tutorial](05-observability-slos-load-capacity-validation/05-observability-slos-load-capacity-validation.md) | [Lab](labs/05-observability-slos-load-capacity-validation-check.md) |
 | 15.6 | Failure Injection, Incident Response and Recovery | Planned | Planned |
 | 15.7 | Production Readiness and Final Enterprise Acceptance | Planned | Planned |
 
-**Publication:** 4/7 chapters and 4/7 labs published. Formal technical/security review, live deployment and acceptance pending.
+**Publication:** 5/7 chapters and 5/7 labs published. Formal technical/security review, live deployment and acceptance pending.
