@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 12/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 13/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -18,7 +18,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 010 | Inference Internals Performance Lab and Reliability Acceptance Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 011 | GPU Architecture, SMs, HBM and Memory Bandwidth | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 012 | CUDA Runtime, Drivers, Containers and Compatibility | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 013 | GPU VRAM Sizing, Precision and Quantization | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 013 | GPU VRAM Sizing, Precision and Quantization | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 014 | Multi-GPU Parallelism and Topology | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 015 | GPU Diagnostics, DCGM and Failure Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 016 | vLLM Architecture and Production Deployment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -175,3 +175,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-03-gpu-cuda-vram/012-cuda-runtime-drivers-containers-compatibility.md) and [companion lab](labs/012-cuda-runtime-drivers-containers-compatibility-check.md) — published.
 - Part 03: 2/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 013 — GPU VRAM Sizing, Precision and Quantization.
+
+## Chapter 013 publication evidence
+- [Canonical tutorial](part-03-gpu-cuda-vram/013-gpu-vram-sizing-precision-quantization.md) and [companion lab](labs/013-gpu-vram-sizing-precision-quantization-check.md) — published.
+- Part 03: 3/5 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 014 — Multi-GPU Parallelism and Topology.
