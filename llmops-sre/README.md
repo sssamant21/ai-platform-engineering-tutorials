@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 8/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 9/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -69,4 +69,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 02:** 3/5 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 009 — Streaming, Backpressure and API Gateway Behavior.
+**Published:** [Chapter 009 — Streaming, Backpressure and API Gateway Behavior](part-02-inference-internals/009-streaming-backpressure-api-gateway-behavior.md) — [Lab](labs/009-streaming-backpressure-api-gateway-behavior-check.md).
+
+**Part 02:** 4/5 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 010 — Inference Internals Performance and Reliability Acceptance Project.
