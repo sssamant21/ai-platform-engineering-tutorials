@@ -132,7 +132,7 @@ CPU/memory, requests/limits/QoS, affinity, taints/tolerations, dedicated node po
 
 - [15.1 — Production Architecture and Requirements](part-15-end-to-end-production-project/01-production-architecture-requirements/01-production-architecture-requirements.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/01-production-architecture-requirements-check.md) (published)
 - [15.2 — Kubernetes and GPU Infrastructure Foundation](part-15-end-to-end-production-project/02-kubernetes-gpu-infrastructure-foundation/02-kubernetes-gpu-infrastructure-foundation.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/02-kubernetes-gpu-infrastructure-foundation-check.md) (published)
-- 15.3 — TrueFoundry Integration and Secure Model Serving (planned)
+- [15.3 — TrueFoundry Integration and Secure Model Serving](part-15-end-to-end-production-project/03-truefoundry-integration-secure-model-serving/03-truefoundry-integration-secure-model-serving.md) — [Hands-on Lab](part-15-end-to-end-production-project/labs/03-truefoundry-integration-secure-model-serving-check.md) (published)
 - 15.4 — Networking, Security and GitOps Delivery (planned)
 - 15.5 — Observability, SLOs and Load/Capacity Validation (planned)
 - 15.6 — Failure Injection, Incident Response and Recovery (planned)
