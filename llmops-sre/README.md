@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 71/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 72/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -298,3 +298,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 070 — Model Precision, Quantization and Quality Gates](part-09-performance-engineering-capacity/070-model-precision-quantization-quality-gates.md) — [Lab](labs/070-model-precision-quantization-quality-gates-check.md) (published; reviews and execution pending).
 
 - [Chapter 071 — GPU Throughput and Cost per Successful Token](part-09-performance-engineering-capacity/071-gpu-throughput-cost-per-successful-token.md) — [Lab](labs/071-gpu-throughput-cost-per-successful-token-check.md) (published; reviews and execution pending).
+
+- [Chapter 072 — Cold Start, Warm Pools and Model Loading](part-09-performance-engineering-capacity/072-cold-start-warm-pools-model-loading.md) — [Lab](labs/072-cold-start-warm-pools-model-loading-check.md) (published; reviews and execution pending).
