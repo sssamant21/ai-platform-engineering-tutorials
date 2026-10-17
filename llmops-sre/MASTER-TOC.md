@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 62/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 63/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -87,7 +87,7 @@
 - [060 — OpenTelemetry Traces Across Inference Paths](part-08-llm-observability-metrics-tracing/060-opentelemetry-traces-across-inference-paths.md) — [Hands-on Lab](labs/060-opentelemetry-traces-across-inference-paths-check.md) (published)
 - [061 — Prompt-Safe Logging, Redaction and Cardinality](part-08-llm-observability-metrics-tracing/061-prompt-safe-logging-redaction-cardinality.md) — [Hands-on Lab](labs/061-prompt-safe-logging-redaction-cardinality-check.md) (published)
 - [062 — Prometheus Recording Rules and Alert Design](part-08-llm-observability-metrics-tracing/062-prometheus-recording-rules-alert-design.md) — [Hands-on Lab](labs/062-prometheus-recording-rules-alert-design-check.md) (published)
-- 063 — SLO Burn Rates and Error Budget Policy (planned)
+- [063 — SLO Burn Rates and Error Budget Policy](part-08-llm-observability-metrics-tracing/063-slo-burn-rates-error-budget-policy.md) — [Hands-on Lab](labs/063-slo-burn-rates-error-budget-policy-check.md) (published)
 - 064 — Dashboards, Synthetic Probes and On-Call (planned)
 - 065 — Inference Observability Acceptance Lab (planned)
 
