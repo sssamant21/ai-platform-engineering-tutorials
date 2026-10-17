@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 38/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 39/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -189,4 +189,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 06:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 039 — Ray Serve Autoscaling and Fault Tolerance.
+**Published:** [Chapter 039 — Ray Serve Autoscaling and Fault Tolerance](part-06-ray-serve-kserve/039-ray-serve-autoscaling-fault-tolerance.md) — [Lab](labs/039-ray-serve-autoscaling-fault-tolerance-check.md).
+
+**Part 06:** 4/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 040 — Ray Serve Observability and Recovery.
