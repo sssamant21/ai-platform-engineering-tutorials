@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 60/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 61/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -85,7 +85,7 @@
 - [058 — vLLM, Triton and Ray Serve Metrics](part-08-llm-observability-metrics-tracing/058-vllm-triton-ray-serve-metrics.md) — [Hands-on Lab](labs/058-vllm-triton-ray-serve-metrics-check.md) (published)
 - [059 — GPU DCGM, Node and Kubernetes Observability](part-08-llm-observability-metrics-tracing/059-gpu-dcgm-node-kubernetes-observability.md) — [Hands-on Lab](labs/059-gpu-dcgm-node-kubernetes-observability-check.md) (published)
 - [060 — OpenTelemetry Traces Across Inference Paths](part-08-llm-observability-metrics-tracing/060-opentelemetry-traces-across-inference-paths.md) — [Hands-on Lab](labs/060-opentelemetry-traces-across-inference-paths-check.md) (published)
-- 061 — Prompt-Safe Logging, Redaction and Cardinality (planned)
+- [061 — Prompt-Safe Logging, Redaction and Cardinality](part-08-llm-observability-metrics-tracing/061-prompt-safe-logging-redaction-cardinality.md) — [Hands-on Lab](labs/061-prompt-safe-logging-redaction-cardinality-check.md) (published)
 - 062 — Prometheus Recording Rules and Alert Design (planned)
 - 063 — SLO Burn Rates and Error Budget Policy (planned)
 - 064 — Dashboards, Synthetic Probes and On-Call (planned)
