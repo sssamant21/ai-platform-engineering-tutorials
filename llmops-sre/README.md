@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 51/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 52/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -241,4 +241,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 07:** 6/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 052 — Cluster Autoscaler, Karpenter and GPU Warmup.
+**Published:** [Chapter 052 — Cluster Autoscaler, Karpenter and GPU Warmup](part-07-kubernetes-gpu-scheduling-autoscaling/052-cluster-autoscaler-karpenter-gpu-warmup.md) — [Lab](labs/052-cluster-autoscaler-karpenter-gpu-warmup-check.md).
+
+**Part 07:** 7/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 053 — Multi-Zone GPU Capacity and Disruption Budgets.
