@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 69/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 71/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -294,3 +294,7 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 068 — Concurrency, Queueing and Backpressure](part-09-performance-engineering-capacity/068-concurrency-queueing-backpressure.md) — [Lab](labs/068-concurrency-queueing-backpressure-check.md) (published; reviews and execution pending).
 
 - [Chapter 069 — Batching, KV Cache and Memory Tuning](part-09-performance-engineering-capacity/069-batching-kv-cache-memory-tuning.md) — [Lab](labs/069-batching-kv-cache-memory-tuning-check.md) (published; reviews and execution pending).
+
+- [Chapter 070 — Model Precision, Quantization and Quality Gates](part-09-performance-engineering-capacity/070-model-precision-quantization-quality-gates.md) — [Lab](labs/070-model-precision-quantization-quality-gates-check.md) (published; reviews and execution pending).
+
+- [Chapter 071 — GPU Throughput and Cost per Successful Token](part-09-performance-engineering-capacity/071-gpu-throughput-cost-per-successful-token.md) — [Lab](labs/071-gpu-throughput-cost-per-successful-token-check.md) (published; reviews and execution pending).
