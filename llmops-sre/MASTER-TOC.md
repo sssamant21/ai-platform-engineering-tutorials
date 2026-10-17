@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 45/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 46/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -67,7 +67,7 @@
 
 ## Part 07 — Kubernetes GPU Scheduling and Autoscaling (Chapters 046–055)
 
-- 046 — Kubernetes GPU Scheduling Fundamentals (planned)
+- [046 — Kubernetes GPU Scheduling Fundamentals](part-07-kubernetes-gpu-scheduling-autoscaling/046-kubernetes-gpu-scheduling-fundamentals.md) — [Hands-on Lab](labs/046-kubernetes-gpu-scheduling-fundamentals-check.md) (published)
 - 047 — NVIDIA Device Plugin and GPU Operator (planned)
 - 048 — GPU Node Pools, Taints, Tolerations and Affinity (planned)
 - 049 — GPU Resource Quotas and Namespace Isolation (planned)
