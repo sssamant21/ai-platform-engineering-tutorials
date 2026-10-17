@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 47/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 48/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -225,4 +225,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 07:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 048 — GPU Node Pools, Taints, Tolerations and Affinity.
+**Published:** [Chapter 048 — GPU Node Pools, Taints, Tolerations and Affinity](part-07-kubernetes-gpu-scheduling-autoscaling/048-gpu-node-pools-taints-tolerations-affinity.md) — [Lab](labs/048-gpu-node-pools-taints-tolerations-affinity-check.md).
+
+**Part 07:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 049 — GPU Resource Quotas and Namespace Isolation.
