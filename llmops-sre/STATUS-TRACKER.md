@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 51/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 52/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -57,7 +57,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 049 | GPU Resource Quotas and Namespace Isolation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 050 | MIG, GPU Sharing and Multi-Tenant Risks | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 051 | HPA, KEDA and Custom Inference Metrics | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 052 | Cluster Autoscaler, Karpenter and GPU Warmup | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 052 | Cluster Autoscaler, Karpenter and GPU Warmup | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 053 | Multi-Zone GPU Capacity and Disruption Budgets | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 054 | GPU Scheduling, Quota and Pending Pod Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 055 | GPU Autoscaling Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -370,3 +370,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/051-hpa-keda-custom-inference-metrics.md) and [companion lab](labs/051-hpa-keda-custom-inference-metrics-check.md) — published.
 - Part 07: 6/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 052 — Cluster Autoscaler, Karpenter and GPU Warmup.
+
+## Chapter 052 publication evidence
+- [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/052-cluster-autoscaler-karpenter-gpu-warmup.md) and [companion lab](labs/052-cluster-autoscaler-karpenter-gpu-warmup-check.md) — published.
+- Part 07: 7/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 053 — Multi-Zone GPU Capacity and Disruption Budgets.
