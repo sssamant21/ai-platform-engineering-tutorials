@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 63/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 64/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -69,7 +69,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 061 | Prompt-Safe Logging, Redaction and Cardinality | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 062 | Prometheus Recording Rules and Alert Design | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 063 | SLO Burn Rates and Error Budget Policy | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 064 | Dashboards, Synthetic Probes and On-Call | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 064 | Dashboards, Synthetic Probes and On-Call | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 065 | Inference Observability Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 066 | Inference Benchmark Design and Traffic Cohorts | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 067 | Prefill-Heavy Versus Decode-Heavy Workloads | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
