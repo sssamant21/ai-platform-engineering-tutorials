@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 49/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 50/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -55,7 +55,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 047 | NVIDIA Device Plugin and GPU Operator | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 048 | GPU Node Pools, Taints, Tolerations and Affinity | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 049 | GPU Resource Quotas and Namespace Isolation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 050 | MIG, GPU Sharing and Multi-Tenant Risks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 050 | MIG, GPU Sharing and Multi-Tenant Risks | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 051 | HPA, KEDA and Custom Inference Metrics | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 052 | Cluster Autoscaler, Karpenter and GPU Warmup | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 053 | Multi-Zone GPU Capacity and Disruption Budgets | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -360,3 +360,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/049-gpu-resource-quotas-namespace-isolation.md) and [companion lab](labs/049-gpu-resource-quotas-namespace-isolation-check.md) — published.
 - Part 07: 4/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 050 — MIG, GPU Sharing and Multi-Tenant Risks.
+
+## Chapter 050 publication evidence — curriculum midpoint
+- [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/050-mig-gpu-sharing-multi-tenant-risks.md) and [companion lab](labs/050-mig-gpu-sharing-multi-tenant-risks-check.md) — published.
+- Part 07: 5/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 051 — HPA, KEDA and Custom Inference Metrics.
