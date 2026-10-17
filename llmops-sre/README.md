@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 34/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 35/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -173,4 +173,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 05:** 9/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 035 — NVIDIA Inference Stack Acceptance Lab.
+**Published:** [Chapter 035 — NVIDIA Inference Stack Acceptance Lab](part-05-triton-tensorrt-llm/035-nvidia-inference-stack-acceptance-lab.md) — [Acceptance worksheet](labs/035-nvidia-inference-stack-acceptance-lab-check.md).
+
+**Part 05:** 10/10 written tutorials and companion labs published (written curriculum complete); live execution, technical/security review and operational acceptance pending.
+
+**Next:** Chapter 036 — Ray Serve Architecture and Deployment.
