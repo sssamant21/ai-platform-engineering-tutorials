@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 52/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 53/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -74,7 +74,7 @@
 - [050 — MIG, GPU Sharing and Multi-Tenant Risks](part-07-kubernetes-gpu-scheduling-autoscaling/050-mig-gpu-sharing-multi-tenant-risks.md) — [Hands-on Lab](labs/050-mig-gpu-sharing-multi-tenant-risks-check.md) (published)
 - [051 — HPA, KEDA and Custom Inference Metrics](part-07-kubernetes-gpu-scheduling-autoscaling/051-hpa-keda-custom-inference-metrics.md) — [Hands-on Lab](labs/051-hpa-keda-custom-inference-metrics-check.md) (published)
 - [052 — Cluster Autoscaler, Karpenter and GPU Warmup](part-07-kubernetes-gpu-scheduling-autoscaling/052-cluster-autoscaler-karpenter-gpu-warmup.md) — [Hands-on Lab](labs/052-cluster-autoscaler-karpenter-gpu-warmup-check.md) (published)
-- 053 — Multi-Zone GPU Capacity and Disruption Budgets (planned)
+- [053 — Multi-Zone GPU Capacity and Disruption Budgets](part-07-kubernetes-gpu-scheduling-autoscaling/053-multi-zone-gpu-capacity-disruption-budgets.md) — [Hands-on Lab](labs/053-multi-zone-gpu-capacity-disruption-budgets-check.md) (published)
 - 054 — GPU Scheduling, Quota and Pending Pod Troubleshooting (planned)
 - 055 — GPU Autoscaling Acceptance Lab (planned)
 
