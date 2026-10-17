@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 52/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 53/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -245,4 +245,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 07:** 7/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 053 — Multi-Zone GPU Capacity and Disruption Budgets.
+**Published:** [Chapter 053 — Multi-Zone GPU Capacity and Disruption Budgets](part-07-kubernetes-gpu-scheduling-autoscaling/053-multi-zone-gpu-capacity-disruption-budgets.md) — [Lab](labs/053-multi-zone-gpu-capacity-disruption-budgets-check.md).
+
+**Part 07:** 8/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 054 — GPU Scheduling, Quota and Pending Pod Troubleshooting.
