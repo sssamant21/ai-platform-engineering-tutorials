@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 40/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 41/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -197,4 +197,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 06:** 5/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 041 — KServe Architecture, CRDs and InferenceServices.
+**Published:** [Chapter 041 — KServe Architecture, CRDs and InferenceServices](part-06-ray-serve-kserve/041-kserve-architecture-crds-inferenceservices.md) — [Lab](labs/041-kserve-architecture-crds-inferenceservices-check.md).
+
+**Part 06:** 6/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 042 — KServe Runtime Selection and Model Storage.
