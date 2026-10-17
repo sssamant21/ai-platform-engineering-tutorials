@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 57/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 58/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -265,4 +265,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 08:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 058 — vLLM, Triton and Ray Serve Metrics.
+**Published:** [Chapter 058 — vLLM, Triton and Ray Serve Metrics](part-08-llm-observability-metrics-tracing/058-vllm-triton-ray-serve-metrics.md) — [Lab](labs/058-vllm-triton-ray-serve-metrics-check.md).
+
+**Part 08:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 059 — GPU DCGM, Node and Kubernetes Observability.
