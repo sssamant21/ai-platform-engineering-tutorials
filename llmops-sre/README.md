@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 39/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 40/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -193,4 +193,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 06:** 4/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 040 — Ray Serve Observability and Recovery.
+**Published:** [Chapter 040 — Ray Serve Observability and Recovery](part-06-ray-serve-kserve/040-ray-serve-observability-recovery.md) — [Lab](labs/040-ray-serve-observability-recovery-check.md).
+
+**Part 06:** 5/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 041 — KServe Architecture, CRDs and InferenceServices.
