@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 67/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 68/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -290,3 +290,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 066 — Inference Benchmark Design and Traffic Cohorts](part-09-performance-engineering-capacity/066-inference-benchmark-design-traffic-cohorts.md) — [Lab](labs/066-inference-benchmark-design-traffic-cohorts-check.md) (published; Part 09 started; reviews and execution pending).
 
 - [Chapter 067 — Prefill-Heavy Versus Decode-Heavy Workloads](part-09-performance-engineering-capacity/067-prefill-heavy-versus-decode-heavy-workloads.md) — [Lab](labs/067-prefill-heavy-versus-decode-heavy-workloads-check.md) (published; reviews and execution pending).
+
+- [Chapter 068 — Concurrency, Queueing and Backpressure](part-09-performance-engineering-capacity/068-concurrency-queueing-backpressure.md) — [Lab](labs/068-concurrency-queueing-backpressure-check.md) (published; reviews and execution pending).
