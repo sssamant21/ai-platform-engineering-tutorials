@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 42/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 43/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -48,7 +48,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 040 | Ray Serve Observability and Recovery | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 041 | KServe Architecture, CRDs and InferenceServices | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 042 | KServe Runtime Selection and Model Storage | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 043 | KServe Networking, Security and Canary Rollouts | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 043 | KServe Networking, Security and Canary Rollouts | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 044 | KServe Autoscaling and GPU Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 045 | Ray Serve and KServe Operations Project | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 046 | Kubernetes GPU Scheduling Fundamentals | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -325,3 +325,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-06-ray-serve-kserve/042-kserve-runtime-selection-model-storage.md) and [companion lab](labs/042-kserve-runtime-selection-model-storage-check.md) — published.
 - Part 06: 7/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 043 — KServe Networking, Security and Canary Rollouts.
+
+## Chapter 043 publication evidence
+- [Canonical tutorial](part-06-ray-serve-kserve/043-kserve-networking-security-canary-rollouts.md) and [companion lab](labs/043-kserve-networking-security-canary-rollouts-check.md) — published.
+- Part 06: 8/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 044 — KServe Autoscaling and GPU Scheduling.
