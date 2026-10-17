@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 54/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 55/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -253,4 +253,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 07:** 9/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 055 — GPU Autoscaling Acceptance Lab.
+**Published:** [Chapter 055 — GPU Autoscaling Acceptance Lab](part-07-kubernetes-gpu-scheduling-autoscaling/055-gpu-autoscaling-acceptance-lab.md) — [Lab](labs/055-gpu-autoscaling-acceptance-lab-check.md).
+
+**Part 07:** 10/10 tutorials and companion labs published (written curriculum complete); technical/security review and live execution pending.
+
+**Next:** Chapter 056 — Golden Signals for LLM Inference, beginning Part 08.
