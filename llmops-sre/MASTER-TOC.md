@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 43/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 44/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -62,7 +62,7 @@
 - [041 — KServe Architecture, CRDs and InferenceServices](part-06-ray-serve-kserve/041-kserve-architecture-crds-inferenceservices.md) — [Hands-on Lab](labs/041-kserve-architecture-crds-inferenceservices-check.md) (published)
 - [042 — KServe Runtime Selection and Model Storage](part-06-ray-serve-kserve/042-kserve-runtime-selection-model-storage.md) — [Hands-on Lab](labs/042-kserve-runtime-selection-model-storage-check.md) (published)
 - [043 — KServe Networking, Security and Canary Rollouts](part-06-ray-serve-kserve/043-kserve-networking-security-canary-rollouts.md) — [Hands-on Lab](labs/043-kserve-networking-security-canary-rollouts-check.md) (published)
-- 044 — KServe Autoscaling and GPU Scheduling (planned)
+- [044 — KServe Autoscaling and GPU Scheduling](part-06-ray-serve-kserve/044-kserve-autoscaling-gpu-scheduling.md) — [Hands-on Lab](labs/044-kserve-autoscaling-gpu-scheduling-check.md) (published)
 - 045 — Ray Serve and KServe Operations Project (planned)
 
 ## Part 07 — Kubernetes GPU Scheduling and Autoscaling (Chapters 046–055)
