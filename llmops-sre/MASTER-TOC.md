@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 71/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 72/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -99,7 +99,7 @@
 - [069 — Batching, KV Cache and Memory Tuning](part-09-performance-engineering-capacity/069-batching-kv-cache-memory-tuning.md) — [Hands-on Lab](labs/069-batching-kv-cache-memory-tuning-check.md) (published)
 - [070 — Model Precision, Quantization and Quality Gates](part-09-performance-engineering-capacity/070-model-precision-quantization-quality-gates.md) — [Hands-on Lab](labs/070-model-precision-quantization-quality-gates-check.md) (published)
 - [071 — GPU Throughput and Cost per Successful Token](part-09-performance-engineering-capacity/071-gpu-throughput-cost-per-successful-token.md) — [Hands-on Lab](labs/071-gpu-throughput-cost-per-successful-token-check.md) (published)
-- 072 — Cold Start, Warm Pools and Model Loading (planned)
+- [072 — Cold Start, Warm Pools and Model Loading](part-09-performance-engineering-capacity/072-cold-start-warm-pools-model-loading.md) — [Hands-on Lab](labs/072-cold-start-warm-pools-model-loading-check.md) (published)
 - 073 — Load, Stress, Soak and Failure Testing (planned)
 - 074 — Capacity Forecasting, N-1 and Rollout Headroom (planned)
 - 075 — Performance and Capacity Acceptance Lab (planned)
