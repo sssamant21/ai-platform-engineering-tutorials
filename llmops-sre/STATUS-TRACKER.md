@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 35/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 36/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -41,7 +41,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 033 | TensorRT-LLM Throughput, Latency and KV Cache | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 034 | Triton and TensorRT-LLM Troubleshooting | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 035 | NVIDIA Inference Stack Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 036 | Ray Serve Architecture and Deployment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 036 | Ray Serve Architecture and Deployment | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 037 | Ray Actors, Placement Groups and GPU Resources | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 038 | Ray Serve Routing, Batching and Backpressure | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 039 | Ray Serve Autoscaling and Fault Tolerance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -290,3 +290,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical capstone](part-05-triton-tensorrt-llm/035-nvidia-inference-stack-acceptance-lab.md) and [acceptance worksheet](labs/035-nvidia-inference-stack-acceptance-lab-check.md) — published.
 - Part 05: 10/10 written chapters published; **not operationally accepted**. Technical/security review, live lab execution and all acceptance gates remain pending.
 - Next: Chapter 036 — Ray Serve Architecture and Deployment.
+
+## Chapter 036 publication evidence — Part 06 initiated
+- [Canonical tutorial](part-06-ray-serve-kserve/036-ray-serve-architecture-deployment.md) and [companion lab](labs/036-ray-serve-architecture-deployment-check.md) — published.
+- Part 06: 1/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 037 — Ray Actors, Placement Groups and GPU Resources.
