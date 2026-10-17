@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 40/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 41/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -46,7 +46,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 038 | Ray Serve Routing, Batching and Backpressure | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 039 | Ray Serve Autoscaling and Fault Tolerance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 040 | Ray Serve Observability and Recovery | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 041 | KServe Architecture, CRDs and InferenceServices | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 041 | KServe Architecture, CRDs and InferenceServices | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 042 | KServe Runtime Selection and Model Storage | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 043 | KServe Networking, Security and Canary Rollouts | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 044 | KServe Autoscaling and GPU Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -315,3 +315,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-06-ray-serve-kserve/040-ray-serve-observability-recovery.md) and [companion lab](labs/040-ray-serve-observability-recovery-check.md) — published.
 - Part 06: 5/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 041 — KServe Architecture, CRDs and InferenceServices.
+
+## Chapter 041 publication evidence
+- [Canonical tutorial](part-06-ray-serve-kserve/041-kserve-architecture-crds-inferenceservices.md) and [companion lab](labs/041-kserve-architecture-crds-inferenceservices-check.md) — published.
+- Part 06: 6/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 042 — KServe Runtime Selection and Model Storage.
