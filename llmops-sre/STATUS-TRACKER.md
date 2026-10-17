@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 36/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 37/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -42,7 +42,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 034 | Triton and TensorRT-LLM Troubleshooting | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 035 | NVIDIA Inference Stack Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 036 | Ray Serve Architecture and Deployment | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 037 | Ray Actors, Placement Groups and GPU Resources | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 037 | Ray Actors, Placement Groups and GPU Resources | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 038 | Ray Serve Routing, Batching and Backpressure | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 039 | Ray Serve Autoscaling and Fault Tolerance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 040 | Ray Serve Observability and Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -295,3 +295,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-06-ray-serve-kserve/036-ray-serve-architecture-deployment.md) and [companion lab](labs/036-ray-serve-architecture-deployment-check.md) — published.
 - Part 06: 1/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 037 — Ray Actors, Placement Groups and GPU Resources.
+
+## Chapter 037 publication evidence
+- [Canonical tutorial](part-06-ray-serve-kserve/037-ray-actors-placement-groups-gpu-resources.md) and [companion lab](labs/037-ray-actors-placement-groups-gpu-resources-check.md) — published.
+- Part 06: 2/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 038 — Ray Serve Routing, Batching and Backpressure.
