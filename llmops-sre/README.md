@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 56/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 57/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -261,4 +261,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 08:** 1/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 057 — TTFT, TPOT, ITL, E2E Latency and Completion.
+**Published:** [Chapter 057 — TTFT, TPOT, ITL, E2E Latency and Completion](part-08-llm-observability-metrics-tracing/057-ttft-tpot-itl-e2e-latency-completion.md) — [Lab](labs/057-ttft-tpot-itl-e2e-latency-completion-check.md).
+
+**Part 08:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 058 — vLLM, Triton and Ray Serve Metrics.
