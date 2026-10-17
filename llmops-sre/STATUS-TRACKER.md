@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 54/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 55/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -60,7 +60,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 052 | Cluster Autoscaler, Karpenter and GPU Warmup | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 053 | Multi-Zone GPU Capacity and Disruption Budgets | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 054 | GPU Scheduling, Quota and Pending Pod Troubleshooting | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 055 | GPU Autoscaling Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 055 | GPU Autoscaling Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 056 | Golden Signals for LLM Inference | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 057 | TTFT, TPOT, ITL, E2E Latency and Completion | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 058 | vLLM, Triton and Ray Serve Metrics | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -385,3 +385,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/054-gpu-scheduling-quota-pending-pod-troubleshooting.md) and [companion lab](labs/054-gpu-scheduling-quota-pending-pod-troubleshooting-check.md) — published.
 - Part 07: 9/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 055 — GPU Autoscaling Acceptance Lab.
+
+## Chapter 055 publication evidence — Part 07 written curriculum complete
+- [Canonical capstone](part-07-kubernetes-gpu-scheduling-autoscaling/055-gpu-autoscaling-acceptance-lab.md) and [companion acceptance lab](labs/055-gpu-autoscaling-acceptance-lab-check.md) — published.
+- Part 07: 10/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending; the written acceptance lab does not certify a real cluster.
+- Next: Chapter 056 — Golden Signals for LLM Inference, beginning Part 08.
