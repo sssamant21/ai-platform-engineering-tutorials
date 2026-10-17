@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 38/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 39/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -57,7 +57,7 @@
 - [036 — Ray Serve Architecture and Deployment](part-06-ray-serve-kserve/036-ray-serve-architecture-deployment.md) — [Hands-on Lab](labs/036-ray-serve-architecture-deployment-check.md) (published)
 - [037 — Ray Actors, Placement Groups and GPU Resources](part-06-ray-serve-kserve/037-ray-actors-placement-groups-gpu-resources.md) — [Hands-on Lab](labs/037-ray-actors-placement-groups-gpu-resources-check.md) (published)
 - [038 — Ray Serve Routing, Batching and Backpressure](part-06-ray-serve-kserve/038-ray-serve-routing-batching-backpressure.md) — [Hands-on Lab](labs/038-ray-serve-routing-batching-backpressure-check.md) (published)
-- 039 — Ray Serve Autoscaling and Fault Tolerance (planned)
+- [039 — Ray Serve Autoscaling and Fault Tolerance](part-06-ray-serve-kserve/039-ray-serve-autoscaling-fault-tolerance.md) — [Hands-on Lab](labs/039-ray-serve-autoscaling-fault-tolerance-check.md) (published)
 - 040 — Ray Serve Observability and Recovery (planned)
 - 041 — KServe Architecture, CRDs and InferenceServices (planned)
 - 042 — KServe Runtime Selection and Model Storage (planned)
