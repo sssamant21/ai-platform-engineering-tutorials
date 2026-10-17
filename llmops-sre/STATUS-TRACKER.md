@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 45/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 46/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -51,7 +51,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 043 | KServe Networking, Security and Canary Rollouts | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 044 | KServe Autoscaling and GPU Scheduling | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 045 | Ray Serve and KServe Operations Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 046 | Kubernetes GPU Scheduling Fundamentals | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 046 | Kubernetes GPU Scheduling Fundamentals | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 047 | NVIDIA Device Plugin and GPU Operator | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 048 | GPU Node Pools, Taints, Tolerations and Affinity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 049 | GPU Resource Quotas and Namespace Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -340,3 +340,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical capstone](part-06-ray-serve-kserve/045-ray-serve-kserve-operations-project.md) and [companion lab](labs/045-ray-serve-kserve-operations-project-check.md) — published.
 - Part 06: 10/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 046 — Kubernetes GPU Scheduling Fundamentals (Part 07).
+
+## Chapter 046 publication evidence — Part 07 begun
+- [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/046-kubernetes-gpu-scheduling-fundamentals.md) and [companion lab](labs/046-kubernetes-gpu-scheduling-fundamentals-check.md) — published.
+- Part 07: 1/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 047 — NVIDIA Device Plugin and GPU Operator.
