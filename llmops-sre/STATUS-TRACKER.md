@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 41/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 42/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -47,7 +47,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 039 | Ray Serve Autoscaling and Fault Tolerance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 040 | Ray Serve Observability and Recovery | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 041 | KServe Architecture, CRDs and InferenceServices | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 042 | KServe Runtime Selection and Model Storage | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 042 | KServe Runtime Selection and Model Storage | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 043 | KServe Networking, Security and Canary Rollouts | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 044 | KServe Autoscaling and GPU Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 045 | Ray Serve and KServe Operations Project | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -320,3 +320,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-06-ray-serve-kserve/041-kserve-architecture-crds-inferenceservices.md) and [companion lab](labs/041-kserve-architecture-crds-inferenceservices-check.md) — published.
 - Part 06: 6/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 042 — KServe Runtime Selection and Model Storage.
+
+## Chapter 042 publication evidence
+- [Canonical tutorial](part-06-ray-serve-kserve/042-kserve-runtime-selection-model-storage.md) and [companion lab](labs/042-kserve-runtime-selection-model-storage-check.md) — published.
+- Part 06: 7/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 043 — KServe Networking, Security and Canary Rollouts.
