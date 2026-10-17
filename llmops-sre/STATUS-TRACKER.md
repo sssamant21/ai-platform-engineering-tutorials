@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 69/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 71/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -75,8 +75,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 067 | Prefill-Heavy Versus Decode-Heavy Workloads | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 068 | Concurrency, Queueing and Backpressure | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 069 | Batching, KV Cache and Memory Tuning | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 070 | Model Precision, Quantization and Quality Gates | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
-| 071 | GPU Throughput and Cost per Successful Token | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 070 | Model Precision, Quantization and Quality Gates | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
+| 071 | GPU Throughput and Cost per Successful Token | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 072 | Cold Start, Warm Pools and Model Loading | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 073 | Load, Stress, Soak and Failure Testing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 074 | Capacity Forecasting, N-1 and Rollout Headroom | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
