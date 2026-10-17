@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 40/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 41/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -59,7 +59,7 @@
 - [038 — Ray Serve Routing, Batching and Backpressure](part-06-ray-serve-kserve/038-ray-serve-routing-batching-backpressure.md) — [Hands-on Lab](labs/038-ray-serve-routing-batching-backpressure-check.md) (published)
 - [039 — Ray Serve Autoscaling and Fault Tolerance](part-06-ray-serve-kserve/039-ray-serve-autoscaling-fault-tolerance.md) — [Hands-on Lab](labs/039-ray-serve-autoscaling-fault-tolerance-check.md) (published)
 - [040 — Ray Serve Observability and Recovery](part-06-ray-serve-kserve/040-ray-serve-observability-recovery.md) — [Hands-on Lab](labs/040-ray-serve-observability-recovery-check.md) (published)
-- 041 — KServe Architecture, CRDs and InferenceServices (planned)
+- [041 — KServe Architecture, CRDs and InferenceServices](part-06-ray-serve-kserve/041-kserve-architecture-crds-inferenceservices.md) — [Hands-on Lab](labs/041-kserve-architecture-crds-inferenceservices-check.md) (published)
 - 042 — KServe Runtime Selection and Model Storage (planned)
 - 043 — KServe Networking, Security and Canary Rollouts (planned)
 - 044 — KServe Autoscaling and GPU Scheduling (planned)
