@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 50/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 51/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -72,7 +72,7 @@
 - [048 — GPU Node Pools, Taints, Tolerations and Affinity](part-07-kubernetes-gpu-scheduling-autoscaling/048-gpu-node-pools-taints-tolerations-affinity.md) — [Hands-on Lab](labs/048-gpu-node-pools-taints-tolerations-affinity-check.md) (published)
 - [049 — GPU Resource Quotas and Namespace Isolation](part-07-kubernetes-gpu-scheduling-autoscaling/049-gpu-resource-quotas-namespace-isolation.md) — [Hands-on Lab](labs/049-gpu-resource-quotas-namespace-isolation-check.md) (published)
 - [050 — MIG, GPU Sharing and Multi-Tenant Risks](part-07-kubernetes-gpu-scheduling-autoscaling/050-mig-gpu-sharing-multi-tenant-risks.md) — [Hands-on Lab](labs/050-mig-gpu-sharing-multi-tenant-risks-check.md) (published)
-- 051 — HPA, KEDA and Custom Inference Metrics (planned)
+- [051 — HPA, KEDA and Custom Inference Metrics](part-07-kubernetes-gpu-scheduling-autoscaling/051-hpa-keda-custom-inference-metrics.md) — [Hands-on Lab](labs/051-hpa-keda-custom-inference-metrics-check.md) (published)
 - 052 — Cluster Autoscaler, Karpenter and GPU Warmup (planned)
 - 053 — Multi-Zone GPU Capacity and Disruption Budgets (planned)
 - 054 — GPU Scheduling, Quota and Pending Pod Troubleshooting (planned)
