@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 66/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 67/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -288,3 +288,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 065 — Inference Observability Acceptance Lab](part-08-llm-observability-metrics-tracing/065-inference-observability-acceptance-lab.md) — [Lab](labs/065-inference-observability-acceptance-lab-check.md) (published; Part 08 chapters 056–065 complete; reviews and execution pending).
 
 - [Chapter 066 — Inference Benchmark Design and Traffic Cohorts](part-09-performance-engineering-capacity/066-inference-benchmark-design-traffic-cohorts.md) — [Lab](labs/066-inference-benchmark-design-traffic-cohorts-check.md) (published; Part 09 started; reviews and execution pending).
+
+- [Chapter 067 — Prefill-Heavy Versus Decode-Heavy Workloads](part-09-performance-engineering-capacity/067-prefill-heavy-versus-decode-heavy-workloads.md) — [Lab](labs/067-prefill-heavy-versus-decode-heavy-workloads-check.md) (published; reviews and execution pending).
