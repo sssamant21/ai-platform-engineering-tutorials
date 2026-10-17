@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 58/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 59/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -64,7 +64,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 056 | Golden Signals for LLM Inference | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 057 | TTFT, TPOT, ITL, E2E Latency and Completion | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 058 | vLLM, Triton and Ray Serve Metrics | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 059 | GPU DCGM, Node and Kubernetes Observability | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 059 | GPU DCGM, Node and Kubernetes Observability | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 060 | OpenTelemetry Traces Across Inference Paths | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 061 | Prompt-Safe Logging, Redaction and Cardinality | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 062 | Prometheus Recording Rules and Alert Design | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -405,3 +405,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-08-llm-observability-metrics-tracing/058-vllm-triton-ray-serve-metrics.md) and [companion lab](labs/058-vllm-triton-ray-serve-metrics-check.md) — published.
 - Part 08: 3/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 059 — GPU DCGM, Node and Kubernetes Observability.
+
+## Chapter 059 publication evidence
+- [Canonical tutorial](part-08-llm-observability-metrics-tracing/059-gpu-dcgm-node-kubernetes-observability.md) and [companion lab](labs/059-gpu-dcgm-node-kubernetes-observability-check.md) — published.
+- Part 08: 4/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 060 — OpenTelemetry Traces Across Inference Paths.
