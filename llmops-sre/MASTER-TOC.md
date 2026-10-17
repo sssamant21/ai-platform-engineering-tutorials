@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 65/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 66/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -93,7 +93,7 @@
 
 ## Part 09 — Performance Engineering and Capacity (Chapters 066–075)
 
-- 066 — Inference Benchmark Design and Traffic Cohorts (planned)
+- [066 — Inference Benchmark Design and Traffic Cohorts](part-09-performance-engineering-capacity/066-inference-benchmark-design-traffic-cohorts.md) — [Hands-on Lab](labs/066-inference-benchmark-design-traffic-cohorts-check.md) (published)
 - 067 — Prefill-Heavy Versus Decode-Heavy Workloads (planned)
 - 068 — Concurrency, Queueing and Backpressure (planned)
 - 069 — Batching, KV Cache and Memory Tuning (planned)
