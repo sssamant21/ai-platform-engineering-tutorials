@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 63/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 64/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -282,3 +282,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 062 — Prometheus Recording Rules and Alert Design](part-08-llm-observability-metrics-tracing/062-prometheus-recording-rules-alert-design.md) — [Lab](labs/062-prometheus-recording-rules-alert-design-check.md) (published; reviews and execution pending).
 
 - [Chapter 063 — SLO Burn Rates and Error Budget Policy](part-08-llm-observability-metrics-tracing/063-slo-burn-rates-error-budget-policy.md) — [Lab](labs/063-slo-burn-rates-error-budget-policy-check.md) (published; reviews and execution pending).
+
+- [Chapter 064 — Dashboards, Synthetic Probes and On-Call](part-08-llm-observability-metrics-tracing/064-dashboards-synthetic-probes-on-call.md) — [Lab](labs/064-dashboards-synthetic-probes-on-call-check.md) (published; reviews and execution pending).
