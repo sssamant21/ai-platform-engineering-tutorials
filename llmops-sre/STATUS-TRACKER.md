@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 38/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 39/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -44,7 +44,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 036 | Ray Serve Architecture and Deployment | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 037 | Ray Actors, Placement Groups and GPU Resources | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 038 | Ray Serve Routing, Batching and Backpressure | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 039 | Ray Serve Autoscaling and Fault Tolerance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 039 | Ray Serve Autoscaling and Fault Tolerance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 040 | Ray Serve Observability and Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 041 | KServe Architecture, CRDs and InferenceServices | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 042 | KServe Runtime Selection and Model Storage | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -305,3 +305,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-06-ray-serve-kserve/038-ray-serve-routing-batching-backpressure.md) and [companion lab](labs/038-ray-serve-routing-batching-backpressure-check.md) — published.
 - Part 06: 3/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 039 — Ray Serve Autoscaling and Fault Tolerance.
+
+## Chapter 039 publication evidence
+- [Canonical tutorial](part-06-ray-serve-kserve/039-ray-serve-autoscaling-fault-tolerance.md) and [companion lab](labs/039-ray-serve-autoscaling-fault-tolerance-check.md) — published.
+- Part 06: 4/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 040 — Ray Serve Observability and Recovery.
