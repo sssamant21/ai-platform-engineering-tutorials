@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 46/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 47/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -221,4 +221,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 07:** 1/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 047 — NVIDIA Device Plugin and GPU Operator.
+**Published:** [Chapter 047 — NVIDIA Device Plugin and GPU Operator](part-07-kubernetes-gpu-scheduling-autoscaling/047-nvidia-device-plugin-gpu-operator.md) — [Lab](labs/047-nvidia-device-plugin-gpu-operator-check.md).
+
+**Part 07:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 048 — GPU Node Pools, Taints, Tolerations and Affinity.
