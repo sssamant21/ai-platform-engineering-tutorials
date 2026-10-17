@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 67/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 68/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -73,7 +73,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 065 | Inference Observability Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 066 | Inference Benchmark Design and Traffic Cohorts | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 067 | Prefill-Heavy Versus Decode-Heavy Workloads | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 068 | Concurrency, Queueing and Backpressure | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 068 | Concurrency, Queueing and Backpressure | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 069 | Batching, KV Cache and Memory Tuning | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 070 | Model Precision, Quantization and Quality Gates | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 071 | GPU Throughput and Cost per Successful Token | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
