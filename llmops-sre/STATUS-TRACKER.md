@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 43/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 44/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -49,7 +49,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 041 | KServe Architecture, CRDs and InferenceServices | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 042 | KServe Runtime Selection and Model Storage | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 043 | KServe Networking, Security and Canary Rollouts | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 044 | KServe Autoscaling and GPU Scheduling | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 044 | KServe Autoscaling and GPU Scheduling | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 045 | Ray Serve and KServe Operations Project | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 046 | Kubernetes GPU Scheduling Fundamentals | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 047 | NVIDIA Device Plugin and GPU Operator | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -330,3 +330,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-06-ray-serve-kserve/043-kserve-networking-security-canary-rollouts.md) and [companion lab](labs/043-kserve-networking-security-canary-rollouts-check.md) — published.
 - Part 06: 8/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 044 — KServe Autoscaling and GPU Scheduling.
+
+## Chapter 044 publication evidence
+- [Canonical tutorial](part-06-ray-serve-kserve/044-kserve-autoscaling-gpu-scheduling.md) and [companion lab](labs/044-kserve-autoscaling-gpu-scheduling-check.md) — published.
+- Part 06: 9/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
+- Next: Chapter 045 — Ray Serve and KServe Operations Project.
