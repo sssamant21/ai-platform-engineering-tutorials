@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 47/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 48/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -69,7 +69,7 @@
 
 - [046 — Kubernetes GPU Scheduling Fundamentals](part-07-kubernetes-gpu-scheduling-autoscaling/046-kubernetes-gpu-scheduling-fundamentals.md) — [Hands-on Lab](labs/046-kubernetes-gpu-scheduling-fundamentals-check.md) (published)
 - [047 — NVIDIA Device Plugin and GPU Operator](part-07-kubernetes-gpu-scheduling-autoscaling/047-nvidia-device-plugin-gpu-operator.md) — [Hands-on Lab](labs/047-nvidia-device-plugin-gpu-operator-check.md) (published)
-- 048 — GPU Node Pools, Taints, Tolerations and Affinity (planned)
+- [048 — GPU Node Pools, Taints, Tolerations and Affinity](part-07-kubernetes-gpu-scheduling-autoscaling/048-gpu-node-pools-taints-tolerations-affinity.md) — [Hands-on Lab](labs/048-gpu-node-pools-taints-tolerations-affinity-check.md) (published)
 - 049 — GPU Resource Quotas and Namespace Isolation (planned)
 - 050 — MIG, GPU Sharing and Multi-Tenant Risks (planned)
 - 051 — HPA, KEDA and Custom Inference Metrics (planned)
