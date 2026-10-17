@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 46/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 47/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -52,7 +52,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 044 | KServe Autoscaling and GPU Scheduling | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 045 | Ray Serve and KServe Operations Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 046 | Kubernetes GPU Scheduling Fundamentals | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 047 | NVIDIA Device Plugin and GPU Operator | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 047 | NVIDIA Device Plugin and GPU Operator | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 048 | GPU Node Pools, Taints, Tolerations and Affinity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 049 | GPU Resource Quotas and Namespace Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 050 | MIG, GPU Sharing and Multi-Tenant Risks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -345,3 +345,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/046-kubernetes-gpu-scheduling-fundamentals.md) and [companion lab](labs/046-kubernetes-gpu-scheduling-fundamentals-check.md) — published.
 - Part 07: 1/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 047 — NVIDIA Device Plugin and GPU Operator.
+
+## Chapter 047 publication evidence
+- [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/047-nvidia-device-plugin-gpu-operator.md) and [companion lab](labs/047-nvidia-device-plugin-gpu-operator-check.md) — published.
+- Part 07: 2/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 048 — GPU Node Pools, Taints, Tolerations and Affinity.
