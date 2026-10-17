@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 54/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 55/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -76,7 +76,7 @@
 - [052 — Cluster Autoscaler, Karpenter and GPU Warmup](part-07-kubernetes-gpu-scheduling-autoscaling/052-cluster-autoscaler-karpenter-gpu-warmup.md) — [Hands-on Lab](labs/052-cluster-autoscaler-karpenter-gpu-warmup-check.md) (published)
 - [053 — Multi-Zone GPU Capacity and Disruption Budgets](part-07-kubernetes-gpu-scheduling-autoscaling/053-multi-zone-gpu-capacity-disruption-budgets.md) — [Hands-on Lab](labs/053-multi-zone-gpu-capacity-disruption-budgets-check.md) (published)
 - [054 — GPU Scheduling, Quota and Pending Pod Troubleshooting](part-07-kubernetes-gpu-scheduling-autoscaling/054-gpu-scheduling-quota-pending-pod-troubleshooting.md) — [Hands-on Lab](labs/054-gpu-scheduling-quota-pending-pod-troubleshooting-check.md) (published)
-- 055 — GPU Autoscaling Acceptance Lab (planned)
+- [055 — GPU Autoscaling Acceptance Lab](part-07-kubernetes-gpu-scheduling-autoscaling/055-gpu-autoscaling-acceptance-lab.md) — [Hands-on Lab](labs/055-gpu-autoscaling-acceptance-lab-check.md) (published)
 
 ## Part 08 — LLM Observability, Metrics and Tracing (Chapters 056–065)
 
