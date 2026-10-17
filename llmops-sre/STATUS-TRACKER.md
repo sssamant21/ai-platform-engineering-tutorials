@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 53/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 54/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -59,7 +59,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 051 | HPA, KEDA and Custom Inference Metrics | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 052 | Cluster Autoscaler, Karpenter and GPU Warmup | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 053 | Multi-Zone GPU Capacity and Disruption Budgets | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 054 | GPU Scheduling, Quota and Pending Pod Troubleshooting | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 054 | GPU Scheduling, Quota and Pending Pod Troubleshooting | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 055 | GPU Autoscaling Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 056 | Golden Signals for LLM Inference | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 057 | TTFT, TPOT, ITL, E2E Latency and Completion | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -380,3 +380,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/053-multi-zone-gpu-capacity-disruption-budgets.md) and [companion lab](labs/053-multi-zone-gpu-capacity-disruption-budgets-check.md) — published.
 - Part 07: 8/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 054 — GPU Scheduling, Quota and Pending Pod Troubleshooting.
+
+## Chapter 054 publication evidence
+- [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/054-gpu-scheduling-quota-pending-pod-troubleshooting.md) and [companion lab](labs/054-gpu-scheduling-quota-pending-pod-troubleshooting-check.md) — published.
+- Part 07: 9/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 055 — GPU Autoscaling Acceptance Lab.
