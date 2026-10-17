@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 55/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 56/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -61,7 +61,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 053 | Multi-Zone GPU Capacity and Disruption Budgets | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 054 | GPU Scheduling, Quota and Pending Pod Troubleshooting | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 055 | GPU Autoscaling Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 056 | Golden Signals for LLM Inference | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 056 | Golden Signals for LLM Inference | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 057 | TTFT, TPOT, ITL, E2E Latency and Completion | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 058 | vLLM, Triton and Ray Serve Metrics | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 059 | GPU DCGM, Node and Kubernetes Observability | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -390,3 +390,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical capstone](part-07-kubernetes-gpu-scheduling-autoscaling/055-gpu-autoscaling-acceptance-lab.md) and [companion acceptance lab](labs/055-gpu-autoscaling-acceptance-lab-check.md) — published.
 - Part 07: 10/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending; the written acceptance lab does not certify a real cluster.
 - Next: Chapter 056 — Golden Signals for LLM Inference, beginning Part 08.
+
+## Chapter 056 publication evidence — Part 08 begins
+- [Canonical tutorial](part-08-llm-observability-metrics-tracing/056-golden-signals-llm-inference.md) and [companion lab](labs/056-golden-signals-llm-inference-check.md) — published.
+- Part 08: 1/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 057 — TTFT, TPOT, ITL, E2E Latency and Completion.
