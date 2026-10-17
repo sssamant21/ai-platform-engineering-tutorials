@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 36/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 37/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -181,4 +181,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 06:** 1/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 037 — Ray Actors, Placement Groups and GPU Resources.
+**Published:** [Chapter 037 — Ray Actors, Placement Groups and GPU Resources](part-06-ray-serve-kserve/037-ray-actors-placement-groups-gpu-resources.md) — [Lab](labs/037-ray-actors-placement-groups-gpu-resources-check.md).
+
+**Part 06:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 038 — Ray Serve Routing, Batching and Backpressure.
