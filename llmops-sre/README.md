@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 50/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 51/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -237,4 +237,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 07:** 5/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 051 — HPA, KEDA and Custom Inference Metrics.
+**Published:** [Chapter 051 — HPA, KEDA and Custom Inference Metrics](part-07-kubernetes-gpu-scheduling-autoscaling/051-hpa-keda-custom-inference-metrics.md) — [Lab](labs/051-hpa-keda-custom-inference-metrics-check.md).
+
+**Part 07:** 6/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 052 — Cluster Autoscaler, Karpenter and GPU Warmup.
