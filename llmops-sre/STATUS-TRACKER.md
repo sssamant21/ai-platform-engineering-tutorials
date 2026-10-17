@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 61/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 62/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -67,7 +67,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 059 | GPU DCGM, Node and Kubernetes Observability | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 060 | OpenTelemetry Traces Across Inference Paths | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 061 | Prompt-Safe Logging, Redaction and Cardinality | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 062 | Prometheus Recording Rules and Alert Design | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 062 | Prometheus Recording Rules and Alert Design | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 063 | SLO Burn Rates and Error Budget Policy | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 064 | Dashboards, Synthetic Probes and On-Call | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 065 | Inference Observability Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
