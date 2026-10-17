@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 47/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 48/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -53,7 +53,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 045 | Ray Serve and KServe Operations Project | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 046 | Kubernetes GPU Scheduling Fundamentals | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 047 | NVIDIA Device Plugin and GPU Operator | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 048 | GPU Node Pools, Taints, Tolerations and Affinity | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 048 | GPU Node Pools, Taints, Tolerations and Affinity | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 049 | GPU Resource Quotas and Namespace Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 050 | MIG, GPU Sharing and Multi-Tenant Risks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 051 | HPA, KEDA and Custom Inference Metrics | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -350,3 +350,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/047-nvidia-device-plugin-gpu-operator.md) and [companion lab](labs/047-nvidia-device-plugin-gpu-operator-check.md) — published.
 - Part 07: 2/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
 - Next: Chapter 048 — GPU Node Pools, Taints, Tolerations and Affinity.
+
+## Chapter 048 publication evidence
+- [Canonical tutorial](part-07-kubernetes-gpu-scheduling-autoscaling/048-gpu-node-pools-taints-tolerations-affinity.md) and [companion lab](labs/048-gpu-node-pools-taints-tolerations-affinity-check.md) — published.
+- Part 07: 3/10 written chapters and labs published. Technical/security review, live lab execution and operational acceptance remain pending.
+- Next: Chapter 049 — GPU Resource Quotas and Namespace Isolation.
