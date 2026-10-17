@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 34/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 35/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -40,7 +40,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 032 | TensorRT-LLM Quantization and Engine Compatibility | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 033 | TensorRT-LLM Throughput, Latency and KV Cache | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 034 | Triton and TensorRT-LLM Troubleshooting | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 035 | NVIDIA Inference Stack Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 035 | NVIDIA Inference Stack Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 036 | Ray Serve Architecture and Deployment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 037 | Ray Actors, Placement Groups and GPU Resources | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 038 | Ray Serve Routing, Batching and Backpressure | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
@@ -285,3 +285,8 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 - [Canonical tutorial](part-05-triton-tensorrt-llm/034-triton-tensorrt-llm-troubleshooting.md) and [companion lab](labs/034-triton-tensorrt-llm-troubleshooting-check.md) — published.
 - Part 05: 9/10 written chapters published. Technical/security review, live lab execution and acceptance remain pending.
 - Next: Chapter 035 — NVIDIA Inference Stack Acceptance Lab.
+
+## Chapter 035 publication evidence — Part 05 written curriculum complete
+- [Canonical capstone](part-05-triton-tensorrt-llm/035-nvidia-inference-stack-acceptance-lab.md) and [acceptance worksheet](labs/035-nvidia-inference-stack-acceptance-lab-check.md) — published.
+- Part 05: 10/10 written chapters published; **not operationally accepted**. Technical/security review, live lab execution and all acceptance gates remain pending.
+- Next: Chapter 036 — Ray Serve Architecture and Deployment.
