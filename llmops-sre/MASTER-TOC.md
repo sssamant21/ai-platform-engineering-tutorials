@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 64/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 65/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -89,7 +89,7 @@
 - [062 — Prometheus Recording Rules and Alert Design](part-08-llm-observability-metrics-tracing/062-prometheus-recording-rules-alert-design.md) — [Hands-on Lab](labs/062-prometheus-recording-rules-alert-design-check.md) (published)
 - [063 — SLO Burn Rates and Error Budget Policy](part-08-llm-observability-metrics-tracing/063-slo-burn-rates-error-budget-policy.md) — [Hands-on Lab](labs/063-slo-burn-rates-error-budget-policy-check.md) (published)
 - [064 — Dashboards, Synthetic Probes and On-Call](part-08-llm-observability-metrics-tracing/064-dashboards-synthetic-probes-on-call.md) — [Hands-on Lab](labs/064-dashboards-synthetic-probes-on-call-check.md) (published)
-- 065 — Inference Observability Acceptance Lab (planned)
+- [065 — Inference Observability Acceptance Lab](part-08-llm-observability-metrics-tracing/065-inference-observability-acceptance-lab.md) — [Hands-on Lab](labs/065-inference-observability-acceptance-lab-check.md) (published; Part 08 complete)
 
 ## Part 09 — Performance Engineering and Capacity (Chapters 066–075)
 
