@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 59/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 60/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -274,3 +274,5 @@ Each chapter should contain learning objectives, architecture and production tra
 **Part 08:** 4/10 tutorials and companion labs published; technical/security review and live execution pending.
 
 **Next:** Chapter 060 — OpenTelemetry Traces Across Inference Paths.
+
+- [Chapter 060 — OpenTelemetry Traces Across Inference Paths](part-08-llm-observability-metrics-tracing/060-opentelemetry-traces-across-inference-paths.md) — [Lab](labs/060-opentelemetry-traces-across-inference-paths-check.md) (published; review and execution pending).
