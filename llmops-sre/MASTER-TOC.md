@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 55/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 56/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -80,7 +80,7 @@
 
 ## Part 08 — LLM Observability, Metrics and Tracing (Chapters 056–065)
 
-- 056 — Golden Signals for LLM Inference (planned)
+- [056 — Golden Signals for LLM Inference](part-08-llm-observability-metrics-tracing/056-golden-signals-llm-inference.md) — [Hands-on Lab](labs/056-golden-signals-llm-inference-check.md) (published)
 - 057 — TTFT, TPOT, ITL, E2E Latency and Completion (planned)
 - 058 — vLLM, Triton and Ray Serve Metrics (planned)
 - 059 — GPU DCGM, Node and Kubernetes Observability (planned)
