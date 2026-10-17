@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 34/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 35/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -50,7 +50,7 @@
 - [032 — TensorRT-LLM Quantization and Engine Compatibility](part-05-triton-tensorrt-llm/032-tensorrt-llm-quantization-engine-compatibility.md) — [Hands-on Lab](labs/032-tensorrt-llm-quantization-engine-compatibility-check.md) (published)
 - [033 — TensorRT-LLM Throughput, Latency and KV Cache](part-05-triton-tensorrt-llm/033-tensorrt-llm-throughput-latency-kv-cache.md) — [Hands-on Lab](labs/033-tensorrt-llm-throughput-latency-kv-cache-check.md) (published)
 - [034 — Triton and TensorRT-LLM Troubleshooting](part-05-triton-tensorrt-llm/034-triton-tensorrt-llm-troubleshooting.md) — [Hands-on Lab](labs/034-triton-tensorrt-llm-troubleshooting-check.md) (published)
-- 035 — NVIDIA Inference Stack Acceptance Lab (planned)
+- [035 — NVIDIA Inference Stack Acceptance Lab](part-05-triton-tensorrt-llm/035-nvidia-inference-stack-acceptance-lab.md) — [Hands-on Lab](labs/035-nvidia-inference-stack-acceptance-lab-check.md) (published)
 
 ## Part 06 — Ray Serve and KServe (Chapters 036–045)
 
