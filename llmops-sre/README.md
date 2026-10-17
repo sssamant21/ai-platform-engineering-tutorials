@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 68/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 69/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -292,3 +292,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 067 — Prefill-Heavy Versus Decode-Heavy Workloads](part-09-performance-engineering-capacity/067-prefill-heavy-versus-decode-heavy-workloads.md) — [Lab](labs/067-prefill-heavy-versus-decode-heavy-workloads-check.md) (published; reviews and execution pending).
 
 - [Chapter 068 — Concurrency, Queueing and Backpressure](part-09-performance-engineering-capacity/068-concurrency-queueing-backpressure.md) — [Lab](labs/068-concurrency-queueing-backpressure-check.md) (published; reviews and execution pending).
+
+- [Chapter 069 — Batching, KV Cache and Memory Tuning](part-09-performance-engineering-capacity/069-batching-kv-cache-memory-tuning.md) — [Lab](labs/069-batching-kv-cache-memory-tuning-check.md) (published; reviews and execution pending).
