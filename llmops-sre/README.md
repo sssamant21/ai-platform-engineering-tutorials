@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 61/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 62/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -278,3 +278,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 060 — OpenTelemetry Traces Across Inference Paths](part-08-llm-observability-metrics-tracing/060-opentelemetry-traces-across-inference-paths.md) — [Lab](labs/060-opentelemetry-traces-across-inference-paths-check.md) (published; review and execution pending).
 
 - [Chapter 061 — Prompt-Safe Logging, Redaction and Cardinality](part-08-llm-observability-metrics-tracing/061-prompt-safe-logging-redaction-cardinality.md) — [Lab](labs/061-prompt-safe-logging-redaction-cardinality-check.md) (published; reviews and execution pending).
+
+- [Chapter 062 — Prometheus Recording Rules and Alert Design](part-08-llm-observability-metrics-tracing/062-prometheus-recording-rules-alert-design.md) — [Lab](labs/062-prometheus-recording-rules-alert-design-check.md) (published; reviews and execution pending).
