@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 37/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 38/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -185,4 +185,8 @@ Each chapter should contain learning objectives, architecture and production tra
 
 **Part 06:** 2/10 tutorials and companion labs published; technical/security review and live execution pending.
 
-**Next:** Chapter 038 — Ray Serve Routing, Batching and Backpressure.
+**Published:** [Chapter 038 — Ray Serve Routing, Batching and Backpressure](part-06-ray-serve-kserve/038-ray-serve-routing-batching-backpressure.md) — [Lab](labs/038-ray-serve-routing-batching-backpressure-check.md).
+
+**Part 06:** 3/10 tutorials and companion labs published; technical/security review and live execution pending.
+
+**Next:** Chapter 039 — Ray Serve Autoscaling and Fault Tolerance.
