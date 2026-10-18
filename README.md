@@ -328,3 +328,11 @@ The [LLMOps & AI Inference SRE track](llmops-sre/README.md) contains a newly pub
 
 - [LLMOps Master TOC](llmops-sre/MASTER-TOC.md)
 - [LLMOps Status Tracker](llmops-sre/STATUS-TRACKER.md)
+
+
+## AI Infrastructure Engineering & SRE
+
+[AI Infrastructure Engineering & SRE](ai-infrastructure-sre/README.md) is a new 100-chapter, 12-part production-focused GPU infrastructure and operations curriculum. Chapter 001 and its offline acceptance lab are published; lab execution and technical/security validation remain pending.
+
+- [Master TOC](ai-infrastructure-sre/MASTER-TOC.md)
+- [Status Tracker](ai-infrastructure-sre/STATUS-TRACKER.md)
