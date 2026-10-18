@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 84/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 85/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -90,7 +90,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 082 | AI Gateway Rate Limits and Denial-of-Wallet Protection | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 083 | GPU FinOps, Budget Alerts and Rightsizing | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 084 | Policy-as-Code, Change Management and Audit | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 085 | Security, Governance and FinOps Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 085 | Security, Governance and FinOps Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 086 | LLM Incident Command, SEV and Escalation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 087 | Inference 429, 5xx, Timeout and SSE Incident Runbooks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 088 | GPU XID, ECC, Driver and CUDA Incident Response | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
