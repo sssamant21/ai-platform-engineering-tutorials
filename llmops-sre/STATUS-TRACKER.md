@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 97/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 98/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -103,7 +103,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 095 | Incident Response and Disaster Recovery Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 096 | Enterprise LLM Inference Reference Architecture | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 097 | Build a Secure Multi-Environment GPU Serving Platform | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 098 | Implement SLOs, Load Testing and Capacity Governance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 098 | Implement SLOs, Load Testing and Capacity Governance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 099 | Run Compound Failure and Incident Recovery Exercises | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 100 | Final AI Inference SRE Production Readiness Assessment | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 
