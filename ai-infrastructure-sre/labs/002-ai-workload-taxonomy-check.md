@@ -140,7 +140,7 @@ Run:
 python workload_placement.py
 python -m pytest -q
 ```
-Expected: **29 test cases** (7 workload classes + 5 security gates + 3 recovery + 2 latency + 2 idempotency + 10 standalone). Execution is pending.
+Expected: **27 test cases** (7 workload classes + 5 security gates + 3 recovery + 2 latency + 2 idempotency + 8 standalone). Execution is pending.
 
 ## 4. Staging validation
 1. Record GPU type, free/allocated VRAM, driver, CUDA, NCCL and GPU Operator versions.
