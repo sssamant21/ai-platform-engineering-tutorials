@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 98/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 99/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -352,3 +352,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 097 — Build a Secure Multi-Environment GPU Serving Platform](part-12-final-production-ai-sre-capstone/097-secure-multi-environment-gpu-serving-platform.md) — [Lab](labs/097-secure-multi-environment-gpu-serving-platform-check.md) (published; live deployment and security review pending).
 
 - [Chapter 098 — Implement SLOs, Load Testing and Capacity Governance](part-12-final-production-ai-sre-capstone/098-slos-load-testing-capacity-governance.md) — [Lab](labs/098-slos-load-testing-capacity-governance-check.md) (published; live GPU load tests and review pending).
+
+- [Chapter 099 — Run Compound Failure and Incident Recovery Exercises](part-12-final-production-ai-sre-capstone/099-compound-failure-incident-recovery-exercises.md) — [Lab](labs/099-compound-failure-incident-recovery-exercises-check.md) (published; staging game-day execution and independent review pending).
