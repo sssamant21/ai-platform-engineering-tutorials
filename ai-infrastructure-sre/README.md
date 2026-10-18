@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 2/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 3/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -19,4 +19,6 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 002 — AI Workload Taxonomy: Training, Fine-Tuning and Inference](part-01-foundations-and-architecture/002-ai-workload-taxonomy-training-fine-tuning-inference.md) — [Lab](labs/002-ai-workload-taxonomy-check.md)
 
-**Next:** Chapter 003 — GPU Infrastructure Reference Architectures.
+- [Chapter 003 — GPU Infrastructure Reference Architectures](part-01-foundations-and-architecture/003-gpu-infrastructure-reference-architectures.md) — [Lab](labs/003-gpu-infrastructure-reference-architectures-check.md)
+
+**Next:** Chapter 004 — AI Infrastructure Service Ownership and Support Tiers.
