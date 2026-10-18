@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 98/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 99/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -135,6 +135,6 @@
 - [096 — Enterprise LLM Inference Reference Architecture](part-12-final-production-ai-sre-capstone/096-enterprise-llm-inference-reference-architecture.md) — [Hands-on Lab](labs/096-enterprise-llm-inference-reference-architecture-check.md) (published; Part 12 started)
 - [097 — Build a Secure Multi-Environment GPU Serving Platform](part-12-final-production-ai-sre-capstone/097-secure-multi-environment-gpu-serving-platform.md) — [Hands-on Lab](labs/097-secure-multi-environment-gpu-serving-platform-check.md) (published)
 - [098 — Implement SLOs, Load Testing and Capacity Governance](part-12-final-production-ai-sre-capstone/098-slos-load-testing-capacity-governance.md) — [Hands-on Lab](labs/098-slos-load-testing-capacity-governance-check.md) (published)
-- 099 — Run Compound Failure and Incident Recovery Exercises (planned)
+- [099 — Run Compound Failure and Incident Recovery Exercises](part-12-final-production-ai-sre-capstone/099-compound-failure-incident-recovery-exercises.md) — [Hands-on Lab](labs/099-compound-failure-incident-recovery-exercises-check.md) (published)
 - 100 — Final AI Inference SRE Production Readiness Assessment (planned)
 
