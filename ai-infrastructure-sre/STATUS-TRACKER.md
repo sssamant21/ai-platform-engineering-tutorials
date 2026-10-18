@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**8/100 published (8%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**9/100 published (9%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | 006 | AI Infrastructure Reliability, SLOs and Error Budgets | Published | Pending | Pending | Pending |
 | 007 | Infrastructure Security and Trust Boundaries | Published | Pending | Pending | Pending |
 | 008 | Foundations Architecture Review Lab | Published | Pending | Pending | Pending |
-| 009 | GPU Server Hardware, PCIe and NUMA | Planned | Pending | Pending | Pending |
+| 009 | GPU Server Hardware, PCIe and NUMA | Published | Pending | Pending | Pending |
 | 010 | Linux GPU Host Provisioning and Baselines | Planned | Pending | Pending | Pending |
 | 011 | NVIDIA Driver Lifecycle and Compatibility | Planned | Pending | Pending | Pending |
 | 012 | GPU Discovery with nvidia-smi and NVML | Planned | Pending | Pending | Pending |
