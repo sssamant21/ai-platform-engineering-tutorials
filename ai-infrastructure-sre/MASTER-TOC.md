@@ -1,11 +1,11 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **1/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **2/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
 - [001 — AI Infrastructure Architecture and Enterprise SRE Responsibilities](part-01-foundations-and-architecture/001-ai-infrastructure-architecture-enterprise-sre-responsibilities.md) — [Lab](labs/001-ai-infrastructure-architecture-check.md) (published)
-- 002 — AI Workload Taxonomy: Training, Fine-Tuning and Inference (planned)
+- [002 — AI Workload Taxonomy: Training, Fine-Tuning and Inference](part-01-foundations-and-architecture/002-ai-workload-taxonomy-training-fine-tuning-inference.md) — [Lab](labs/002-ai-workload-taxonomy-check.md) (published)
 - 003 — GPU Infrastructure Reference Architectures (planned)
 - 004 — AI Infrastructure Service Ownership and Support Tiers (planned)
 - 005 — Linux, Kubernetes and Cloud Dependency Mapping (planned)
