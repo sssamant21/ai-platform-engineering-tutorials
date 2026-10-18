@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 79/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 80/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -85,7 +85,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 077 | Inference Authentication, Authorization and Tenant Isolation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 078 | Prompt Injection, Data Leakage and Model Abuse | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 079 | Secrets, Workload Identity and Network Policies | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 080 | Model Artifact Supply Chain, SBOM and Provenance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 080 | Model Artifact Supply Chain, SBOM and Provenance | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 081 | Privacy-Safe Telemetry and Data Retention | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 082 | AI Gateway Rate Limits and Denial-of-Wallet Protection | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 083 | GPU FinOps, Budget Alerts and Rightsizing | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
