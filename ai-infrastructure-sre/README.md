@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 8/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 9/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -33,4 +33,6 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 01 — Foundations and Architecture: 8/8 published (content complete; runtime validation pending).**
 
-**Next:** Chapter 009 — GPU Server Hardware, PCIe and NUMA, beginning Part 02 — Linux, Servers and GPU Hardware.
+- [Chapter 009 — GPU Server Hardware, PCIe and NUMA](part-02-linux-servers-and-gpu-hardware/009-gpu-server-hardware-pcie-numa.md) — [Lab](labs/009-gpu-server-hardware-pcie-numa-check.md)
+
+**Next:** Chapter 010 — Linux GPU Host Provisioning and Baselines.
