@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 88/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 89/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -332,3 +332,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 087 — Inference 429, 5xx, Timeout and SSE Incident Runbooks](part-11-incident-response-ha-disaster-recovery/087-inference-429-5xx-timeout-sse-incident-runbooks.md) — [Lab](labs/087-inference-429-5xx-timeout-sse-incident-runbooks-check.md) (published; reviews and execution pending).
 
 - [Chapter 088 — GPU XID, ECC, Driver and CUDA Incident Response](part-11-incident-response-ha-disaster-recovery/088-gpu-xid-ecc-driver-cuda-incident-response.md) — [Lab](labs/088-gpu-xid-ecc-driver-cuda-incident-response-check.md) (published; reviews and execution pending).
+
+- [Chapter 089 — Model Quality and Release Regression Incidents](part-11-incident-response-ha-disaster-recovery/089-model-quality-release-regression-incidents.md) — [Lab](labs/089-model-quality-release-regression-incidents-check.md) (published; reviews and execution pending).
