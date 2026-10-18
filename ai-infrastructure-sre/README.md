@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 11/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 12/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -39,4 +39,6 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 011 — NVIDIA Driver Lifecycle and Compatibility](part-02-linux-servers-and-gpu-hardware/011-nvidia-driver-lifecycle-compatibility.md) — [Lab](labs/011-nvidia-driver-lifecycle-compatibility-check.md)
 
-**Next:** Chapter 012 — GPU Discovery with nvidia-smi and NVML.
+- [Chapter 012 — GPU Discovery with nvidia-smi and NVML](part-02-linux-servers-and-gpu-hardware/012-gpu-discovery-nvidia-smi-nvml.md) — [Lab](labs/012-gpu-discovery-nvidia-smi-nvml-check.md)
+
+**Next:** Chapter 013 — GPU Hardware Health, ECC and Xid Errors.
