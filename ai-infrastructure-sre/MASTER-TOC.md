@@ -1,0 +1,139 @@
+# AI Infrastructure Engineering & SRE — Master Table of Contents
+
+**100 chapters across 12 parts.** Publication: **1/100**; local and cloud lab validation pending.
+
+## Part 01 — Foundations and Architecture (Chapters 001–008)
+
+- [001 — AI Infrastructure Architecture and Enterprise SRE Responsibilities](part-01-foundations-and-architecture/001-ai-infrastructure-architecture-enterprise-sre-responsibilities.md) — [Lab](labs/001-ai-infrastructure-architecture-check.md) (published)
+- 002 — AI Workload Taxonomy: Training, Fine-Tuning and Inference (planned)
+- 003 — GPU Infrastructure Reference Architectures (planned)
+- 004 — AI Infrastructure Service Ownership and Support Tiers (planned)
+- 005 — Linux, Kubernetes and Cloud Dependency Mapping (planned)
+- 006 — AI Infrastructure Reliability, SLOs and Error Budgets (planned)
+- 007 — Infrastructure Security and Trust Boundaries (planned)
+- 008 — Foundations Architecture Review Lab (planned)
+
+## Part 02 — Linux, Servers and GPU Hardware (Chapters 009–016)
+
+- 009 — GPU Server Hardware, PCIe and NUMA (planned)
+- 010 — Linux GPU Host Provisioning and Baselines (planned)
+- 011 — NVIDIA Driver Lifecycle and Compatibility (planned)
+- 012 — GPU Discovery with nvidia-smi and NVML (planned)
+- 013 — GPU Hardware Health, ECC and Xid Errors (planned)
+- 014 — GPU Firmware, BIOS and Host Maintenance (planned)
+- 015 — GPU Node Replacement and Recovery (planned)
+- 016 — GPU Hardware Operations Capstone (planned)
+
+## Part 03 — CUDA, GPU Memory and Communication (Chapters 017–025)
+
+- 017 — CUDA Runtime and Driver Compatibility (planned)
+- 018 — GPU Memory Architecture and OOM (planned)
+- 019 — CUDA Processes, Streams and Contexts (planned)
+- 020 — MIG Partitioning and Isolation (planned)
+- 021 — NVLink and NVSwitch Topologies (planned)
+- 022 — NCCL Fundamentals and Collective Operations (planned)
+- 023 — NCCL Diagnostics and Hang Recovery (planned)
+- 024 — GPU Profiling and Bottleneck Analysis (planned)
+- 025 — CUDA and NCCL Troubleshooting Capstone (planned)
+
+## Part 04 — Kubernetes GPU Administration (Chapters 026–034)
+
+- 026 — GPU Device Plugin and Resource Discovery (planned)
+- 027 — GPU Operator Architecture and Lifecycle (planned)
+- 028 — GPU Scheduling, Taints and Affinity (planned)
+- 029 — GPU Resource Quotas and Multitenancy (planned)
+- 030 — GPU Pod Security and Runtime Integration (planned)
+- 031 — GPU Node Autoscaling and Karpenter (planned)
+- 032 — GPU Workload Rollouts and Disruptions (planned)
+- 033 — GPU Operator and Device Plugin Troubleshooting (planned)
+- 034 — Kubernetes GPU Platform Capstone (planned)
+
+## Part 05 — Cloud GPU Infrastructure (Chapters 035–042)
+
+- 035 — AWS GPU EC2 Architecture and Quotas (planned)
+- 036 — EKS GPU Managed Node Groups (planned)
+- 037 — AWS EFA and GPU Networking (planned)
+- 038 — Azure GPU VM Architecture and Quotas (planned)
+- 039 — AKS GPU Node Pools and Drivers (planned)
+- 040 — Cloud GPU Identity, Storage and Security (planned)
+- 041 — Multi-Cloud GPU Capacity and Cost (planned)
+- 042 — AWS and Azure GPU Operations Capstone (planned)
+
+## Part 06 — High Performance Networking (Chapters 043–050)
+
+- 043 — AI Cluster Network Architecture (planned)
+- 044 — RDMA and InfiniBand Fundamentals (planned)
+- 045 — AWS EFA for Distributed AI (planned)
+- 046 — RoCE and Ethernet Fabrics (planned)
+- 047 — GPU Direct RDMA and Communication (planned)
+- 048 — Network Congestion and Packet Loss (planned)
+- 049 — NCCL Network Performance Troubleshooting (planned)
+- 050 — AI Networking Reliability Capstone (planned)
+
+## Part 07 — AI Storage and Data Pipelines (Chapters 051–058)
+
+- 051 — AI Data Storage Architecture (planned)
+- 052 — Object Storage and Dataset Layout (planned)
+- 053 — FSx for Lustre and Parallel Filesystems (planned)
+- 054 — High Throughput Dataset Loading (planned)
+- 055 — Checkpoint Design and Retention (planned)
+- 056 — Checkpoint Recovery and Consistency (planned)
+- 057 — Storage IOPS, Throughput and Cost (planned)
+- 058 — AI Storage Reliability Capstone (planned)
+
+## Part 08 — Distributed Training Operations (Chapters 059–066)
+
+- 059 — Distributed Training Architecture (planned)
+- 060 — Slurm Cluster Administration (planned)
+- 061 — Ray Cluster Operations (planned)
+- 062 — PyTorch Distributed and NCCL (planned)
+- 063 — Training Job Scheduling and Fairness (planned)
+- 064 — Training Failure Recovery and Checkpoints (planned)
+- 065 — Multi-Node Training Performance (planned)
+- 066 — Distributed Training SRE Capstone (planned)
+
+## Part 09 — GPU Observability (Chapters 067–074)
+
+- 067 — DCGM Exporter and GPU Metrics (planned)
+- 068 — Prometheus and Grafana GPU Dashboards (planned)
+- 069 — OpenTelemetry for AI Infrastructure (planned)
+- 070 — GPU Health and Xid Alerting (planned)
+- 071 — GPU Utilization and Capacity SLOs (planned)
+- 072 — Cluster Telemetry and Event Correlation (planned)
+- 073 — Observability Pipeline Reliability (planned)
+- 074 — GPU Observability Capstone (planned)
+
+## Part 10 — Incident Response and Troubleshooting (Chapters 075–082)
+
+- 075 — GPU Node NotReady and Device Plugin Failures (planned)
+- 076 — CUDA Initialization and Driver Errors (planned)
+- 077 — GPU OOM and Memory Fragmentation (planned)
+- 078 — NCCL Hangs and Distributed Deadlocks (planned)
+- 079 — Network and Storage Bottleneck Incidents (planned)
+- 080 — GPU Failure Triage and Escalation (planned)
+- 081 — Recovery Runbooks and RCA COA (planned)
+- 082 — AI Infrastructure Incident Capstone (planned)
+
+## Part 11 — Capacity, FinOps and Reliability (Chapters 083–090)
+
+- 083 — GPU Demand Forecasting (planned)
+- 084 — GPU Rightsizing and Utilization (planned)
+- 085 — Capacity Reservation and Quota Governance (planned)
+- 086 — N-1 and Multi-Zone GPU Resilience (planned)
+- 087 — GPU Cost Allocation and Unit Economics (planned)
+- 088 — Scaling and Queue Admission Control (planned)
+- 089 — GPU Platform DR and Continuity (planned)
+- 090 — Capacity and Reliability Acceptance Capstone (planned)
+
+## Part 12 — Enterprise Operations and Final Capstones (Chapters 091–100)
+
+- 091 — Enterprise AI Infrastructure Reference Architecture (planned)
+- 092 — Build a Secure GPU Cluster Platform (planned)
+- 093 — Validate Drivers CUDA and NCCL (planned)
+- 094 — Deploy Kubernetes GPU Workloads (planned)
+- 095 — Implement Storage and Network Performance Tests (planned)
+- 096 — Implement GPU SLOs and Observability (planned)
+- 097 — Run GPU Hardware and Driver Incident Exercises (planned)
+- 098 — Run Distributed Training Failure Recovery (planned)
+- 099 — Perform Enterprise AI Infrastructure Readiness Review (planned)
+- 100 — Final AI Infrastructure SRE Production Assessment (planned)
