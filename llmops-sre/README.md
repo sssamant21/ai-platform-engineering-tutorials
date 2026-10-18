@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 83/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 84/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -322,3 +322,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 082 — AI Gateway Rate Limits and Denial-of-Wallet Protection](part-10-ai-security-governance-finops/082-ai-gateway-rate-limits-denial-of-wallet-protection.md) — [Lab](labs/082-ai-gateway-rate-limits-denial-of-wallet-protection-check.md) (published; reviews and execution pending).
 
 - [Chapter 083 — GPU FinOps, Budget Alerts and Rightsizing](part-10-ai-security-governance-finops/083-gpu-finops-budget-alerts-rightsizing.md) — [Lab](labs/083-gpu-finops-budget-alerts-rightsizing-check.md) (published; reviews and execution pending).
+
+- [Chapter 084 — Policy-as-Code, Change Management and Audit](part-10-ai-security-governance-finops/084-policy-as-code-change-management-audit.md) — [Lab](labs/084-policy-as-code-change-management-audit-check.md) (published; reviews and execution pending).
