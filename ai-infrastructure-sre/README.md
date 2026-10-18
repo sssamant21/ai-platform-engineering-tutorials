@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 7/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 8/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -29,4 +29,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 007 — Infrastructure Security and Trust Boundaries](part-01-foundations-and-architecture/007-infrastructure-security-trust-boundaries.md) — [Lab](labs/007-infrastructure-security-trust-boundaries-check.md)
 
-**Next:** Chapter 008 — Foundations Architecture Review Lab.
+- [Chapter 008 — Foundations Architecture Review Lab](part-01-foundations-and-architecture/008-foundations-architecture-review-lab.md) — [Lab](labs/008-foundations-architecture-review-check.md)
+
+**Part 01 — Foundations and Architecture: 8/8 published (content complete; runtime validation pending).**
+
+**Next:** Chapter 009 — GPU Server Hardware, PCIe and NUMA, beginning Part 02 — Linux, Servers and GPU Hardware.
