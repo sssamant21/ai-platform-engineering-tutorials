@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 90/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 91/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -336,3 +336,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 089 — Model Quality and Release Regression Incidents](part-11-incident-response-ha-disaster-recovery/089-model-quality-release-regression-incidents.md) — [Lab](labs/089-model-quality-release-regression-incidents-check.md) (published; reviews and execution pending).
 
 - [Chapter 090 — TrueFoundry, Ray Serve and KServe Control Plane Failures](part-11-incident-response-ha-disaster-recovery/090-truefoundry-ray-serve-kserve-control-plane-failures.md) — [Lab](labs/090-truefoundry-ray-serve-kserve-control-plane-failures-check.md) (published; live validation and review pending).
+
+- [Chapter 091 — High Availability, N-1 and Multi-Zone Recovery](part-11-incident-response-ha-disaster-recovery/091-high-availability-n-1-multi-zone-recovery.md) — [Lab](labs/091-high-availability-n-1-multi-zone-recovery-check.md) (published; staging execution and review pending).
