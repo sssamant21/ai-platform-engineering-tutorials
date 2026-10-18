@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 78/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 79/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -312,3 +312,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 077 — Inference Authentication, Authorization and Tenant Isolation](part-10-ai-security-governance-finops/077-inference-authentication-authorization-tenant-isolation.md) — [Lab](labs/077-inference-authentication-authorization-tenant-isolation-check.md) (published; reviews and execution pending).
 
 - [Chapter 078 — Prompt Injection, Data Leakage and Model Abuse](part-10-ai-security-governance-finops/078-prompt-injection-data-leakage-model-abuse.md) — [Lab](labs/078-prompt-injection-data-leakage-model-abuse-check.md) (published; reviews and execution pending).
+
+- [Chapter 079 — Secrets, Workload Identity and Network Policies](part-10-ai-security-governance-finops/079-secrets-workload-identity-network-policies.md) — [Lab](labs/079-secrets-workload-identity-network-policies-check.md) (published; reviews and execution pending).
