@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 96/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 97/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -348,3 +348,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 095 — Incident Response and Disaster Recovery Acceptance Lab](part-11-incident-response-ha-disaster-recovery/095-incident-response-disaster-recovery-acceptance-lab.md) — [Lab](labs/095-incident-response-disaster-recovery-acceptance-lab-check.md) (published; Part 11 publication complete; live acceptance and review pending).
 
 - [Chapter 096 — Enterprise LLM Inference Reference Architecture](part-12-final-production-ai-sre-capstone/096-enterprise-llm-inference-reference-architecture.md) — [Lab](labs/096-enterprise-llm-inference-reference-architecture-check.md) (published; Part 12 started; live validation and review pending).
+
+- [Chapter 097 — Build a Secure Multi-Environment GPU Serving Platform](part-12-final-production-ai-sre-capstone/097-secure-multi-environment-gpu-serving-platform.md) — [Lab](labs/097-secure-multi-environment-gpu-serving-platform-check.md) (published; live deployment and security review pending).
