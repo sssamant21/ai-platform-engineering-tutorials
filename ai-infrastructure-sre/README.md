@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 6/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 7/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -27,4 +27,6 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 006 — AI Infrastructure Reliability, SLOs and Error Budgets](part-01-foundations-and-architecture/006-ai-infrastructure-reliability-slos-error-budgets.md) — [Lab](labs/006-ai-infrastructure-reliability-slos-error-budgets-check.md)
 
-**Next:** Chapter 007 — Infrastructure Security and Trust Boundaries.
+- [Chapter 007 — Infrastructure Security and Trust Boundaries](part-01-foundations-and-architecture/007-infrastructure-security-trust-boundaries.md) — [Lab](labs/007-infrastructure-security-trust-boundaries-check.md)
+
+**Next:** Chapter 008 — Foundations Architecture Review Lab.
