@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 80/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 81/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -316,3 +316,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 079 — Secrets, Workload Identity and Network Policies](part-10-ai-security-governance-finops/079-secrets-workload-identity-network-policies.md) — [Lab](labs/079-secrets-workload-identity-network-policies-check.md) (published; reviews and execution pending).
 
 - [Chapter 080 — Model Artifact Supply Chain, SBOM and Provenance](part-10-ai-security-governance-finops/080-model-artifact-supply-chain-sbom-provenance.md) — [Lab](labs/080-model-artifact-supply-chain-sbom-provenance-check.md) (published; reviews and execution pending).
+
+- [Chapter 081 — Privacy-Safe Telemetry and Data Retention](part-10-ai-security-governance-finops/081-privacy-safe-telemetry-data-retention.md) — [Lab](labs/081-privacy-safe-telemetry-data-retention-check.md) (published; reviews and execution pending).
