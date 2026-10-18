@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 89/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 90/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -123,7 +123,7 @@
 - [087 — Inference 429, 5xx, Timeout and SSE Incident Runbooks](part-11-incident-response-ha-disaster-recovery/087-inference-429-5xx-timeout-sse-incident-runbooks.md) — [Hands-on Lab](labs/087-inference-429-5xx-timeout-sse-incident-runbooks-check.md) (published)
 - [088 — GPU XID, ECC, Driver and CUDA Incident Response](part-11-incident-response-ha-disaster-recovery/088-gpu-xid-ecc-driver-cuda-incident-response.md) — [Hands-on Lab](labs/088-gpu-xid-ecc-driver-cuda-incident-response-check.md) (published)
 - [089 — Model Quality and Release Regression Incidents](part-11-incident-response-ha-disaster-recovery/089-model-quality-release-regression-incidents.md) — [Hands-on Lab](labs/089-model-quality-release-regression-incidents-check.md) (published)
-- 090 — TrueFoundry, Ray Serve and KServe Control Plane Failures (planned)
+- [090 — TrueFoundry, Ray Serve and KServe Control Plane Failures](part-11-incident-response-ha-disaster-recovery/090-truefoundry-ray-serve-kserve-control-plane-failures.md) — [Hands-on Lab](labs/090-truefoundry-ray-serve-kserve-control-plane-failures-check.md) (published)
 - 091 — High Availability, N-1 and Multi-Zone Recovery (planned)
 - 092 — Model Artifact, Registry and Configuration Recovery (planned)
 - 093 — Backup, DR, RTO/RPO and Region Failover (planned)
