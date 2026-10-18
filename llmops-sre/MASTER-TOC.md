@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 73/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 74/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -101,7 +101,7 @@
 - [071 — GPU Throughput and Cost per Successful Token](part-09-performance-engineering-capacity/071-gpu-throughput-cost-per-successful-token.md) — [Hands-on Lab](labs/071-gpu-throughput-cost-per-successful-token-check.md) (published)
 - [072 — Cold Start, Warm Pools and Model Loading](part-09-performance-engineering-capacity/072-cold-start-warm-pools-model-loading.md) — [Hands-on Lab](labs/072-cold-start-warm-pools-model-loading-check.md) (published)
 - [073 — Load, Stress, Soak and Failure Testing](part-09-performance-engineering-capacity/073-load-stress-soak-failure-testing.md) — [Hands-on Lab](labs/073-load-stress-soak-failure-testing-check.md) (published)
-- 074 — Capacity Forecasting, N-1 and Rollout Headroom (planned)
+- [074 — Capacity Forecasting, N-1 and Rollout Headroom](part-09-performance-engineering-capacity/074-capacity-forecasting-n-1-rollout-headroom.md) — [Hands-on Lab](labs/074-capacity-forecasting-n-1-rollout-headroom-check.md) (published)
 - 075 — Performance and Capacity Acceptance Lab (planned)
 
 ## Part 10 — AI Security, Governance and FinOps (Chapters 076–085)
