@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **7/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **8/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -11,7 +11,7 @@
 - [005 — Linux, Kubernetes and Cloud Dependency Mapping](part-01-foundations-and-architecture/005-linux-kubernetes-cloud-dependency-mapping.md) — [Lab](labs/005-linux-kubernetes-cloud-dependency-mapping-check.md) (published)
 - [006 — AI Infrastructure Reliability, SLOs and Error Budgets](part-01-foundations-and-architecture/006-ai-infrastructure-reliability-slos-error-budgets.md) — [Lab](labs/006-ai-infrastructure-reliability-slos-error-budgets-check.md) (published)
 - [007 — Infrastructure Security and Trust Boundaries](part-01-foundations-and-architecture/007-infrastructure-security-trust-boundaries.md) — [Lab](labs/007-infrastructure-security-trust-boundaries-check.md) (published)
-- 008 — Foundations Architecture Review Lab (planned)
+- [008 — Foundations Architecture Review Lab](part-01-foundations-and-architecture/008-foundations-architecture-review-lab.md) — [Lab](labs/008-foundations-architecture-review-check.md) (published)
 
 ## Part 02 — Linux, Servers and GPU Hardware (Chapters 009–016)
 
