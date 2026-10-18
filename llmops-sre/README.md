@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 74/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 75/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -304,3 +304,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 073 — Load, Stress, Soak and Failure Testing](part-09-performance-engineering-capacity/073-load-stress-soak-failure-testing.md) — [Lab](labs/073-load-stress-soak-failure-testing-check.md) (published; reviews and execution pending).
 
 - [Chapter 074 — Capacity Forecasting, N-1 and Rollout Headroom](part-09-performance-engineering-capacity/074-capacity-forecasting-n-1-rollout-headroom.md) — [Lab](labs/074-capacity-forecasting-n-1-rollout-headroom-check.md) (published; reviews and execution pending).
+
+- [Chapter 075 — Performance and Capacity Acceptance Lab](part-09-performance-engineering-capacity/075-performance-capacity-acceptance-lab.md) — [Lab](labs/075-performance-capacity-acceptance-lab-check.md) (published; reviews and execution pending). **Part 09 chapter publication complete (10/10).**
