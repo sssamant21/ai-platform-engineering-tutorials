@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 90/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 91/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -96,7 +96,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 088 | GPU XID, ECC, Driver and CUDA Incident Response | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 089 | Model Quality and Release Regression Incidents | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 090 | TrueFoundry, Ray Serve and KServe Control Plane Failures | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 091 | High Availability, N-1 and Multi-Zone Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 091 | High Availability, N-1 and Multi-Zone Recovery | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 092 | Model Artifact, Registry and Configuration Recovery | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 093 | Backup, DR, RTO/RPO and Region Failover | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 094 | Chaos Engineering and Recovery Game Days | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
