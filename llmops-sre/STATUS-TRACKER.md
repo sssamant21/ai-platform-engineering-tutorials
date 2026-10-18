@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 73/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 74/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -79,7 +79,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 071 | GPU Throughput and Cost per Successful Token | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 072 | Cold Start, Warm Pools and Model Loading | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 073 | Load, Stress, Soak and Failure Testing | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 074 | Capacity Forecasting, N-1 and Rollout Headroom | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 074 | Capacity Forecasting, N-1 and Rollout Headroom | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 075 | Performance and Capacity Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 076 | LLM Threat Modeling and Trust Boundaries | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 077 | Inference Authentication, Authorization and Tenant Isolation | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
