@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 81/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 82/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -112,7 +112,7 @@
 - [079 — Secrets, Workload Identity and Network Policies](part-10-ai-security-governance-finops/079-secrets-workload-identity-network-policies.md) — [Hands-on Lab](labs/079-secrets-workload-identity-network-policies-check.md) (published)
 - [080 — Model Artifact Supply Chain, SBOM and Provenance](part-10-ai-security-governance-finops/080-model-artifact-supply-chain-sbom-provenance.md) — [Hands-on Lab](labs/080-model-artifact-supply-chain-sbom-provenance-check.md) (published)
 - [081 — Privacy-Safe Telemetry and Data Retention](part-10-ai-security-governance-finops/081-privacy-safe-telemetry-data-retention.md) — [Hands-on Lab](labs/081-privacy-safe-telemetry-data-retention-check.md) (published)
-- 082 — AI Gateway Rate Limits and Denial-of-Wallet Protection (planned)
+- [082 — AI Gateway Rate Limits and Denial-of-Wallet Protection](part-10-ai-security-governance-finops/082-ai-gateway-rate-limits-denial-of-wallet-protection.md) — [Hands-on Lab](labs/082-ai-gateway-rate-limits-denial-of-wallet-protection-check.md) (published)
 - 083 — GPU FinOps, Budget Alerts and Rightsizing (planned)
 - 084 — Policy-as-Code, Change Management and Audit (planned)
 - 085 — Security, Governance and FinOps Acceptance Lab (planned)
