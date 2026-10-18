@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **8/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **9/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -15,7 +15,7 @@
 
 ## Part 02 — Linux, Servers and GPU Hardware (Chapters 009–016)
 
-- 009 — GPU Server Hardware, PCIe and NUMA (planned)
+- [009 — GPU Server Hardware, PCIe and NUMA](part-02-linux-servers-and-gpu-hardware/009-gpu-server-hardware-pcie-numa.md) — [Lab](labs/009-gpu-server-hardware-pcie-numa-check.md) (published)
 - 010 — Linux GPU Host Provisioning and Baselines (planned)
 - 011 — NVIDIA Driver Lifecycle and Compatibility (planned)
 - 012 — GPU Discovery with nvidia-smi and NVML (planned)
