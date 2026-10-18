@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 12/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 13/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -41,4 +41,6 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 012 — GPU Discovery with nvidia-smi and NVML](part-02-linux-servers-and-gpu-hardware/012-gpu-discovery-nvidia-smi-nvml.md) — [Lab](labs/012-gpu-discovery-nvidia-smi-nvml-check.md)
 
-**Next:** Chapter 013 — GPU Hardware Health, ECC and Xid Errors.
+- [Chapter 013 — GPU Hardware Health, ECC and Xid Errors](part-02-linux-servers-and-gpu-hardware/013-gpu-hardware-health-ecc-xid-errors.md) — [Lab](labs/013-gpu-hardware-health-ecc-xid-check.md)
+
+**Next:** Chapter 014 — GPU Firmware, BIOS and Host Maintenance.
