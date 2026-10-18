@@ -2,7 +2,7 @@
 
 **Repository:** [AI Platform Engineering Tutorials](https://github.com/sssamant21/ai-platform-engineering-tutorials)  
 **Track:** `llmops-sre/`  
-**Scope:** 100 planned chapters, 12 parts. **Current status:** 94/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
+**Scope:** 100 planned chapters, 12 parts. **Current status:** 95/100 chapters and companion labs published; Part 01 written curriculum complete (5/5); technical review and live execution pending.
 
 ## Mission
 
@@ -344,3 +344,5 @@ Each chapter should contain learning objectives, architecture and production tra
 - [Chapter 093 — Backup, DR, RTO/RPO and Region Failover](part-11-incident-response-ha-disaster-recovery/093-backup-dr-rto-rpo-region-failover.md) — [Lab](labs/093-backup-dr-rto-rpo-region-failover-check.md) (published; staging execution and review pending).
 
 - [Chapter 094 — Chaos Engineering and Recovery Game Days](part-11-incident-response-ha-disaster-recovery/094-chaos-engineering-recovery-game-days.md) — [Lab](labs/094-chaos-engineering-recovery-game-days-check.md) (published; staging execution and review pending).
+
+- [Chapter 095 — Incident Response and Disaster Recovery Acceptance Lab](part-11-incident-response-ha-disaster-recovery/095-incident-response-disaster-recovery-acceptance-lab.md) — [Lab](labs/095-incident-response-disaster-recovery-acceptance-lab-check.md) (published; Part 11 publication complete; live acceptance and review pending).
