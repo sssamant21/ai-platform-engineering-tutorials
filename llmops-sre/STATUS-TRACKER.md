@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 86/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 87/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -92,7 +92,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 084 | Policy-as-Code, Change Management and Audit | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 085 | Security, Governance and FinOps Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 086 | LLM Incident Command, SEV and Escalation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 087 | Inference 429, 5xx, Timeout and SSE Incident Runbooks | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 087 | Inference 429, 5xx, Timeout and SSE Incident Runbooks | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 088 | GPU XID, ECC, Driver and CUDA Incident Response | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 089 | Model Quality and Release Regression Incidents | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 090 | TrueFoundry, Ray Serve and KServe Control Plane Failures | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
