@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 93/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 94/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -127,7 +127,7 @@
 - [091 — High Availability, N-1 and Multi-Zone Recovery](part-11-incident-response-ha-disaster-recovery/091-high-availability-n-1-multi-zone-recovery.md) — [Hands-on Lab](labs/091-high-availability-n-1-multi-zone-recovery-check.md) (published)
 - [092 — Model Artifact, Registry and Configuration Recovery](part-11-incident-response-ha-disaster-recovery/092-model-artifact-registry-configuration-recovery.md) — [Hands-on Lab](labs/092-model-artifact-registry-configuration-recovery-check.md) (published)
 - [093 — Backup, DR, RTO/RPO and Region Failover](part-11-incident-response-ha-disaster-recovery/093-backup-dr-rto-rpo-region-failover.md) — [Hands-on Lab](labs/093-backup-dr-rto-rpo-region-failover-check.md) (published)
-- 094 — Chaos Engineering and Recovery Game Days (planned)
+- [094 — Chaos Engineering and Recovery Game Days](part-11-incident-response-ha-disaster-recovery/094-chaos-engineering-recovery-game-days.md) — [Hands-on Lab](labs/094-chaos-engineering-recovery-game-days-check.md) (published)
 - 095 — Incident Response and Disaster Recovery Acceptance Lab (planned)
 
 ## Part 12 — Final Production AI SRE Capstone (Chapters 096–100)
