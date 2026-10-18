@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 76/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 77/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -107,7 +107,7 @@
 ## Part 10 — AI Security, Governance and FinOps (Chapters 076–085)
 
 - [076 — LLM Threat Modeling and Trust Boundaries](part-10-ai-security-governance-finops/076-llm-threat-modeling-trust-boundaries.md) — [Hands-on Lab](labs/076-llm-threat-modeling-trust-boundaries-check.md) (published)
-- 077 — Inference Authentication, Authorization and Tenant Isolation (planned)
+- [077 — Inference Authentication, Authorization and Tenant Isolation](part-10-ai-security-governance-finops/077-inference-authentication-authorization-tenant-isolation.md) — [Hands-on Lab](labs/077-inference-authentication-authorization-tenant-isolation-check.md) (published)
 - 078 — Prompt Injection, Data Leakage and Model Abuse (planned)
 - 079 — Secrets, Workload Identity and Network Policies (planned)
 - 080 — Model Artifact Supply Chain, SBOM and Provenance (planned)
