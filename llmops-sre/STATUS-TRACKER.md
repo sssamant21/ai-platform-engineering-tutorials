@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 92/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 93/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -98,7 +98,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 090 | TrueFoundry, Ray Serve and KServe Control Plane Failures | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 091 | High Availability, N-1 and Multi-Zone Recovery | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 092 | Model Artifact, Registry and Configuration Recovery | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 093 | Backup, DR, RTO/RPO and Region Failover | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 093 | Backup, DR, RTO/RPO and Region Failover | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 094 | Chaos Engineering and Recovery Game Days | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 095 | Incident Response and Disaster Recovery Acceptance Lab | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 096 | Enterprise LLM Inference Reference Architecture | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
