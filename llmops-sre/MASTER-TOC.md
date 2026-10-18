@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Master Table of Contents
 
-**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 84/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
+**Curriculum:** 100 planned chapters across 12 parts. **Publication:** 85/100 chapters; **Lab execution:** 0; **Technical/security review:** pending. This is a proposed learning plan, not a claim of completed tutorials.
 
 ## Part 01 — AI/LLM SRE Fundamentals (Chapters 001–005)
 
@@ -115,7 +115,7 @@
 - [082 — AI Gateway Rate Limits and Denial-of-Wallet Protection](part-10-ai-security-governance-finops/082-ai-gateway-rate-limits-denial-of-wallet-protection.md) — [Hands-on Lab](labs/082-ai-gateway-rate-limits-denial-of-wallet-protection-check.md) (published)
 - [083 — GPU FinOps, Budget Alerts and Rightsizing](part-10-ai-security-governance-finops/083-gpu-finops-budget-alerts-rightsizing.md) — [Hands-on Lab](labs/083-gpu-finops-budget-alerts-rightsizing-check.md) (published)
 - [084 — Policy-as-Code, Change Management and Audit](part-10-ai-security-governance-finops/084-policy-as-code-change-management-audit.md) — [Hands-on Lab](labs/084-policy-as-code-change-management-audit-check.md) (published)
-- 085 — Security, Governance and FinOps Acceptance Lab (planned)
+- [085 — Security, Governance and FinOps Acceptance Lab](part-10-ai-security-governance-finops/085-security-governance-finops-acceptance-lab.md) — [Hands-on Lab](labs/085-security-governance-finops-acceptance-lab-check.md) (published)
 
 ## Part 11 — Incident Response, HA and Disaster Recovery (Chapters 086–095)
 
