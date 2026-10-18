@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**6/100 published (6%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**7/100 published (7%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -10,7 +10,7 @@
 | 004 | AI Infrastructure Service Ownership and Support Tiers | Published | Pending | Pending | Pending |
 | 005 | Linux, Kubernetes and Cloud Dependency Mapping | Published | Pending | Pending | Pending |
 | 006 | AI Infrastructure Reliability, SLOs and Error Budgets | Published | Pending | Pending | Pending |
-| 007 | Infrastructure Security and Trust Boundaries | Planned | Pending | Pending | Pending |
+| 007 | Infrastructure Security and Trust Boundaries | Published | Pending | Pending | Pending |
 | 008 | Foundations Architecture Review Lab | Planned | Pending | Pending | Pending |
 | 009 | GPU Server Hardware, PCIe and NUMA | Planned | Pending | Pending | Pending |
 | 010 | Linux GPU Host Provisioning and Baselines | Planned | Pending | Pending | Pending |
