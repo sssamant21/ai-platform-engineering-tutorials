@@ -1,6 +1,6 @@
 # LLMOps & AI Inference SRE — Status Tracker
 
-**Status:** Chapter publication in progress. **Published:** 77/100. **Live labs executed:** 0. **Reviews:** pending.
+**Status:** Chapter publication in progress. **Published:** 78/100. **Live labs executed:** 0. **Reviews:** pending.
 
 Status definitions: Planned → Drafted → Technical reviewed → Security reviewed → Lab published → GitHub verified → Lab executed → Accepted. Publication and lab execution are separate.
 
@@ -83,7 +83,7 @@ Status definitions: Planned → Drafted → Technical reviewed → Security revi
 | 075 | Performance and Capacity Acceptance Lab | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 076 | LLM Threat Modeling and Trust Boundaries | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 077 | Inference Authentication, Authorization and Tenant Isolation | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
-| 078 | Prompt Injection, Data Leakage and Model Abuse | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
+| 078 | Prompt Injection, Data Leakage and Model Abuse | ✅ | ⬜ Pending | ✅ Published | ✅ Published | ⬜ Pending |
 | 079 | Secrets, Workload Identity and Network Policies | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 080 | Model Artifact Supply Chain, SBOM and Provenance | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
 | 081 | Privacy-Safe Telemetry and Data Retention | ⬜ | ⬜ | ⬜ | ⬜ | ⬜ |
