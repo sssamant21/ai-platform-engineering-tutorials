@@ -97,7 +97,7 @@ def example():
     return Upgrade(
         "synthetic-gpu-staging", "v-old", "v-reviewed",
         "operator", "operator", "operator", False,
-        *([True] * 19),
+        *([True] * 18),
         10.0, 120.0
     )
 
