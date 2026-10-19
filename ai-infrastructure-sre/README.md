@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 49/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 50/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -183,4 +183,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 06 — High Performance Networking: 7/8 chapters published.**
 
-**Next:** Chapter 050 — AI Networking Reliability Capstone.
+- [Chapter 050 — AI Networking Reliability Capstone](part-06-high-performance-networking/050-ai-networking-reliability-capstone.md) — [Lab](labs/050-ai-networking-reliability-capstone-check.md)
+
+**Part 06 — High Performance Networking: 8/8 chapters published — complete.**
+
+**Next:** Chapter 051 — AI Data Storage Architecture, beginning Part 07 — AI Storage and Data Pipelines.
