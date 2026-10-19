@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**19/100 published (19%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**20/100 published (20%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | 017 | CUDA Runtime and Driver Compatibility | Published | Pending | Pending | Pending |
 | 018 | GPU Memory Architecture and OOM | Published | Pending | Pending | Pending |
 | 019 | CUDA Processes, Streams and Contexts | Published | Pending | Pending | Pending |
-| 020 | MIG Partitioning and Isolation | Planned | Pending | Pending | Pending |
+| 020 | MIG Partitioning and Isolation | Published | Pending | Pending | Pending |
 | 021 | NVLink and NVSwitch Topologies | Planned | Pending | Pending | Pending |
 | 022 | NCCL Fundamentals and Collective Operations | Planned | Pending | Pending | Pending |
 | 023 | NCCL Diagnostics and Hang Recovery | Planned | Pending | Pending | Pending |
