@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **15/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **16/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -22,7 +22,7 @@
 - [013 — GPU Hardware Health, ECC and Xid Errors](part-02-linux-servers-and-gpu-hardware/013-gpu-hardware-health-ecc-xid-errors.md) — [Lab](labs/013-gpu-hardware-health-ecc-xid-check.md) (published)
 - [014 — GPU Firmware, BIOS and Host Maintenance](part-02-linux-servers-and-gpu-hardware/014-gpu-firmware-bios-host-maintenance.md) — [Lab](labs/014-gpu-firmware-bios-host-maintenance-check.md) (published)
 - [015 — GPU Node Replacement and Recovery](part-02-linux-servers-and-gpu-hardware/015-gpu-node-replacement-recovery.md) — [Lab](labs/015-gpu-node-replacement-recovery-check.md) (published)
-- 016 — GPU Hardware Operations Capstone (planned)
+- [016 — GPU Hardware Operations Capstone](part-02-linux-servers-and-gpu-hardware/016-gpu-hardware-operations-capstone.md) — [Lab](labs/016-gpu-hardware-operations-capstone-check.md) (published)
 
 ## Part 03 — CUDA, GPU Memory and Communication (Chapters 017–025)
 
