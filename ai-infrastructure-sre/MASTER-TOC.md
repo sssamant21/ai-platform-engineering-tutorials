@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **50/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **51/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -72,7 +72,7 @@
 
 ## Part 07 — AI Storage and Data Pipelines (Chapters 051–058)
 
-- 051 — AI Data Storage Architecture (planned)
+- [051 — AI Data Storage Architecture](part-07-ai-storage-data-pipelines/051-ai-data-storage-architecture.md) — [Lab](labs/051-ai-data-storage-architecture-check.md) (published)
 - 052 — Object Storage and Dataset Layout (planned)
 - 053 — FSx for Lustre and Parallel Filesystems (planned)
 - 054 — High Throughput Dataset Loading (planned)
