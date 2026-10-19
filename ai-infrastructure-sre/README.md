@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 46/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 47/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -171,4 +171,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 06 — High Performance Networking: 4/8 chapters published.**
 
-**Next:** Chapter 047 — GPU Direct RDMA and Communication.
+- [Chapter 047 — GPU Direct RDMA and Communication](part-06-high-performance-networking/047-gpu-direct-rdma-communication.md) — [Lab](labs/047-gpu-direct-rdma-communication-check.md)
+
+**Part 06 — High Performance Networking: 5/8 chapters published.**
+
+**Next:** Chapter 048 — Network Congestion and Packet Loss.
