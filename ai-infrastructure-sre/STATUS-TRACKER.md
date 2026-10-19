@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**43/100 published (43%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**44/100 published (44%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | 041 | Multi-Cloud GPU Capacity and Cost | Published | Pending | Pending | Pending |
 | 042 | AWS and Azure GPU Operations Capstone | Published | Pending | Pending | Pending |
 | 043 | AI Cluster Network Architecture | Published | Pending | Pending | Pending |
-| 044 | RDMA and InfiniBand Fundamentals | Planned | Pending | Pending | Pending |
+| 044 | RDMA and InfiniBand Fundamentals | Published | Pending | Pending | Pending |
 | 045 | AWS EFA for Distributed AI | Planned | Pending | Pending | Pending |
 | 046 | RoCE and Ethernet Fabrics | Planned | Pending | Pending | Pending |
 | 047 | GPU Direct RDMA and Communication | Planned | Pending | Pending | Pending |
