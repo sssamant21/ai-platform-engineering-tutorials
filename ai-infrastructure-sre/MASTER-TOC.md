@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **34/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **35/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -50,7 +50,7 @@
 
 ## Part 05 — Cloud GPU Infrastructure (Chapters 035–042)
 
-- 035 — AWS GPU EC2 Architecture and Quotas (planned)
+- [035 — AWS GPU EC2 Architecture and Quotas](part-05-cloud-gpu-infrastructure/035-aws-gpu-ec2-architecture-quotas.md) — [Lab](labs/035-aws-gpu-ec2-architecture-quotas-check.md) (published)
 - 036 — EKS GPU Managed Node Groups (planned)
 - 037 — AWS EFA and GPU Networking (planned)
 - 038 — Azure GPU VM Architecture and Quotas (planned)
