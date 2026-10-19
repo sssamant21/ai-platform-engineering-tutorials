@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 31/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 32/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -111,4 +111,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 04:** 6/9 chapters published.
 
-**Next:** Chapter 032 — GPU Workload Rollouts and Disruptions.
+- [Chapter 032 — GPU Workload Rollouts and Disruptions](part-04-kubernetes-gpu-administration/032-gpu-workload-rollouts-disruptions.md) — [Lab](labs/032-gpu-workload-rollouts-disruptions-check.md)
+
+**Part 04:** 7/9 chapters published.
+
+**Next:** Chapter 033 — GPU Operator and Device Plugin Troubleshooting.
