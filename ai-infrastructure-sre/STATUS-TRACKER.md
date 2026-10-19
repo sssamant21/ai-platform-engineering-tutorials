@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**40/100 published (40%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**41/100 published (41%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | 038 | Azure GPU VM Architecture and Quotas | Published | Pending | Pending | Pending |
 | 039 | AKS GPU Node Pools and Drivers | Published | Pending | Pending | Pending |
 | 040 | Cloud GPU Identity, Storage and Security | Published | Pending | Pending | Pending |
-| 041 | Multi-Cloud GPU Capacity and Cost | Planned | Pending | Pending | Pending |
+| 041 | Multi-Cloud GPU Capacity and Cost | Published | Pending | Pending | Pending |
 | 042 | AWS and Azure GPU Operations Capstone | Planned | Pending | Pending | Pending |
 | 043 | AI Cluster Network Architecture | Planned | Pending | Pending | Pending |
 | 044 | RDMA and InfiniBand Fundamentals | Planned | Pending | Pending | Pending |
