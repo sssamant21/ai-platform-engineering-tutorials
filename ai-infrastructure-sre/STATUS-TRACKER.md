@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**14/100 published (14%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**15/100 published (15%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | 012 | GPU Discovery with nvidia-smi and NVML | Published | Pending | Pending | Pending |
 | 013 | GPU Hardware Health, ECC and Xid Errors | Published | Pending | Pending | Pending |
 | 014 | GPU Firmware, BIOS and Host Maintenance | Published | Pending | Pending | Pending |
-| 015 | GPU Node Replacement and Recovery | Planned | Pending | Pending | Pending |
+| 015 | GPU Node Replacement and Recovery | Published | Pending | Pending | Pending |
 | 016 | GPU Hardware Operations Capstone | Planned | Pending | Pending | Pending |
 | 017 | CUDA Runtime and Driver Compatibility | Planned | Pending | Pending | Pending |
 | 018 | GPU Memory Architecture and OOM | Planned | Pending | Pending | Pending |
