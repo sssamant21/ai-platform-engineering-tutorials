@@ -97,7 +97,7 @@ def example():
         "sha256:synthetic-verified-image",
         100.0, 95.0, 5.0, 1000.0, 1050.0, 0.95,
         2.0, 5.0, 10.0, 120.0, 5, 3,
-        *([True] * 8)
+        *([True] * 9)
     )
 
 if __name__ == "__main__":
