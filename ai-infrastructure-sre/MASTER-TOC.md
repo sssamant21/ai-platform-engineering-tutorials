@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **13/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **14/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -20,7 +20,7 @@
 - [011 — NVIDIA Driver Lifecycle and Compatibility](part-02-linux-servers-and-gpu-hardware/011-nvidia-driver-lifecycle-compatibility.md) — [Lab](labs/011-nvidia-driver-lifecycle-compatibility-check.md) (published)
 - [012 — GPU Discovery with nvidia-smi and NVML](part-02-linux-servers-and-gpu-hardware/012-gpu-discovery-nvidia-smi-nvml.md) — [Lab](labs/012-gpu-discovery-nvidia-smi-nvml-check.md) (published)
 - [013 — GPU Hardware Health, ECC and Xid Errors](part-02-linux-servers-and-gpu-hardware/013-gpu-hardware-health-ecc-xid-errors.md) — [Lab](labs/013-gpu-hardware-health-ecc-xid-check.md) (published)
-- 014 — GPU Firmware, BIOS and Host Maintenance (planned)
+- [014 — GPU Firmware, BIOS and Host Maintenance](part-02-linux-servers-and-gpu-hardware/014-gpu-firmware-bios-host-maintenance.md) — [Lab](labs/014-gpu-firmware-bios-host-maintenance-check.md) (published)
 - 015 — GPU Node Replacement and Recovery (planned)
 - 016 — GPU Hardware Operations Capstone (planned)
 
