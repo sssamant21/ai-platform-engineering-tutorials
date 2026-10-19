@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**30/100 published (30%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**31/100 published (31%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | 028 | GPU Scheduling, Taints and Affinity | Published | Pending | Pending | Pending |
 | 029 | GPU Resource Quotas and Multitenancy | Published | Pending | Pending | Pending |
 | 030 | GPU Pod Security and Runtime Integration | Published | Pending | Pending | Pending |
-| 031 | GPU Node Autoscaling and Karpenter | Planned | Pending | Pending | Pending |
+| 031 | GPU Node Autoscaling and Karpenter | Published | Pending | Pending | Pending |
 | 032 | GPU Workload Rollouts and Disruptions | Planned | Pending | Pending | Pending |
 | 033 | GPU Operator and Device Plugin Troubleshooting | Planned | Pending | Pending | Pending |
 | 034 | Kubernetes GPU Platform Capstone | Planned | Pending | Pending | Pending |
