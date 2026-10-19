@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **48/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **49/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -67,7 +67,7 @@
 - [046 — RoCE and Ethernet Fabrics](part-06-high-performance-networking/046-roce-ethernet-fabrics.md) — [Lab](labs/046-roce-ethernet-fabrics-check.md) (published)
 - [047 — GPU Direct RDMA and Communication](part-06-high-performance-networking/047-gpu-direct-rdma-communication.md) — [Lab](labs/047-gpu-direct-rdma-communication-check.md) (published)
 - [048 — Network Congestion and Packet Loss](part-06-high-performance-networking/048-network-congestion-packet-loss.md) — [Lab](labs/048-network-congestion-packet-loss-check.md) (published)
-- 049 — NCCL Network Performance Troubleshooting (planned)
+- [049 — NCCL Network Performance Troubleshooting](part-06-high-performance-networking/049-nccl-network-performance-troubleshooting.md) — [Lab](labs/049-nccl-network-performance-troubleshooting-check.md) (published)
 - 050 — AI Networking Reliability Capstone (planned)
 
 ## Part 07 — AI Storage and Data Pipelines (Chapters 051–058)
