@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**23/100 published (23%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**24/100 published (24%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | 021 | NVLink and NVSwitch Topologies | Published | Pending | Pending | Pending |
 | 022 | NCCL Fundamentals and Collective Operations | Published | Pending | Pending | Pending |
 | 023 | NCCL Diagnostics and Hang Recovery | Published | Pending | Pending | Pending |
-| 024 | GPU Profiling and Bottleneck Analysis | Planned | Pending | Pending | Pending |
+| 024 | GPU Profiling and Bottleneck Analysis | Published | Pending | Pending | Pending |
 | 025 | CUDA and NCCL Troubleshooting Capstone | Planned | Pending | Pending | Pending |
 | 026 | GPU Device Plugin and Resource Discovery | Planned | Pending | Pending | Pending |
 | 027 | GPU Operator Architecture and Lifecycle | Planned | Pending | Pending | Pending |
