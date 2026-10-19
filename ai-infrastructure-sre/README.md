@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 14/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 15/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -45,4 +45,6 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 014 — GPU Firmware, BIOS and Host Maintenance](part-02-linux-servers-and-gpu-hardware/014-gpu-firmware-bios-host-maintenance.md) — [Lab](labs/014-gpu-firmware-bios-host-maintenance-check.md)
 
-**Next:** Chapter 015 — GPU Node Replacement and Recovery.
+- [Chapter 015 — GPU Node Replacement and Recovery](part-02-linux-servers-and-gpu-hardware/015-gpu-node-replacement-recovery.md) — [Lab](labs/015-gpu-node-replacement-recovery-check.md)
+
+**Next:** Chapter 016 — GPU Hardware Operations Capstone.
