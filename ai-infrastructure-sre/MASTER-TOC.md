@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **42/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **43/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -61,7 +61,7 @@
 
 ## Part 06 — High Performance Networking (Chapters 043–050)
 
-- 043 — AI Cluster Network Architecture (planned)
+- [043 — AI Cluster Network Architecture](part-06-high-performance-networking/043-ai-cluster-network-architecture.md) — [Lab](labs/043-ai-cluster-network-architecture-check.md) (published)
 - 044 — RDMA and InfiniBand Fundamentals (planned)
 - 045 — AWS EFA for Distributed AI (planned)
 - 046 — RoCE and Ethernet Fabrics (planned)
