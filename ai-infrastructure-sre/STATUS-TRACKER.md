@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**26/100 published (26%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**27/100 published (27%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | 024 | GPU Profiling and Bottleneck Analysis | Published | Pending | Pending | Pending |
 | 025 | CUDA and NCCL Troubleshooting Capstone | Published | Pending | Pending | Pending |
 | 026 | GPU Device Plugin and Resource Discovery | Published | Pending | Pending | Pending |
-| 027 | GPU Operator Architecture and Lifecycle | Planned | Pending | Pending | Pending |
+| 027 | GPU Operator Architecture and Lifecycle | Published | Pending | Pending | Pending |
 | 028 | GPU Scheduling, Taints and Affinity | Planned | Pending | Pending | Pending |
 | 029 | GPU Resource Quotas and Multitenancy | Planned | Pending | Pending | Pending |
 | 030 | GPU Pod Security and Runtime Integration | Planned | Pending | Pending | Pending |
