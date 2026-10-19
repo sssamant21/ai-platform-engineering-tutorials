@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 27/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 28/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -95,4 +95,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 04:** 2/9 chapters published.
 
-**Next:** Chapter 028 — GPU Scheduling, Taints and Affinity.
+- [Chapter 028 — GPU Scheduling, Taints and Affinity](part-04-kubernetes-gpu-administration/028-gpu-scheduling-taints-affinity.md) — [Lab](labs/028-gpu-scheduling-taints-affinity-check.md)
+
+**Part 04:** 3/9 chapters published.
+
+**Next:** Chapter 029 — GPU Resource Quotas and Multitenancy.
