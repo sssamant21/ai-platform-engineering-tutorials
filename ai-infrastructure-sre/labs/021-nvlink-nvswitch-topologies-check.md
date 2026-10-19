@@ -101,7 +101,7 @@ def example():
         "synthetic-node-01", "synthetic-nvswitch-sku",
         (a, b), (a, b), edge, edge, edge,
         True, True, True, True, True, 10.0, 120.0,
-        *([True] * 9)
+        *([True] * 8)
     )
 
 if __name__ == "__main__":
