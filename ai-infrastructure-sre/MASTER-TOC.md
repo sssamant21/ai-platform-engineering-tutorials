@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **16/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **17/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -26,7 +26,7 @@
 
 ## Part 03 — CUDA, GPU Memory and Communication (Chapters 017–025)
 
-- 017 — CUDA Runtime and Driver Compatibility (planned)
+- [017 — CUDA Runtime and Driver Compatibility](part-03-cuda-gpu-memory-and-communication/017-cuda-runtime-driver-compatibility.md) — [Lab](labs/017-cuda-runtime-driver-compatibility-check.md) (published)
 - 018 — GPU Memory Architecture and OOM (planned)
 - 019 — CUDA Processes, Streams and Contexts (planned)
 - 020 — MIG Partitioning and Isolation (planned)
