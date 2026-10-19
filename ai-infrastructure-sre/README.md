@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 40/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 41/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -147,4 +147,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 05:** 6/8 chapters published.
 
-**Next:** Chapter 041 — Multi-Cloud GPU Capacity and Cost.
+- [Chapter 041 — Multi-Cloud GPU Capacity and Cost](part-05-cloud-gpu-infrastructure/041-multi-cloud-gpu-capacity-cost.md) — [Lab](labs/041-multi-cloud-gpu-capacity-cost-check.md)
+
+**Part 05:** 7/8 chapters published.
+
+**Next:** Chapter 042 — AWS and Azure GPU Operations Capstone.
