@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 35/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 36/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -127,4 +127,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 05:** 1/8 chapters published.
 
-**Next:** Chapter 036 — EKS GPU Managed Node Groups.
+- [Chapter 036 — EKS GPU Managed Node Groups](part-05-cloud-gpu-infrastructure/036-eks-gpu-managed-node-groups.md) — [Lab](labs/036-eks-gpu-managed-node-groups-check.md)
+
+**Part 05:** 2/8 chapters published.
+
+**Next:** Chapter 037 — AWS EFA and GPU Networking.
