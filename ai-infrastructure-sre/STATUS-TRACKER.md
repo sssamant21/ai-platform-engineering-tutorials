@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**36/100 published (36%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**37/100 published (37%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | 034 | Kubernetes GPU Platform Capstone | Published | Pending | Pending | Pending |
 | 035 | AWS GPU EC2 Architecture and Quotas | Published | Pending | Pending | Pending |
 | 036 | EKS GPU Managed Node Groups | Published | Pending | Pending | Pending |
-| 037 | AWS EFA and GPU Networking | Planned | Pending | Pending | Pending |
+| 037 | AWS EFA and GPU Networking | Published | Pending | Pending | Pending |
 | 038 | Azure GPU VM Architecture and Quotas | Planned | Pending | Pending | Pending |
 | 039 | AKS GPU Node Pools and Drivers | Planned | Pending | Pending | Pending |
 | 040 | Cloud GPU Identity, Storage and Security | Planned | Pending | Pending | Pending |
