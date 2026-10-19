@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 52/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 53/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -195,4 +195,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 07 — AI Storage and Data Pipelines: 2/8 chapters published.**
 
-**Next:** Chapter 053 — FSx for Lustre and Parallel Filesystems.
+- [Chapter 053 — FSx for Lustre and Parallel Filesystems](part-07-ai-storage-data-pipelines/053-fsx-lustre-parallel-filesystems.md) — [Lab](labs/053-fsx-lustre-parallel-filesystems-check.md)
+
+**Part 07 — AI Storage and Data Pipelines: 3/8 chapters published.**
+
+**Next:** Chapter 054 — High Throughput Dataset Loading.
