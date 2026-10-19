@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 43/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 44/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -159,4 +159,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 06 — High Performance Networking: 1/8 chapters published.**
 
-**Next:** Chapter 044 — RDMA and InfiniBand Fundamentals.
+- [Chapter 044 — RDMA and InfiniBand Fundamentals](part-06-high-performance-networking/044-rdma-infiniband-fundamentals.md) — [Lab](labs/044-rdma-infiniband-fundamentals-check.md)
+
+**Part 06 — High Performance Networking: 2/8 chapters published.**
+
+**Next:** Chapter 045 — AWS EFA for Distributed AI.
