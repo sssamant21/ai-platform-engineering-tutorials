@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **41/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **42/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -57,7 +57,7 @@
 - [039 — AKS GPU Node Pools and Drivers](part-05-cloud-gpu-infrastructure/039-aks-gpu-node-pools-drivers.md) — [Lab](labs/039-aks-gpu-node-pools-drivers-check.md) (published)
 - [040 — Cloud GPU Identity, Storage and Security](part-05-cloud-gpu-infrastructure/040-cloud-gpu-identity-storage-security.md) — [Lab](labs/040-cloud-gpu-identity-storage-security-check.md) (published)
 - [041 — Multi-Cloud GPU Capacity and Cost](part-05-cloud-gpu-infrastructure/041-multi-cloud-gpu-capacity-cost.md) — [Lab](labs/041-multi-cloud-gpu-capacity-cost-check.md) (published)
-- 042 — AWS and Azure GPU Operations Capstone (planned)
+- [042 — AWS and Azure GPU Operations Capstone](part-05-cloud-gpu-infrastructure/042-aws-azure-gpu-operations-capstone.md) — [Lab](labs/042-aws-azure-gpu-operations-capstone-check.md) (published)
 
 ## Part 06 — High Performance Networking (Chapters 043–050)
 
