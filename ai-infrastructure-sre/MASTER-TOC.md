@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **20/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **21/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -30,7 +30,7 @@
 - [018 — GPU Memory Architecture and OOM](part-03-cuda-gpu-memory-and-communication/018-gpu-memory-architecture-oom.md) — [Lab](labs/018-gpu-memory-architecture-oom-check.md) (published)
 - [019 — CUDA Processes, Streams and Contexts](part-03-cuda-gpu-memory-and-communication/019-cuda-processes-streams-contexts.md) — [Lab](labs/019-cuda-processes-streams-contexts-check.md) (published)
 - [020 — MIG Partitioning and Isolation](part-03-cuda-gpu-memory-and-communication/020-mig-partitioning-isolation.md) — [Lab](labs/020-mig-partitioning-isolation-check.md) (published)
-- 021 — NVLink and NVSwitch Topologies (planned)
+- [021 — NVLink and NVSwitch Topologies](part-03-cuda-gpu-memory-and-communication/021-nvlink-nvswitch-topologies.md) — [Lab](labs/021-nvlink-nvswitch-topologies-check.md) (published)
 - 022 — NCCL Fundamentals and Collective Operations (planned)
 - 023 — NCCL Diagnostics and Hang Recovery (planned)
 - 024 — GPU Profiling and Bottleneck Analysis (planned)
