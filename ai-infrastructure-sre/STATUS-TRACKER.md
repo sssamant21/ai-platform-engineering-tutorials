@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**53/100 published (53%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**54/100 published (54%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | 051 | AI Data Storage Architecture | Published | Pending | Pending | Pending |
 | 052 | Object Storage and Dataset Layout | Published | Pending | Pending | Pending |
 | 053 | FSx for Lustre and Parallel Filesystems | Published | Pending | Pending | Pending |
-| 054 | High Throughput Dataset Loading | Planned | Pending | Pending | Pending |
+| 054 | High Throughput Dataset Loading | Published | Pending | Pending | Pending |
 | 055 | Checkpoint Design and Retention | Planned | Pending | Pending | Pending |
 | 056 | Checkpoint Recovery and Consistency | Planned | Pending | Pending | Pending |
 | 057 | Storage IOPS, Throughput and Cost | Planned | Pending | Pending | Pending |
