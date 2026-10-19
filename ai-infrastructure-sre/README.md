@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 26/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 27/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -91,4 +91,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 04:** 1/9 chapters published.
 
-**Next:** Chapter 027 — GPU Operator Architecture and Lifecycle.
+- [Chapter 027 — GPU Operator Architecture and Lifecycle](part-04-kubernetes-gpu-administration/027-gpu-operator-architecture-lifecycle.md) — [Lab](labs/027-gpu-operator-lifecycle-check.md)
+
+**Part 04:** 2/9 chapters published.
+
+**Next:** Chapter 028 — GPU Scheduling, Taints and Affinity.
