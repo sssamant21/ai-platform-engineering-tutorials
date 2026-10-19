@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **33/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **34/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -46,7 +46,7 @@
 - [031 — GPU Node Autoscaling and Karpenter](part-04-kubernetes-gpu-administration/031-gpu-node-autoscaling-karpenter.md) — [Lab](labs/031-gpu-node-autoscaling-karpenter-check.md) (published)
 - [032 — GPU Workload Rollouts and Disruptions](part-04-kubernetes-gpu-administration/032-gpu-workload-rollouts-disruptions.md) — [Lab](labs/032-gpu-workload-rollouts-disruptions-check.md) (published)
 - [033 — GPU Operator and Device Plugin Troubleshooting](part-04-kubernetes-gpu-administration/033-gpu-operator-device-plugin-troubleshooting.md) — [Lab](labs/033-gpu-operator-device-plugin-troubleshooting-check.md) (published)
-- 034 — Kubernetes GPU Platform Capstone (planned)
+- [034 — Kubernetes GPU Platform Capstone](part-04-kubernetes-gpu-administration/034-kubernetes-gpu-platform-capstone.md) — [Lab](labs/034-kubernetes-gpu-platform-capstone-check.md) (published)
 
 ## Part 05 — Cloud GPU Infrastructure (Chapters 035–042)
 
