@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 22/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 23/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -75,4 +75,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 03:** 6/9 chapters published.
 
-**Next:** Chapter 023 — NCCL Diagnostics and Hang Recovery.
+- [Chapter 023 — NCCL Diagnostics and Hang Recovery](part-03-cuda-gpu-memory-and-communication/023-nccl-diagnostics-hang-recovery.md) — [Lab](labs/023-nccl-diagnostics-hang-recovery-check.md)
+
+**Part 03:** 7/9 chapters published.
+
+**Next:** Chapter 024 — GPU Profiling and Bottleneck Analysis.
