@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **46/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **47/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -65,7 +65,7 @@
 - [044 — RDMA and InfiniBand Fundamentals](part-06-high-performance-networking/044-rdma-infiniband-fundamentals.md) — [Lab](labs/044-rdma-infiniband-fundamentals-check.md) (published)
 - [045 — AWS EFA for Distributed AI](part-06-high-performance-networking/045-aws-efa-distributed-ai.md) — [Lab](labs/045-aws-efa-distributed-ai-check.md) (published)
 - [046 — RoCE and Ethernet Fabrics](part-06-high-performance-networking/046-roce-ethernet-fabrics.md) — [Lab](labs/046-roce-ethernet-fabrics-check.md) (published)
-- 047 — GPU Direct RDMA and Communication (planned)
+- [047 — GPU Direct RDMA and Communication](part-06-high-performance-networking/047-gpu-direct-rdma-communication.md) — [Lab](labs/047-gpu-direct-rdma-communication-check.md) (published)
 - 048 — Network Congestion and Packet Loss (planned)
 - 049 — NCCL Network Performance Troubleshooting (planned)
 - 050 — AI Networking Reliability Capstone (planned)
