@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 32/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 33/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -115,4 +115,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 04:** 7/9 chapters published.
 
-**Next:** Chapter 033 — GPU Operator and Device Plugin Troubleshooting.
+- [Chapter 033 — GPU Operator and Device Plugin Troubleshooting](part-04-kubernetes-gpu-administration/033-gpu-operator-device-plugin-troubleshooting.md) — [Lab](labs/033-gpu-operator-device-plugin-troubleshooting-check.md)
+
+**Part 04:** 8/9 chapters published.
+
+**Next:** Chapter 034 — Kubernetes GPU Platform Capstone.
