@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 23/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 24/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -79,4 +79,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 03:** 7/9 chapters published.
 
-**Next:** Chapter 024 — GPU Profiling and Bottleneck Analysis.
+- [Chapter 024 — GPU Profiling and Bottleneck Analysis](part-03-cuda-gpu-memory-and-communication/024-gpu-profiling-bottleneck-analysis.md) — [Lab](labs/024-gpu-profiling-bottleneck-check.md)
+
+**Part 03:** 8/9 chapters published.
+
+**Next:** Chapter 025 — CUDA and NCCL Troubleshooting Capstone.
