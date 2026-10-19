@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 39/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 40/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -143,4 +143,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 05:** 5/8 chapters published.
 
-**Next:** Chapter 040 — Cloud GPU Identity, Storage and Security.
+- [Chapter 040 — Cloud GPU Identity, Storage and Security](part-05-cloud-gpu-infrastructure/040-cloud-gpu-identity-storage-security.md) — [Lab](labs/040-cloud-gpu-identity-storage-security-check.md)
+
+**Part 05:** 6/8 chapters published.
+
+**Next:** Chapter 041 — Multi-Cloud GPU Capacity and Cost.
