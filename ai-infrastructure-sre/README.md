@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 48/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 49/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -179,4 +179,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 06 — High Performance Networking: 6/8 chapters published.**
 
-**Next:** Chapter 049 — NCCL Network Performance Troubleshooting.
+- [Chapter 049 — NCCL Network Performance Troubleshooting](part-06-high-performance-networking/049-nccl-network-performance-troubleshooting.md) — [Lab](labs/049-nccl-network-performance-troubleshooting-check.md)
+
+**Part 06 — High Performance Networking: 7/8 chapters published.**
+
+**Next:** Chapter 050 — AI Networking Reliability Capstone.
