@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**47/100 published (47%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**48/100 published (48%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | 045 | AWS EFA for Distributed AI | Published | Pending | Pending | Pending |
 | 046 | RoCE and Ethernet Fabrics | Published | Pending | Pending | Pending |
 | 047 | GPU Direct RDMA and Communication | Published | Pending | Pending | Pending |
-| 048 | Network Congestion and Packet Loss | Planned | Pending | Pending | Pending |
+| 048 | Network Congestion and Packet Loss | Published | Pending | Pending | Pending |
 | 049 | NCCL Network Performance Troubleshooting | Planned | Pending | Pending | Pending |
 | 050 | AI Networking Reliability Capstone | Planned | Pending | Pending | Pending |
 | 051 | AI Data Storage Architecture | Planned | Pending | Pending | Pending |
