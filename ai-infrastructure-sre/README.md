@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 17/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 18/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -55,4 +55,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 03:** 1/9 chapters published.
 
-**Next:** Chapter 018 — GPU Memory Architecture and OOM.
+- [Chapter 018 — GPU Memory Architecture and OOM](part-03-cuda-gpu-memory-and-communication/018-gpu-memory-architecture-oom.md) — [Lab](labs/018-gpu-memory-architecture-oom-check.md)
+
+**Part 03:** 2/9 chapters published.
+
+**Next:** Chapter 019 — CUDA Processes, Streams and Contexts.
