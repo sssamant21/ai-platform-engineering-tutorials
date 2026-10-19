@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **28/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **29/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -41,7 +41,7 @@
 - [026 — GPU Device Plugin and Resource Discovery](part-04-kubernetes-gpu-administration/026-gpu-device-plugin-resource-discovery.md) — [Lab](labs/026-gpu-device-plugin-resource-discovery-check.md) (published)
 - [027 — GPU Operator Architecture and Lifecycle](part-04-kubernetes-gpu-administration/027-gpu-operator-architecture-lifecycle.md) — [Lab](labs/027-gpu-operator-lifecycle-check.md) (published)
 - [028 — GPU Scheduling, Taints and Affinity](part-04-kubernetes-gpu-administration/028-gpu-scheduling-taints-affinity.md) — [Lab](labs/028-gpu-scheduling-taints-affinity-check.md) (published)
-- 029 — GPU Resource Quotas and Multitenancy (planned)
+- [029 — GPU Resource Quotas and Multitenancy](part-04-kubernetes-gpu-administration/029-gpu-resource-quotas-multitenancy.md) — [Lab](labs/029-gpu-resource-quotas-multitenancy-check.md) (published)
 - 030 — GPU Pod Security and Runtime Integration (planned)
 - 031 — GPU Node Autoscaling and Karpenter (planned)
 - 032 — GPU Workload Rollouts and Disruptions (planned)
