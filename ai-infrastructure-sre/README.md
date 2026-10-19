@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 38/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 39/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -139,4 +139,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 05:** 4/8 chapters published.
 
-**Next:** Chapter 039 — AKS GPU Node Pools and Drivers.
+- [Chapter 039 — AKS GPU Node Pools and Drivers](part-05-cloud-gpu-infrastructure/039-aks-gpu-node-pools-drivers.md) — [Lab](labs/039-aks-gpu-node-pools-drivers-check.md)
+
+**Part 05:** 5/8 chapters published.
+
+**Next:** Chapter 040 — Cloud GPU Identity, Storage and Security.
