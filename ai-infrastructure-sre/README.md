@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 28/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 29/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -99,4 +99,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 04:** 3/9 chapters published.
 
-**Next:** Chapter 029 — GPU Resource Quotas and Multitenancy.
+- [Chapter 029 — GPU Resource Quotas and Multitenancy](part-04-kubernetes-gpu-administration/029-gpu-resource-quotas-multitenancy.md) — [Lab](labs/029-gpu-resource-quotas-multitenancy-check.md)
+
+**Part 04:** 4/9 chapters published.
+
+**Next:** Chapter 030 — GPU Pod Security and Runtime Integration.
