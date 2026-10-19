@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **39/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **40/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -55,7 +55,7 @@
 - [037 — AWS EFA and GPU Networking](part-05-cloud-gpu-infrastructure/037-aws-efa-gpu-networking.md) — [Lab](labs/037-aws-efa-gpu-networking-check.md) (published)
 - [038 — Azure GPU VM Architecture and Quotas](part-05-cloud-gpu-infrastructure/038-azure-gpu-vm-architecture-quotas.md) — [Lab](labs/038-azure-gpu-vm-architecture-quotas-check.md) (published)
 - [039 — AKS GPU Node Pools and Drivers](part-05-cloud-gpu-infrastructure/039-aks-gpu-node-pools-drivers.md) — [Lab](labs/039-aks-gpu-node-pools-drivers-check.md) (published)
-- 040 — Cloud GPU Identity, Storage and Security (planned)
+- [040 — Cloud GPU Identity, Storage and Security](part-05-cloud-gpu-infrastructure/040-cloud-gpu-identity-storage-security.md) — [Lab](labs/040-cloud-gpu-identity-storage-security-check.md) (published)
 - 041 — Multi-Cloud GPU Capacity and Cost (planned)
 - 042 — AWS and Azure GPU Operations Capstone (planned)
 
