@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 42/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 43/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -155,4 +155,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 05 — Cloud GPU Infrastructure: 8/8 chapters published (complete).**
 
-**Next:** Chapter 043 — AI Cluster Network Architecture (Part 06 — High Performance Networking).
+- [Chapter 043 — AI Cluster Network Architecture](part-06-high-performance-networking/043-ai-cluster-network-architecture.md) — [Lab](labs/043-ai-cluster-network-architecture-check.md)
+
+**Part 06 — High Performance Networking: 1/8 chapters published.**
+
+**Next:** Chapter 044 — RDMA and InfiniBand Fundamentals.
