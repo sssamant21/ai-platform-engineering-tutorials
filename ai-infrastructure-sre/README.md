@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 24/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 25/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -83,4 +83,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 03:** 8/9 chapters published.
 
-**Next:** Chapter 025 — CUDA and NCCL Troubleshooting Capstone.
+- [Chapter 025 — CUDA and NCCL Troubleshooting Capstone](part-03-cuda-gpu-memory-and-communication/025-cuda-nccl-troubleshooting-capstone.md) — [Lab](labs/025-cuda-nccl-troubleshooting-capstone-check.md)
+
+**Part 03 complete:** 9/9 chapters published (live validation pending).
+
+**Next:** Chapter 026 — GPU Device Plugin and Resource Discovery, beginning Part 04 — Kubernetes GPU Administration.
