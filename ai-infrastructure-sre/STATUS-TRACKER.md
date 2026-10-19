@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**50/100 published (50%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**51/100 published (51%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | 048 | Network Congestion and Packet Loss | Published | Pending | Pending | Pending |
 | 049 | NCCL Network Performance Troubleshooting | Published | Pending | Pending | Pending |
 | 050 | AI Networking Reliability Capstone | Published | Pending | Pending | Pending |
-| 051 | AI Data Storage Architecture | Planned | Pending | Pending | Pending |
+| 051 | AI Data Storage Architecture | Published | Pending | Pending | Pending |
 | 052 | Object Storage and Dataset Layout | Planned | Pending | Pending | Pending |
 | 053 | FSx for Lustre and Parallel Filesystems | Planned | Pending | Pending | Pending |
 | 054 | High Throughput Dataset Loading | Planned | Pending | Pending | Pending |
