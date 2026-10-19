@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 36/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 37/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -131,4 +131,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 05:** 2/8 chapters published.
 
-**Next:** Chapter 037 — AWS EFA and GPU Networking.
+- [Chapter 037 — AWS EFA and GPU Networking](part-05-cloud-gpu-infrastructure/037-aws-efa-gpu-networking.md) — [Lab](labs/037-aws-efa-gpu-networking-check.md)
+
+**Part 05:** 3/8 chapters published.
+
+**Next:** Chapter 038 — Azure GPU VM Architecture and Quotas.
