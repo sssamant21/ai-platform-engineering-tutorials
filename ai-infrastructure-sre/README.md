@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 60/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 61/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -227,4 +227,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 2/8 chapters published.**
 
-**Next:** Chapter 061 — Ray Cluster Operations.
+- [Chapter 061 — Ray Cluster Operations](part-08-distributed-training-operations/061-ray-cluster-operations.md) — [Lab](labs/061-ray-cluster-operations-check.md)
+
+**Part 08 — Distributed Training Operations: 3/8 chapters published.**
+
+**Next:** Chapter 062 — PyTorch Distributed and NCCL.
