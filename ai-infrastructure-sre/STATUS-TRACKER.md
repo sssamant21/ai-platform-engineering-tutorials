@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**77/100 published (77%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**78/100 published (78%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | 075 | GPU Node NotReady and Device Plugin Failures | Published | Pending | Pending | Pending |
 | 076 | CUDA Initialization and Driver Errors | Published | Pending | Pending | Pending |
 | 077 | GPU OOM and Memory Fragmentation | Published | Pending | Pending | Pending |
-| 078 | NCCL Hangs and Distributed Deadlocks | Planned | Pending | Pending | Pending |
+| 078 | NCCL Hangs and Distributed Deadlocks | Published | Pending | Pending | Pending |
 | 079 | Network and Storage Bottleneck Incidents | Planned | Pending | Pending | Pending |
 | 080 | GPU Failure Triage and Escalation | Planned | Pending | Pending | Pending |
 | 081 | Recovery Runbooks and RCA COA | Planned | Pending | Pending | Pending |
