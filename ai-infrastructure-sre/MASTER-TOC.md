@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **90/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **91/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -127,7 +127,7 @@
 
 ## Part 12 — Enterprise Operations and Final Capstones (Chapters 091–100)
 
-- 091 — Enterprise AI Infrastructure Reference Architecture (planned)
+- [091 — Enterprise AI Infrastructure Reference Architecture](part-12-enterprise-operations-and-final-capstones/091-enterprise-ai-infrastructure-reference-architecture.md) — [Lab](labs/091-enterprise-ai-infrastructure-reference-architecture-check.md) (published)
 - 092 — Build a Secure GPU Cluster Platform (planned)
 - 093 — Validate Drivers CUDA and NCCL (planned)
 - 094 — Deploy Kubernetes GPU Workloads (planned)
