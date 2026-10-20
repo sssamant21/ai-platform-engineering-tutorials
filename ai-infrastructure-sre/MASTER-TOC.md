@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **63/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **64/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -88,7 +88,7 @@
 - [061 — Ray Cluster Operations](part-08-distributed-training-operations/061-ray-cluster-operations.md) — [Lab](labs/061-ray-cluster-operations-check.md) (published)
 - [062 — PyTorch Distributed and NCCL](part-08-distributed-training-operations/062-pytorch-distributed-nccl.md) — [Lab](labs/062-pytorch-distributed-nccl-check.md) (published)
 - [063 — Training Job Scheduling and Fairness](part-08-distributed-training-operations/063-training-job-scheduling-fairness.md) — [Lab](labs/063-training-job-scheduling-fairness-check.md) (published)
-- 064 — Training Failure Recovery and Checkpoints (planned)
+- [064 — Training Failure Recovery and Checkpoints](part-08-distributed-training-operations/064-training-failure-recovery-checkpoints.md) — [Lab](labs/064-training-failure-recovery-check.md) (published)
 - 065 — Multi-Node Training Performance (planned)
 - 066 — Distributed Training SRE Capstone (planned)
 
