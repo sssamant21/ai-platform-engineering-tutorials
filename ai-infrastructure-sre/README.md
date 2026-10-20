@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 91/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 92/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -251,7 +251,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 8/8 chapters published (complete).**
 
-**Next:** Chapter 092 — Build a Secure GPU Cluster Platform (Part 12 — Enterprise Operations and Final Capstones).
+**Next:** Chapter 093 — Validate Drivers CUDA and NCCL (Part 12 — Enterprise Operations and Final Capstones).
 
 - [Chapter 067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md)
 
@@ -309,6 +309,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 090 — Capacity and Reliability Acceptance Capstone](part-11-capacity-finops-and-reliability/090-capacity-reliability-acceptance-capstone.md) — [Lab](labs/090-capacity-reliability-acceptance-capstone-check.md)
 
-**Part 12 — Enterprise Operations and Final Capstones:** 1/10 chapters published; runtime validation and independent review pending.
+**Part 12 — Enterprise Operations and Final Capstones:** 2/10 chapters published; runtime validation and independent review pending.
 
 - [Chapter 091 — Enterprise AI Infrastructure Reference Architecture](part-12-enterprise-operations-and-final-capstones/091-enterprise-ai-infrastructure-reference-architecture.md) — [Lab](labs/091-enterprise-ai-infrastructure-reference-architecture-check.md)
+
+- [Chapter 092 — Build a Secure GPU Cluster Platform](part-12-enterprise-operations-and-final-capstones/092-build-secure-gpu-cluster-platform.md) — [Lab](labs/092-build-secure-gpu-cluster-platform-check.md)
