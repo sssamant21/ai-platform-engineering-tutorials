@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **55/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **56/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -77,7 +77,7 @@
 - [053 — FSx for Lustre and Parallel Filesystems](part-07-ai-storage-data-pipelines/053-fsx-lustre-parallel-filesystems.md) — [Lab](labs/053-fsx-lustre-parallel-filesystems-check.md) (published)
 - [054 — High Throughput Dataset Loading](part-07-ai-storage-data-pipelines/054-high-throughput-dataset-loading.md) — [Lab](labs/054-high-throughput-dataset-loading-check.md) (published)
 - [055 — Checkpoint Design and Retention](part-07-ai-storage-data-pipelines/055-checkpoint-design-retention.md) — [Lab](labs/055-checkpoint-design-retention-check.md) (published)
-- 056 — Checkpoint Recovery and Consistency (planned)
+- [056 — Checkpoint Recovery and Consistency](part-07-ai-storage-data-pipelines/056-checkpoint-recovery-consistency.md) — [Lab](labs/056-checkpoint-recovery-consistency-check.md) (published)
 - 057 — Storage IOPS, Throughput and Cost (planned)
 - 058 — AI Storage Reliability Capstone (planned)
 
