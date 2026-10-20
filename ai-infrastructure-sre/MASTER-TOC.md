@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **75/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **76/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -106,7 +106,7 @@
 ## Part 10 — Incident Response and Troubleshooting (Chapters 075–082)
 
 - [075 — GPU Node NotReady and Device Plugin Failures](part-10-incident-response-and-troubleshooting/075-gpu-node-notready-device-plugin-failures.md) — [Lab](labs/075-gpu-node-notready-device-plugin-failures-check.md) (published)
-- 076 — CUDA Initialization and Driver Errors (planned)
+- [076 — CUDA Initialization and Driver Errors](part-10-incident-response-and-troubleshooting/076-cuda-initialization-driver-errors.md) — [Lab](labs/076-cuda-initialization-driver-errors-check.md) (published)
 - 077 — GPU OOM and Memory Fragmentation (planned)
 - 078 — NCCL Hangs and Distributed Deadlocks (planned)
 - 079 — Network and Storage Bottleneck Incidents (planned)
