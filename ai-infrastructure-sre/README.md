@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 97/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 98/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -251,7 +251,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 8/8 chapters published (complete).**
 
-**Next:** Chapter 098 — Run Distributed Training Failure Recovery (Part 12 — Enterprise Operations and Final Capstones).
+**Next:** Chapter 099 — Perform Enterprise AI Infrastructure Readiness Review (Part 12 — Enterprise Operations and Final Capstones).
 
 - [Chapter 067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md)
 
@@ -309,7 +309,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 090 — Capacity and Reliability Acceptance Capstone](part-11-capacity-finops-and-reliability/090-capacity-reliability-acceptance-capstone.md) — [Lab](labs/090-capacity-reliability-acceptance-capstone-check.md)
 
-**Part 12 — Enterprise Operations and Final Capstones:** 7/10 chapters published; runtime validation and independent review pending.
+**Part 12 — Enterprise Operations and Final Capstones:** 8/10 chapters published; runtime validation and independent review pending.
 
 - [Chapter 091 — Enterprise AI Infrastructure Reference Architecture](part-12-enterprise-operations-and-final-capstones/091-enterprise-ai-infrastructure-reference-architecture.md) — [Lab](labs/091-enterprise-ai-infrastructure-reference-architecture-check.md)
 
@@ -324,3 +324,5 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 - [Chapter 096 — Implement GPU SLOs and Observability](part-12-enterprise-operations-and-final-capstones/096-gpu-slos-observability.md) — [Lab](labs/096-gpu-slos-observability-check.md)
 
 - [Chapter 097 — Run GPU Hardware and Driver Incident Exercises](part-12-enterprise-operations-and-final-capstones/097-gpu-hardware-driver-incident-exercises.md) — [Lab](labs/097-gpu-hardware-driver-incident-exercises-check.md)
+
+- [Chapter 098 — Run Distributed Training Failure Recovery](part-12-enterprise-operations-and-final-capstones/098-distributed-training-failure-recovery.md) — [Lab](labs/098-distributed-training-failure-recovery-check.md)
