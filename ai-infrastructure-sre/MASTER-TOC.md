@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **88/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **89/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -122,7 +122,7 @@
 - [086 — N-1 and Multi-Zone GPU Resilience](part-11-capacity-finops-and-reliability/086-n-1-multi-zone-gpu-resilience.md) — [Lab](labs/086-n-1-multi-zone-gpu-resilience-check.md) (published)
 - [087 — GPU Cost Allocation and Unit Economics](part-11-capacity-finops-and-reliability/087-gpu-cost-allocation-unit-economics.md) — [Lab](labs/087-gpu-cost-allocation-unit-economics-check.md) (published)
 - [088 — Scaling and Queue Admission Control](part-11-capacity-finops-and-reliability/088-scaling-queue-admission-control.md) — [Lab](labs/088-scaling-queue-admission-control-check.md) (published)
-- 089 — GPU Platform DR and Continuity (planned)
+- [089 — GPU Platform DR and Continuity](part-11-capacity-finops-and-reliability/089-gpu-platform-dr-continuity.md) — [Lab](labs/089-gpu-platform-dr-continuity-check.md) (published)
 - 090 — Capacity and Reliability Acceptance Capstone (planned)
 
 ## Part 12 — Enterprise Operations and Final Capstones (Chapters 091–100)
