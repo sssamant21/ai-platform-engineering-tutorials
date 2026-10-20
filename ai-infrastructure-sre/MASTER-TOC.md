@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **79/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **80/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -110,7 +110,7 @@
 - [077 — GPU OOM and Memory Fragmentation](part-10-incident-response-and-troubleshooting/077-gpu-oom-memory-fragmentation.md) — [Lab](labs/077-gpu-oom-memory-fragmentation-check.md) (published)
 - [078 — NCCL Hangs and Distributed Deadlocks](part-10-incident-response-and-troubleshooting/078-nccl-hangs-distributed-deadlocks.md) — [Lab](labs/078-nccl-hangs-distributed-deadlocks-check.md) (published)
 - [079 — Network and Storage Bottleneck Incidents](part-10-incident-response-and-troubleshooting/079-network-storage-bottleneck-incidents.md) — [Lab](labs/079-network-storage-bottleneck-incidents-check.md) (published)
-- 080 — GPU Failure Triage and Escalation (planned)
+- [080 — GPU Failure Triage and Escalation](part-10-incident-response-and-troubleshooting/080-gpu-failure-triage-escalation.md) — [Lab](labs/080-gpu-failure-triage-escalation-check.md) (published)
 - 081 — Recovery Runbooks and RCA COA (planned)
 - 082 — AI Infrastructure Incident Capstone (planned)
 
