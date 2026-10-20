@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 62/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 63/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -235,4 +235,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 4/8 chapters published.**
 
-**Next:** Chapter 063 — Training Job Scheduling and Fairness.
+- [Chapter 063 — Training Job Scheduling and Fairness](part-08-distributed-training-operations/063-training-job-scheduling-fairness.md) — [Lab](labs/063-training-job-scheduling-fairness-check.md)
+
+**Part 08 — Distributed Training Operations: 5/8 chapters published.**
+
+**Next:** Chapter 064 — Training Failure Recovery and Checkpoints.
