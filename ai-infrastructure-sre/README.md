@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 68/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 69/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -251,10 +251,12 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 8/8 chapters published (complete).**
 
-**Next:** Chapter 069 — OpenTelemetry for AI Infrastructure (Part 09 — GPU Observability).
+**Next:** Chapter 070 — GPU Health and Xid Alerting (Part 09 — GPU Observability).
 
 - [Chapter 067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md)
 
-**Part 09 — GPU Observability:** 2/8 chapters published; live GPU validation and independent review pending.
+**Part 09 — GPU Observability:** 3/8 chapters published; live GPU validation and independent review pending.
 
 - [Chapter 068 — Prometheus and Grafana GPU Dashboards](part-09-gpu-observability/068-prometheus-grafana-gpu-dashboards.md) — [Lab](labs/068-prometheus-grafana-gpu-dashboards-check.md)
+
+- [Chapter 069 — OpenTelemetry for AI Infrastructure](part-09-gpu-observability/069-opentelemetry-ai-infrastructure.md) — [Lab](labs/069-opentelemetry-ai-infrastructure-check.md)
