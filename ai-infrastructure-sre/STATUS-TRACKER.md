@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**72/100 published (72%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**73/100 published (73%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | 070 | GPU Health and Xid Alerting | Published | Pending | Pending | Pending |
 | 071 | GPU Utilization and Capacity SLOs | Published | Pending | Pending | Pending |
 | 072 | Cluster Telemetry and Event Correlation | Published | Pending | Pending | Pending |
-| 073 | Observability Pipeline Reliability | Planned | Pending | Pending | Pending |
+| 073 | Observability Pipeline Reliability | Published | Pending | Pending | Pending |
 | 074 | GPU Observability Capstone | Planned | Pending | Pending | Pending |
 | 075 | GPU Node NotReady and Device Plugin Failures | Planned | Pending | Pending | Pending |
 | 076 | CUDA Initialization and Driver Errors | Planned | Pending | Pending | Pending |
