@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **57/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **58/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -79,7 +79,7 @@
 - [055 — Checkpoint Design and Retention](part-07-ai-storage-data-pipelines/055-checkpoint-design-retention.md) — [Lab](labs/055-checkpoint-design-retention-check.md) (published)
 - [056 — Checkpoint Recovery and Consistency](part-07-ai-storage-data-pipelines/056-checkpoint-recovery-consistency.md) — [Lab](labs/056-checkpoint-recovery-consistency-check.md) (published)
 - [057 — Storage IOPS, Throughput and Cost](part-07-ai-storage-data-pipelines/057-storage-iops-throughput-cost.md) — [Lab](labs/057-storage-iops-throughput-cost-check.md) (published)
-- 058 — AI Storage Reliability Capstone (planned)
+- [058 — AI Storage Reliability Capstone](part-07-ai-storage-data-pipelines/058-ai-storage-reliability-capstone.md) — [Lab](labs/058-ai-storage-reliability-capstone-check.md) (published)
 
 ## Part 08 — Distributed Training Operations (Chapters 059–066)
 
