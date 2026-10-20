@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 74/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 75/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -251,7 +251,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 8/8 chapters published (complete).**
 
-**Next:** Chapter 075 — GPU Node NotReady and Device Plugin Failures (Part 10 — Incident Response and Troubleshooting).
+**Next:** Chapter 076 — CUDA Initialization and Driver Errors (Part 10 — Incident Response and Troubleshooting).
 
 - [Chapter 067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md)
 
@@ -272,3 +272,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 - [Chapter 074 — GPU Observability Capstone](part-09-gpu-observability/074-gpu-observability-capstone.md) — [Lab](labs/074-gpu-observability-capstone-check.md)
 
 **Part 09 documentation complete: 8/8 chapters.** Lab execution, independent review and production acceptance remain pending.
+
+- [Chapter 075 — GPU Node NotReady and Device Plugin Failures](part-10-incident-response-and-troubleshooting/075-gpu-node-notready-device-plugin-failures.md) — [Lab](labs/075-gpu-node-notready-device-plugin-failures-check.md)
+
+**Part 10 — Incident Response and Troubleshooting:** 1/8 chapters published; live validation and independent review pending.
