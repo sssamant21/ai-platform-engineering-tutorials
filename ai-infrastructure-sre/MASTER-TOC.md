@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **98/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **99/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -135,5 +135,5 @@
 - [096 — Implement GPU SLOs and Observability](part-12-enterprise-operations-and-final-capstones/096-gpu-slos-observability.md) — [Lab](labs/096-gpu-slos-observability-check.md) (published)
 - [097 — Run GPU Hardware and Driver Incident Exercises](part-12-enterprise-operations-and-final-capstones/097-gpu-hardware-driver-incident-exercises.md) — [Lab](labs/097-gpu-hardware-driver-incident-exercises-check.md) (published)
 - [098 — Run Distributed Training Failure Recovery](part-12-enterprise-operations-and-final-capstones/098-distributed-training-failure-recovery.md) — [Lab](labs/098-distributed-training-failure-recovery-check.md) (published)
-- 099 — Perform Enterprise AI Infrastructure Readiness Review (planned)
+- [099 — Perform Enterprise AI Infrastructure Readiness Review](part-12-enterprise-operations-and-final-capstones/099-enterprise-ai-infrastructure-readiness-review.md) — [Lab](labs/099-enterprise-ai-infrastructure-readiness-review-check.md) (published)
 - 100 — Final AI Infrastructure SRE Production Assessment (planned)
