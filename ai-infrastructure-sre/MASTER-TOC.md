@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **82/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **83/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -116,7 +116,7 @@
 
 ## Part 11 — Capacity, FinOps and Reliability (Chapters 083–090)
 
-- 083 — GPU Demand Forecasting (planned)
+- [083 — GPU Demand Forecasting](part-11-capacity-finops-and-reliability/083-gpu-demand-forecasting.md) — [Lab](labs/083-gpu-demand-forecasting-check.md) (published)
 - 084 — GPU Rightsizing and Utilization (planned)
 - 085 — Capacity Reservation and Quota Governance (planned)
 - 086 — N-1 and Multi-Zone GPU Resilience (planned)
