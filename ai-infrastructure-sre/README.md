@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 58/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 59/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -219,4 +219,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 07 — AI Storage and Data Pipelines: 8/8 chapters published (complete).**
 
-**Next:** Chapter 059 — Distributed Training Architecture (Part 08).
+- [Chapter 059 — Distributed Training Architecture](part-08-distributed-training-operations/059-distributed-training-architecture.md) — [Lab](labs/059-distributed-training-architecture-check.md)
+
+**Part 08 — Distributed Training Operations: 1/8 chapters published.**
+
+**Next:** Chapter 060 — Slurm Cluster Administration.
