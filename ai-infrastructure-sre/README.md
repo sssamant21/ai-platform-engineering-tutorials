@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 73/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 74/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -251,11 +251,11 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 8/8 chapters published (complete).**
 
-**Next:** Chapter 074 — GPU Observability Capstone (Part 09 — GPU Observability).
+**Next:** Chapter 075 — GPU Node NotReady and Device Plugin Failures (Part 10 — Incident Response and Troubleshooting).
 
 - [Chapter 067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md)
 
-**Part 09 — GPU Observability:** 7/8 chapters published; live GPU validation and independent review pending.
+**Part 09 — GPU Observability:** 8/8 chapters published (documentation complete); live GPU validation and independent review pending.
 
 - [Chapter 068 — Prometheus and Grafana GPU Dashboards](part-09-gpu-observability/068-prometheus-grafana-gpu-dashboards.md) — [Lab](labs/068-prometheus-grafana-gpu-dashboards-check.md)
 
@@ -268,3 +268,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 - [Chapter 072 — Cluster Telemetry and Event Correlation](part-09-gpu-observability/072-cluster-telemetry-event-correlation.md) — [Lab](labs/072-cluster-telemetry-event-correlation-check.md)
 
 - [Chapter 073 — Observability Pipeline Reliability](part-09-gpu-observability/073-observability-pipeline-reliability.md) — [Lab](labs/073-observability-pipeline-reliability-check.md)
+
+- [Chapter 074 — GPU Observability Capstone](part-09-gpu-observability/074-gpu-observability-capstone.md) — [Lab](labs/074-gpu-observability-capstone-check.md)
+
+**Part 09 documentation complete: 8/8 chapters.** Lab execution, independent review and production acceptance remain pending.
