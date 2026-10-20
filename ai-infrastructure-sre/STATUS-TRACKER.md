@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**67/100 published (66%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**68/100 published (68%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | 065 | Multi-Node Training Performance | Published | Pending | Pending | Pending |
 | 066 | Distributed Training SRE Capstone | Published | Pending | Pending | Pending |
 | 067 | DCGM Exporter and GPU Metrics | Published | Pending | Pending | Pending |
-| 068 | Prometheus and Grafana GPU Dashboards | Planned | Pending | Pending | Pending |
+| 068 | Prometheus and Grafana GPU Dashboards | Published | Pending | Pending | Pending |
 | 069 | OpenTelemetry for AI Infrastructure | Planned | Pending | Pending | Pending |
 | 070 | GPU Health and Xid Alerting | Planned | Pending | Pending | Pending |
 | 071 | GPU Utilization and Capacity SLOs | Planned | Pending | Pending | Pending |
