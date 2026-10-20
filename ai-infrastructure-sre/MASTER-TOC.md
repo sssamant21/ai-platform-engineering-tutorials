@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **65/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **66/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -90,7 +90,7 @@
 - [063 — Training Job Scheduling and Fairness](part-08-distributed-training-operations/063-training-job-scheduling-fairness.md) — [Lab](labs/063-training-job-scheduling-fairness-check.md) (published)
 - [064 — Training Failure Recovery and Checkpoints](part-08-distributed-training-operations/064-training-failure-recovery-checkpoints.md) — [Lab](labs/064-training-failure-recovery-check.md) (published)
 - [065 — Multi-Node Training Performance](part-08-distributed-training-operations/065-multi-node-training-performance.md) — [Lab](labs/065-multi-node-training-performance-check.md) (published)
-- 066 — Distributed Training SRE Capstone (planned)
+- [066 — Distributed Training SRE Capstone](part-08-distributed-training-operations/066-distributed-training-sre-capstone.md) — [Lab](labs/066-distributed-training-sre-capstone-check.md) (published)
 
 ## Part 09 — GPU Observability (Chapters 067–074)
 
