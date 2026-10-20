@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **95/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **96/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -132,7 +132,7 @@
 - [093 — Validate Drivers CUDA and NCCL](part-12-enterprise-operations-and-final-capstones/093-validate-drivers-cuda-nccl.md) — [Lab](labs/093-validate-drivers-cuda-nccl-check.md) (published)
 - [094 — Deploy Kubernetes GPU Workloads](part-12-enterprise-operations-and-final-capstones/094-deploy-kubernetes-gpu-workloads.md) — [Lab](labs/094-deploy-kubernetes-gpu-workloads-check.md) (published)
 - [095 — Implement Storage and Network Performance Tests](part-12-enterprise-operations-and-final-capstones/095-storage-network-performance-tests.md) — [Lab](labs/095-storage-network-performance-tests-check.md) (published)
-- 096 — Implement GPU SLOs and Observability (planned)
+- [096 — Implement GPU SLOs and Observability](part-12-enterprise-operations-and-final-capstones/096-gpu-slos-observability.md) — [Lab](labs/096-gpu-slos-observability-check.md) (published)
 - 097 — Run GPU Hardware and Driver Incident Exercises (planned)
 - 098 — Run Distributed Training Failure Recovery (planned)
 - 099 — Perform Enterprise AI Infrastructure Readiness Review (planned)
