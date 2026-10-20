@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**57/100 published (57%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**58/100 published (58%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | 055 | Checkpoint Design and Retention | Published | Pending | Pending | Pending |
 | 056 | Checkpoint Recovery and Consistency | Published | Pending | Pending | Pending |
 | 057 | Storage IOPS, Throughput and Cost | Published | Pending | Pending | Pending |
-| 058 | AI Storage Reliability Capstone | Planned | Pending | Pending | Pending |
+| 058 | AI Storage Reliability Capstone | Published | Pending | Pending | Pending |
 | 059 | Distributed Training Architecture | Planned | Pending | Pending | Pending |
 | 060 | Slurm Cluster Administration | Planned | Pending | Pending | Pending |
 | 061 | Ray Cluster Operations | Planned | Pending | Pending | Pending |
