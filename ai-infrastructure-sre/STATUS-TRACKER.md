@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**84/100 published (84%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**85/100 published (85%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | 082 | AI Infrastructure Incident Capstone | Published | Pending | Pending | Pending |
 | 083 | GPU Demand Forecasting | Published | Pending | Pending | Pending |
 | 084 | GPU Rightsizing and Utilization | Published | Pending | Pending | Pending |
-| 085 | Capacity Reservation and Quota Governance | Planned | Pending | Pending | Pending |
+| 085 | Capacity Reservation and Quota Governance | Published | Pending | Pending | Pending |
 | 086 | N-1 and Multi-Zone GPU Resilience | Planned | Pending | Pending | Pending |
 | 087 | GPU Cost Allocation and Unit Economics | Planned | Pending | Pending | Pending |
 | 088 | Scaling and Queue Admission Control | Planned | Pending | Pending | Pending |
