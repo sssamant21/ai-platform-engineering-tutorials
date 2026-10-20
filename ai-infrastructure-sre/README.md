@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 56/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 57/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -211,4 +211,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 07 — AI Storage and Data Pipelines: 6/8 chapters published.**
 
-**Next:** Chapter 057 — Storage IOPS, Throughput and Cost.
+- [Chapter 057 — Storage IOPS, Throughput and Cost](part-07-ai-storage-data-pipelines/057-storage-iops-throughput-cost.md) — [Lab](labs/057-storage-iops-throughput-cost-check.md)
+
+**Part 07 — AI Storage and Data Pipelines: 7/8 chapters published.**
+
+**Next:** Chapter 058 — AI Storage Reliability Capstone.
