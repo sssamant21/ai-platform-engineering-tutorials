@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 95/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 96/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -251,7 +251,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 08 — Distributed Training Operations: 8/8 chapters published (complete).**
 
-**Next:** Chapter 096 — Implement GPU SLOs and Observability (Part 12 — Enterprise Operations and Final Capstones).
+**Next:** Chapter 097 — Run GPU Hardware and Driver Incident Exercises (Part 12 — Enterprise Operations and Final Capstones).
 
 - [Chapter 067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md)
 
@@ -309,7 +309,7 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 - [Chapter 090 — Capacity and Reliability Acceptance Capstone](part-11-capacity-finops-and-reliability/090-capacity-reliability-acceptance-capstone.md) — [Lab](labs/090-capacity-reliability-acceptance-capstone-check.md)
 
-**Part 12 — Enterprise Operations and Final Capstones:** 5/10 chapters published; runtime validation and independent review pending.
+**Part 12 — Enterprise Operations and Final Capstones:** 6/10 chapters published; runtime validation and independent review pending.
 
 - [Chapter 091 — Enterprise AI Infrastructure Reference Architecture](part-12-enterprise-operations-and-final-capstones/091-enterprise-ai-infrastructure-reference-architecture.md) — [Lab](labs/091-enterprise-ai-infrastructure-reference-architecture-check.md)
 
@@ -320,3 +320,5 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 - [Chapter 094 — Deploy Kubernetes GPU Workloads](part-12-enterprise-operations-and-final-capstones/094-deploy-kubernetes-gpu-workloads.md) — [Lab](labs/094-deploy-kubernetes-gpu-workloads-check.md)
 
 - [Chapter 095 — Implement Storage and Network Performance Tests](part-12-enterprise-operations-and-final-capstones/095-storage-network-performance-tests.md) — [Lab](labs/095-storage-network-performance-tests-check.md)
+
+- [Chapter 096 — Implement GPU SLOs and Observability](part-12-enterprise-operations-and-final-capstones/096-gpu-slos-observability.md) — [Lab](labs/096-gpu-slos-observability-check.md)
