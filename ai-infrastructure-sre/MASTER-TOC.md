@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **78/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **79/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -109,7 +109,7 @@
 - [076 — CUDA Initialization and Driver Errors](part-10-incident-response-and-troubleshooting/076-cuda-initialization-driver-errors.md) — [Lab](labs/076-cuda-initialization-driver-errors-check.md) (published)
 - [077 — GPU OOM and Memory Fragmentation](part-10-incident-response-and-troubleshooting/077-gpu-oom-memory-fragmentation.md) — [Lab](labs/077-gpu-oom-memory-fragmentation-check.md) (published)
 - [078 — NCCL Hangs and Distributed Deadlocks](part-10-incident-response-and-troubleshooting/078-nccl-hangs-distributed-deadlocks.md) — [Lab](labs/078-nccl-hangs-distributed-deadlocks-check.md) (published)
-- 079 — Network and Storage Bottleneck Incidents (planned)
+- [079 — Network and Storage Bottleneck Incidents](part-10-incident-response-and-troubleshooting/079-network-storage-bottleneck-incidents.md) — [Lab](labs/079-network-storage-bottleneck-incidents-check.md) (published)
 - 080 — GPU Failure Triage and Escalation (planned)
 - 081 — Recovery Runbooks and RCA COA (planned)
 - 082 — AI Infrastructure Incident Capstone (planned)
