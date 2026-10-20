@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **71/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **72/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -99,7 +99,7 @@
 - [069 — OpenTelemetry for AI Infrastructure](part-09-gpu-observability/069-opentelemetry-ai-infrastructure.md) — [Lab](labs/069-opentelemetry-ai-infrastructure-check.md) (published)
 - [070 — GPU Health and Xid Alerting](part-09-gpu-observability/070-gpu-health-xid-alerting.md) — [Lab](labs/070-gpu-health-xid-alerting-check.md) (published)
 - [071 — GPU Utilization and Capacity SLOs](part-09-gpu-observability/071-gpu-utilization-capacity-slos.md) — [Lab](labs/071-gpu-utilization-capacity-slos-check.md) (published)
-- 072 — Cluster Telemetry and Event Correlation (planned)
+- [072 — Cluster Telemetry and Event Correlation](part-09-gpu-observability/072-cluster-telemetry-event-correlation.md) — [Lab](labs/072-cluster-telemetry-event-correlation-check.md) (published)
 - 073 — Observability Pipeline Reliability (planned)
 - 074 — GPU Observability Capstone (planned)
 
