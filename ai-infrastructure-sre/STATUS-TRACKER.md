@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**62/100 published (62%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**63/100 published (63%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | 060 | Slurm Cluster Administration | Published | Pending | Pending | Pending |
 | 061 | Ray Cluster Operations | Published | Pending | Pending | Pending |
 | 062 | PyTorch Distributed and NCCL | Published | Pending | Pending | Pending |
-| 063 | Training Job Scheduling and Fairness | Planned | Pending | Pending | Pending |
+| 063 | Training Job Scheduling and Fairness | Published | Pending | Pending | Pending |
 | 064 | Training Failure Recovery and Checkpoints | Planned | Pending | Pending | Pending |
 | 065 | Multi-Node Training Performance | Planned | Pending | Pending | Pending |
 | 066 | Distributed Training SRE Capstone | Planned | Pending | Pending | Pending |
