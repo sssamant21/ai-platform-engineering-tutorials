@@ -1,6 +1,6 @@
 # AI Infrastructure SRE — Publication and Validation Tracker
 
-**92/100 published (92%).** Runtime validation, security review and production acceptance are independent pending milestones.
+**93/100 published (93%).** Runtime validation, security review and production acceptance are independent pending milestones.
 
 | Chapter | Title | Publication | Offline lab execution | Live staging validation | Review |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | 090 | Capacity and Reliability Acceptance Capstone | Published | Pending | Pending | Pending |
 | 091 | Enterprise AI Infrastructure Reference Architecture | Published | Pending | Pending | Pending |
 | 092 | Build a Secure GPU Cluster Platform | Published | Pending | Pending | Pending |
-| 093 | Validate Drivers CUDA and NCCL | Planned | Pending | Pending | Pending |
+| 093 | Validate Drivers CUDA and NCCL | Published | Pending | Pending | Pending |
 | 094 | Deploy Kubernetes GPU Workloads | Planned | Pending | Pending | Pending |
 | 095 | Implement Storage and Network Performance Tests | Planned | Pending | Pending | Pending |
 | 096 | Implement GPU SLOs and Observability | Planned | Pending | Pending | Pending |
