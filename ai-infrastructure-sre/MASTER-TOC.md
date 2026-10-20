@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **58/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **59/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -83,7 +83,7 @@
 
 ## Part 08 — Distributed Training Operations (Chapters 059–066)
 
-- 059 — Distributed Training Architecture (planned)
+- [059 — Distributed Training Architecture](part-08-distributed-training-operations/059-distributed-training-architecture.md) — [Lab](labs/059-distributed-training-architecture-check.md) (published)
 - 060 — Slurm Cluster Administration (planned)
 - 061 — Ray Cluster Operations (planned)
 - 062 — PyTorch Distributed and NCCL (planned)
