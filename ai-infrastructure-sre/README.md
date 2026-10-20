@@ -2,7 +2,7 @@
 
 A **100-chapter, 12-part** production-focused curriculum for engineers supporting GPU infrastructure, Kubernetes, cloud compute, CUDA/NCCL, high-performance networking, distributed training, storage, reliability and incident response.
 
-**Published:** 55/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
+**Published:** 56/100. **Lab execution:** pending. **Technical/security review:** pending. Published documentation is not equivalent to tested infrastructure.
 
 [Master TOC](MASTER-TOC.md) · [Status Tracker](STATUS-TRACKER.md)
 
@@ -207,4 +207,8 @@ A **100-chapter, 12-part** production-focused curriculum for engineers supportin
 
 **Part 07 — AI Storage and Data Pipelines: 5/8 chapters published.**
 
-**Next:** Chapter 056 — Checkpoint Recovery and Consistency.
+- [Chapter 056 — Checkpoint Recovery and Consistency](part-07-ai-storage-data-pipelines/056-checkpoint-recovery-consistency.md) — [Lab](labs/056-checkpoint-recovery-consistency-check.md)
+
+**Part 07 — AI Storage and Data Pipelines: 6/8 chapters published.**
+
+**Next:** Chapter 057 — Storage IOPS, Throughput and Cost.
