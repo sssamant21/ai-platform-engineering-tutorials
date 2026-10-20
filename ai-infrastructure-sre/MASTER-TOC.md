@@ -1,6 +1,6 @@
 # AI Infrastructure Engineering & SRE — Master Table of Contents
 
-**100 chapters across 12 parts.** Publication: **67/100**; local and cloud lab validation pending.
+**100 chapters across 12 parts.** Publication: **68/100**; local and cloud lab validation pending.
 
 ## Part 01 — Foundations and Architecture (Chapters 001–008)
 
@@ -95,7 +95,7 @@
 ## Part 09 — GPU Observability (Chapters 067–074)
 
 - [067 — DCGM Exporter and GPU Metrics](part-09-gpu-observability/067-dcgm-exporter-gpu-metrics.md) — [Lab](labs/067-dcgm-exporter-gpu-metrics-check.md) (published)
-- 068 — Prometheus and Grafana GPU Dashboards (planned)
+- [068 — Prometheus and Grafana GPU Dashboards](part-09-gpu-observability/068-prometheus-grafana-gpu-dashboards.md) — [Lab](labs/068-prometheus-grafana-gpu-dashboards-check.md) (published)
 - 069 — OpenTelemetry for AI Infrastructure (planned)
 - 070 — GPU Health and Xid Alerting (planned)
 - 071 — GPU Utilization and Capacity SLOs (planned)
